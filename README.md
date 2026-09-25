@@ -17,6 +17,8 @@ Figures and tables are analysis outputs. Slide wording is to be written by the s
 | scripts/final_figures.py | Re-draws all figures from data/results.json |
 | scripts/requirements.txt | Python packages: `python -m pip install -r requirements.txt` |
 | docs/Figures_Method_and_Reproduction_Guide.pdf | Step-by-step method, data sources, checks and what each figure shows |
+| scripts/final_analysis_v2.py, scripts/final_figures_v2.py | Version 2: same numbers; figures to the Nature Reviews artwork guide (vector PDF + 300 dpi PNG, 8 pt text, ≤180 × 215 mm, ≤6 panels, units as ha yr⁻¹). Run analysis_v2 then figures_v2 |
+| figures_v2/, tables_v2/ | Version 2 outputs: Fig1-Fig10 (+ panels/, supplementary/ outline maps, caption_notes.md); Table 1 as CSV/XLSX |
 
 ## Decisions applied
 - Sites with parts are one site; area and perimeter = sum of parts: Surat LF-2 Khajod (a+b+c), Vadodara LF-2 (old dump + a + b), Ahmedabad LF-2 (a+b).
