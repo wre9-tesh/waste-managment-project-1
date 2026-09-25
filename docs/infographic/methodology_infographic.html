@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Methodology Infographic</title>
+<style>
+  :root{
+    --ink:#1a1a1a; --ink2:#4d4d4d; --muted:#7a7a7a; --rule:#dcdcd6; --paper:#ffffff; --panel:#f6f6f3;
+    --a:#0f6e66; --a-soft:#e3f1ef; --b:#9a4a0a; --b-soft:#f8ecdf;
+    --breach:#c0392b; --cond:#d68910; --ok:#1e8449; --na:#8c8c8c;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{width:1920px;height:1080px;background:var(--paper);color:var(--ink);
+       font-family:Arial,"Liberation Sans",Helvetica,sans-serif;font-size:17px;line-height:1.3;padding:30px 38px}
+  header{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:2px solid var(--ink);padding-bottom:10px}
+  h1{font-size:34px;letter-spacing:-.3px}
+  .sub{color:var(--ink2);font-size:18px;margin-top:4px}
+  .meta{text-align:right;color:var(--ink2);font-size:15px}
+  .meta b{color:var(--ink)}
+  .lane{display:grid;grid-template-columns:190px 1fr;gap:14px;margin-top:22px}
+  .lanehead{border-radius:10px;padding:14px 14px;color:#fff;display:flex;flex-direction:column;justify-content:center}
+  .lanehead .tag{font-size:14px;opacity:.85;text-transform:uppercase;letter-spacing:1px}
+  .lanehead .name{font-size:23px;font-weight:bold;margin-top:4px;line-height:1.15}
+  .lanehead .q{font-size:14.5px;margin-top:8px;opacity:.92}
+  .A .lanehead{background:var(--a)} .B .lanehead{background:var(--b)} .S .lanehead{background:#3d3d3d}
+  .steps{display:grid;gap:0;align-items:stretch}
+  .step{position:relative;background:var(--panel);border-radius:10px;padding:12px 14px 12px 14px;margin-right:26px}
+  .step:last-child{margin-right:0}
+  .step:not(:last-child)::after{content:"";position:absolute;right:-21px;top:50%;transform:translateY(-50%);
+       border-left:15px solid #9a9a9a;border-top:11px solid transparent;border-bottom:11px solid transparent}
+  .A .step{background:var(--a-soft)} .B .step{background:var(--b-soft)}
+  .num{display:inline-flex;width:26px;height:26px;border-radius:50%;color:#fff;font-weight:bold;font-size:15px;
+       align-items:center;justify-content:center;margin-right:8px;flex:none}
+  .A .num{background:var(--a)} .B .num{background:var(--b)} .S .num{background:#3d3d3d}
+  .st{display:flex;align-items:center;font-weight:bold;font-size:18px;margin-bottom:6px}
+  ul{list-style:none} li{padding-left:13px;position:relative;margin:3px 0;font-size:16px;color:var(--ink)}
+  li::before{content:"";position:absolute;left:0;top:8px;width:5px;height:5px;border-radius:50%;background:var(--ink2)}
+  .f{font-family:"DejaVu Serif",Georgia,serif;font-size:16px;background:#fff;border:1px solid var(--rule);border-radius:6px;
+     padding:3px 7px;display:inline-block;margin:3px 0 2px}
+  i.v{font-family:"DejaVu Serif",Georgia,serif}
+  .small{font-size:14px;color:var(--ink2)}
+  /* rules grid */
+  .rules{display:grid;grid-template-columns:repeat(6,1fr);gap:6px;margin-top:6px}
+  .rule{background:#fff;border:1px solid var(--rule);border-radius:7px;padding:5px 4px;text-align:center;font-size:13.5px;line-height:1.15}
+  .rule svg{width:26px;height:26px;display:block;margin:0 auto 2px}
+  .rule b{display:block;font-size:14px}
+  .rule.na{opacity:.5;border-style:dashed}
+  .verdicts{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+  .vd{font-size:14px;border-radius:5px;padding:3px 8px;color:#fff;font-weight:bold}
+  .vd.br{background:var(--breach)} .vd.co{background:var(--cond)} .vd.ck{background:#b7950b} .vd.ok{background:var(--ok)} .vd.na{background:var(--na)}
+  footer{margin-top:14px;display:flex;justify-content:space-between;color:var(--muted);font-size:13.5px;border-top:1px solid var(--rule);padding-top:8px}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Methodology: dumpsite footprints 2016–2026 and siting check against the SWM Rules 2026</h1>
+    <div class="sub">14 dumpsites in 10 Gujarat cities · six epochs · manual tracing in satellite imagery → area, perimeter and shape → trends → rule-by-rule siting test</div>
+  </div>
+  <div class="meta"><b>14</b> sites · <b>6</b> epochs · <b>84</b> site-epochs<br><b>103</b> outlines · <b>10 of 12</b> siting rules testable</div>
+</header>
+
+<!-- 0: shared input -->
+<section class="lane S">
+  <div class="lanehead"><span class="tag">Common input</span><span class="name">Outlines</span><span class="q">What was waste, where, and when?</span></div>
+  <div class="steps" style="grid-template-columns:1.25fr 1.1fr 1fr">
+    <div class="step"><div class="st"><span class="num">1</span>Imagery and epochs</div>
+      <ul><li>Google Earth Pro historical imagery (sub-metre)</li>
+          <li>Epochs 2016, 2018, 2020, 2022, 2024, 2026 (2025 image used for 2024 at 5 sites)</li>
+          <li>Automatic Sentinel-2 outlines tested and rejected: cleared ground looks like waste at 10 m</li></ul></div>
+    <div class="step"><div class="st"><span class="num">2</span>Manual tracing</div>
+      <ul><li>Waste footprint traced per site, part and epoch</li>
+          <li>Leachate pools, sheds, trommels and cleared ground excluded</li>
+          <li>“Remediated” pin = no waste that year (area 0)</li></ul></div>
+    <div class="step"><div class="st"><span class="num">3</span>One master KML</div>
+      <ul><li>122 placemarks: 103 outlines + 19 pins</li>
+          <li>Names read as site · part · year (e.g. Surat LF-2(c) 2026)</li>
+          <li>Pilot on 5 sites: all geometries valid</li></ul></div>
+  </div>
+</section>
+
+<!-- A: area & perimeter -->
+<section class="lane A">
+  <div class="lanehead"><span class="tag">Part A</span><span class="name">Area and perimeter</span><span class="q">How did each footprint change?</span></div>
+  <div class="steps" style="grid-template-columns:1fr 1.15fr 1.15fr 1.25fr">
+    <div class="step"><div class="st"><span class="num">4</span>Project and merge</div>
+      <ul><li>WGS84 → UTM zone 43N (EPSG:32643)</li>
+          <li>Parts of one site summed (Khajod a+b+c, Vadodara 2, Ahmedabad 2)</li>
+          <li>Missing part in a traced year = 0</li></ul></div>
+    <div class="step"><div class="st"><span class="num">5</span>Area and perimeter</div>
+      <span class="f"><i class="v">A</i> = Σ area of parts (ha)</span><br>
+      <span class="f"><i class="v">P</i> = Σ perimeter (5 m simplified)</span>
+      <ul><li>Edge uncertainty: ±2 m buffer</li></ul>
+      <span class="f">±<i class="v">U</i> = [<i class="v">A</i><sub>+2 m</sub> − <i class="v">A</i><sub>−2 m</sub>] / 2</span></div>
+    <div class="step"><div class="st"><span class="num">6</span>Shape</div>
+      <span class="f">Compactness = 4π<i class="v">A</i> / <i class="v">P</i><sup>2</sup></span><br>
+      <span class="f">Shape index = <i class="v">P</i> / 2√(π<i class="v">A</i>)</span><br>
+      <span class="f">Fractal dimension = 2 ln(<i class="v">P</i>/4) / ln <i class="v">A</i></span>
+      <ul><li>1 = circle; lower compactness = irregular or fragmented</li></ul></div>
+    <div class="step"><div class="st"><span class="num">7</span>Change and trend</div>
+      <ul><li>Net change 2016→2026, largest extent and year</li>
+          <li>Theil–Sen slope (ha yr<sup>−1</sup>); Mann–Kendall exact <i class="v">P</i>, <i class="v">n</i> = 6</li>
+          <li>Class threshold = max(15%, 2 × edge uncertainty): expanding · contracting · rise and fall · cleared then regrowing</li>
+          <li>Land turnover: newly covered vs no longer waste (outline overlay)</li></ul></div>
+  </div>
+</section>
+
+<!-- B: SWM 2026 siting check -->
+<section class="lane B">
+  <div class="lanehead"><span class="tag">Part B</span><span class="name">SWM Rules 2026 siting check</span><span class="q">Where would the rules allow a landfill?</span></div>
+  <div class="steps" style="grid-template-columns:2.35fr 1.05fr 1.05fr">
+    <div class="step"><div class="st"><span class="num">8</span>12 criteria · S.O. 388(E), 27 Jan 2026, Schedule II(A)(vii)–(viii)</div>
+      <div class="rules">
+        <div class="rule"><svg viewBox="0 0 24 24" fill="none" stroke="#1f5f99" stroke-width="2"><path d="M2 8c3-3 5 3 8 0s5 3 8 0 4 1 4 1M2 14c3-3 5 3 8 0s5 3 8 0 4 1 4 1"/></svg><b>River</b>100 m</div>
+        <div class="rule"><svg viewBox="0 0 24 24"><ellipse cx="12" cy="13" rx="10" ry="6" fill="#7fb3d5"/></svg><b>Pond</b>200 m</div>
+        <div class="rule"><svg viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2"><path d="M7 22 10 2M17 22 14 2"/><path d="M12 5v3M12 11v3M12 17v3" stroke="#d4ac0d"/></svg><b>NH / SH</b>200 m</div>
+        <div class="rule"><svg viewBox="0 0 24 24" fill="#8d6e63"><path d="M3 12 12 4l9 8h-3v8h-4v-5h-4v5H6v-8z"/></svg><b>Habitation</b>200 m</div>
+        <div class="rule"><svg viewBox="0 0 24 24"><circle cx="12" cy="9" r="7" fill="#58a55c"/><rect x="11" y="14" width="2" height="8" fill="#6d4c41"/></svg><b>Public park</b>200 m</div>
+        <div class="rule na"><svg viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2"><path d="M6 10h12v11H6zM4 10h16M12 3v7"/></svg><b>Water well</b>200 m · n/a</div>
+        <div class="rule"><svg viewBox="0 0 24 24" fill="#444"><path d="M21 16v-2l-8-5V3.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5z"/></svg><b>Airport</b>20 km (10–20 NOC)</div>
+        <div class="rule"><svg viewBox="0 0 24 24" fill="none" stroke="#2e86c1" stroke-width="2"><path d="M2 17c3-3 5 3 8 0s5 3 8 0 4 1 4 1"/><path d="M5 12h14" stroke="#555"/><path d="M8 12V6h8v6" stroke="#555"/></svg><b>Flood plain</b>100-year</div>
+        <div class="rule"><svg viewBox="0 0 24 24" fill="none" stroke="#1f618d" stroke-width="2"><path d="M2 20h20M4 16c2-2 4 2 6 0s4 2 6 0 4 2 6 0"/><circle cx="17" cy="6" r="3" stroke="#d4ac0d"/></svg><b>Coastal zone</b>CRZ</div>
+        <div class="rule"><svg viewBox="0 0 24 24" fill="none" stroke="#1e8449" stroke-width="2"><path d="M6 20V9M10 20V6M14 20V8M18 20V11"/><path d="M2 21h20" stroke="#5dade2"/></svg><b>Wetland</b>not permitted</div>
+        <div class="rule"><svg viewBox="0 0 24 24" fill="#1e8449"><path d="M20 3C9 3 4 9 4 16c0 2 1 4 1 4s1-6 7-9c-4 4-5 7-5 9 8 0 13-6 13-17z"/></svg><b>Eco-fragile</b>habitat / ESZ</div>
+        <div class="rule na"><svg viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2"><path d="M3 5l6-2 6 2 6-2v16l-6 2-6-2-6 2z"/><path d="M9 3v16M15 5v16"/></svg><b>Land-use plan</b>n/a</div>
+      </div>
+      <div class="small" style="margin-top:5px">Dashed = not testable with open data (no public well map; Development Plan maps not in GIS).</div></div>
+    <div class="step"><div class="st"><span class="num">9</span>Open data layers</div>
+      <ul><li>OpenStreetMap: rivers, ponds, roads, parks, wetlands, coast, protected areas</li>
+          <li>Overture buildings + GHSL 2018 residential cells</li>
+          <li>JRC / Copernicus 100-year flood map (90 m)</li>
+          <li>Aerodromes: OSM + OurAirports reference points</li></ul></div>
+    <div class="step"><div class="st"><span class="num">10</span>Measure and judge</div>
+      <ul><li>2026 outline (2016 for comparison)</li>
+          <li>Edge-to-edge distance in a site-centred equidistant projection</li>
+          <li>Flood: ≥ 10% of outline inside = breach</li>
+          <li>Habitation: ≥ 5 homes in 200 m + imagery review</li></ul>
+      <div class="verdicts"><span class="vd br">Breach</span><span class="vd co">Conditional</span><span class="vd ck">Check</span><span class="vd ok">OK</span></div></div>
+  </div>
+</section>
+
+<!-- outputs -->
+<section class="lane S">
+  <div class="lanehead"><span class="tag">Quality control</span><span class="name">Checks and outputs</span></div>
+  <div class="steps" style="grid-template-columns:1fr 1fr 1fr">
+    <div class="step"><div class="st"><span class="num">11</span>Reproducible</div>
+      <ul><li>Python scripts re-run from the KML; tables byte-identical on re-run</li>
+          <li>Hand check in QGIS / Google Earth Pro (area, perimeter, distances)</li></ul></div>
+    <div class="step"><div class="st"><span class="num">12</span>Independent checks</div>
+      <ul><li>Geodesic vs UTM area: ≤ 0.65% difference</li>
+          <li>Siting distances recomputed by a second route: agree to 0.1 m</li></ul></div>
+    <div class="step"><div class="st"><span class="num">13</span>Outputs</div>
+      <ul><li>Per site and epoch: area, perimeter, shape, trend class</li>
+          <li>Site × rule verdict matrix (14 × 10 = 140 checks), 2016 vs 2026</li></ul></div>
+  </div>
+</section>
+
+<footer>
+  <span>Sources: Google Earth Pro imagery · Gazette of India S.O. 388(E) (SWM Rules 2026) · OpenStreetMap (ODbL) · Overture Maps · JRC GHSL · JRC/Copernicus flood hazard map · OurAirports · DataMeet</span>
+  <span>Integrated Waste Management and Circular Economy · mid-semester project</span>
+</footer>
+</body>
+</html>
