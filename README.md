@@ -15,6 +15,8 @@ Figures and tables are analysis outputs. Slide wording is to be written by the s
 | data/gujarat_boundary.geojson | Gujarat state boundary (DataMeet India maps) for the study map |
 | scripts/final_analysis.py | Re-run after any KML edit: `python final_analysis.py` |
 | scripts/final_figures.py | Re-draws all figures from data/results.json |
+| scripts/requirements.txt | Python packages: `python -m pip install -r requirements.txt` |
+| docs/Figures_Method_and_Reproduction_Guide.pdf | Step-by-step method, data sources, checks and what each figure shows |
 
 ## Decisions applied
 - Sites with parts are one site; area and perimeter = sum of parts: Surat LF-2 Khajod (a+b+c), Vadodara LF-2 (old dump + a + b), Ahmedabad LF-2 (a+b).
