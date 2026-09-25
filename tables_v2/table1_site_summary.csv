@@ -1,0 +1,15 @@
+﻿Site,City group,Area 2016 (ha),Area 2026 (ha),Net change (%),Largest area (ha),Year of largest area,Theil–Sen slope (ha yr⁻¹),Mann–Kendall S,Mann–Kendall exact P,Perimeter 2016 (m),Perimeter 2026 (m),Trajectory class
+Ahmedabad 1 (Pirana),Five most populous cities,38.5,29.9,-22,38.7,2020,-1.01,-9,0.136,3703,3172,Contracting
+Ahmedabad 2,Five most populous cities,8.5,8.2,-3,18.0,2022,0.66,3,0.719,1857,1447,Rise and fall
+Ahmedabad 3,Five most populous cities,3.1,8.5,175,8.5,2024,0.65,14,0.006,709,1169,Expanding
+Bhavnagar,Five most populous cities,3.7,14.8,299,19.7,2020,0.45,1,1.0,1030,2862,Rise and fall
+Rajkot,Five most populous cities,7.3,28.1,285,28.3,2024,2.5,13,0.017,1676,2876,Expanding
+Surat 1 (Bhatar),Five most populous cities,2.0,0.4,-79,2.0,2016,-0.18,-15,0.003,664,322,Contracting
+Surat 2 (Khajod),Five most populous cities,68.7,31.2,-55,68.7,2016,-2.47,-7,0.272,5517,4704,Cleared then regrowing
+Vadodara 1,Five most populous cities,3.0,12.9,326,12.9,2026,1.07,15,0.003,737,2290,Expanding
+Vadodara 2,Five most populous cities,7.0,0.7,-89,7.0,2016,-0.64,-13,0.017,1950,678,Contracting
+Bhuj,Other cities,5.0,6.7,34,7.7,2024,0.31,9,0.136,2021,1889,Expanding
+Gandhinagar,Other cities,1.1,12.6,1033,12.6,2026,1.28,13,0.017,417,3024,Expanding
+Jamnagar,Other cities,1.6,2.8,80,2.9,2020,0.04,5,0.469,571,751,Expanding
+Mehsana,Other cities,2.6,2.8,8,4.3,2024,0.08,5,0.469,667,1527,Rise and fall
+Vapi,Other cities,0.5,1.4,167,1.7,2022,0.1,9,0.136,384,646,Expanding
