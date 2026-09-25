@@ -1,6 +1,6 @@
 # Project Context: Gujarat Dumpsite RS-GIS Study
 
-**Last updated:** Friday 25 September 2026, ~2:30 am (volume run for all 12 sites)
+**Last updated:** Friday 25 September 2026, ~11:40 pm IST (final area results for 14 sites in repo; volume run for 14 sites in progress)
 **Submission:** Saturday 26 September 2026, 2:00 pm
 **Previous version:** old/context_22Sep_superseded.md (earlier progress was discarded; the project restarted from zero on 22 Sep)
 
@@ -12,10 +12,10 @@ Solo PhD student, Civil Engineering, IIT Gandhinagar (MIR Lab). Mid-semester pro
 ## Scope (fixed)
 | Component | Specification |
 |---|---|
-| Sites | 15 dumpsites in 10 cities (SUR-03 dropped): 5 most populous (Ahmedabad, Surat, Vadodara, Rajkot, Bhavnagar) + Bhuj, Mehsana, Jamnagar, Vapi (spread) + Gandhinagar (capital). Junagadh dropped. |
+| Sites | 14 sites in 10 cities (AHM-02 (a)+(b) merged into one site; SUR-03 dropped): 5 most populous (Ahmedabad, Surat, Vadodara, Rajkot, Bhavnagar) + Bhuj, Mehsana, Jamnagar, Vapi (spread) + Gandhinagar (capital). Junagadh dropped. |
 | Area & perimeter | Epochs 2016, 2018, 2020, 2022, 2024, 2026 |
-| Height & volume | 2 epochs: TanDEM-X EDEM (2011-13) or Copernicus GLO-30 baseline vs TanDEM-X DEM Change Map (one date per tile, 2016-22). All 12 sites run 25 Sep (Khajod + Vadodara excluded); DCM change only where the DLR tile is present (N21E072 so far) |
-| Emissions | DROPPED (student decision 24 Sep: no fires, no methane) |
+| Height & volume | 2 epochs: TanDEM-X EDEM (2011-13) or Copernicus GLO-30 baseline vs TanDEM-X DEM Change Map (one date per tile, 2016-22). 12 sites run 25 Sep ~2:30 am (Khajod + Vadodara excluded). All DCM tiles downloaded 25 Sep evening; final 14-site run pending (see Volume section) |
+| Emissions | DROPPED (student decision 24 Sep: no fires, no methane). Re-checked 25 Sep evening: IPCC FOD for 14 sites ~7-10 h and assumption-driven (needs tonnes/yr per site) vs volume ~3-5 h -> volume chosen; GHG only as a discussion/future-work slide |
 | Output | Insights for a presentation (student writes slides) |
 | Dropped | US comparison site (Apex) - no US site |
 
@@ -59,7 +59,20 @@ Thresholds (literature-based where possible): repeat-trace area difference <=10%
 
 Pilot areas 2016 -> 2026 (ha): BHJ 5.0 -> 6.7; BHV 3.7 -> peak 19.7 (2020) -> 14.8; JAM 1.6 -> 2.8; MEH 2.6 -> 2.8 (parts cleared and built on, waste stacked); VAP 0.5 -> 1.4.
 
-## Interim area/perimeter results (analysis/, run 25 Sep ~1 am)
+## FINAL area/perimeter results (repo, run 25 Sep; supersedes the interim section below)
+Script: scripts/final_analysis.py (reads `Locations of landfills in gujurat completer.kml`); figures: scripts/final_figures.py -> figures/fig01-fig13 + figures/site_outlines/; tables: tables/final_results.xlsx + CSVs; README.md has the figure list and key numbers.
+Decisions: sites with parts = one site (area/perimeter = sum): Khajod (a+b+c), Vadodara LF-2 (old dump+a+b), Ahmedabad LF-2 (a+b). Absent part in a traced epoch = 0. Trajectory threshold = max(15%, 2 x edge uncertainty).
+1. Total, 14 sites: 152.5 (2016) -> 142.7 (2020) -> 192.1 (2024, largest) -> 161.0 ha (2026) = +6% net.
+2. Major cities (9 sites): 141.7 -> 134.8 ha (-5%); without Khajod 73.0 -> 103.6 (+42%). Other cities (5 sites): 10.7 -> 26.2 (+144%).
+3. Growth: Rajkot +20.8, Gandhinagar +11.5, Bhavnagar +11.1, Vadodara LF-1 +9.9 ha = 85% of all net gain (62.7 ha).
+4. Declines: Khajod -37.5 ha (-55%; 68.7 -> 19.0 (2020) -> 53.5 (2024) -> 31.2), Pirana -8.6 (-22%), Vadodara LF-2 -6.2 (-89%), Bhatar -1.6 (-79%).
+5. Classes: 7 expanding, 3 contracting, 3 rise-and-fall, 1 cleared-then-regrowing (Khajod). MK p<0.05: AHM-03, GNR, RAJ, VAD-01 up; SUR-01, VAD-02 down.
+6. Land turnover: 97.7 ha newly covered since 2016 vs 142.4 ha that held waste but not in 2026.
+7. City totals: Surat -55%, Ahmedabad -7%, Vadodara +36%, Rajkot +285%, Gandhinagar +1033%.
+Note: adding Khajod flips the interim headline (+58% -> +6%). Hypothesis (big cities remediate, small cities grow) mostly holds, but RAJ, BHV, VAD-01 are big-city sites that grew.
+Slide storyline suggested 25 Sep evening (structure only, student writes all text): setup (why, questions, study map, method) -> total footprint -> major vs other cities -> site gains/losses -> trajectories -> Khajod case -> fast growers (Rajkot/Gandhinagar) -> land turnover -> shape -> volume -> limitations -> conclusions -> GHG as future work.
+
+## Interim area/perimeter results (analysis/, run 25 Sep ~1 am) - SUPERSEDED by the final results above
 12 sites in this run: AHM-01, 02A, 02B, 03, SUR-01, RAJ-01, BHV-01, GNR-01, JAM-01, BHJ-01, MEH-01, VAP-01. Not yet in: SUR-02 Khajod, VAD-01, VAD-02 (still to trace). Master KML = `Locations of landfills in gujurat (3).kml`.
 Results page (live): https://claude.ai/artifact/9y1CEAM1F2QfdeAaA7heAZ ; copy: analysis/gujarat_dumpsite_footprints.html. Script: analysis/trend_analysis.py (re-run when new sites land).
 
@@ -98,6 +111,13 @@ Pirana check: 3.95M m3 vs reported 12.6 Mt implies an impossible ~3.2 t/m3, so t
 NEEDED from student: DCM LAST zips for N22E072 (Ahmedabad x4), N22E070 (RAJ, JAM), N23E072 (GNR, MEH), N23E069 (BHJ), N20E072 (VAP) into dem/. Then re-run `python volume_height.py` (no code changes).
 Caveats: sites <3 ha unreliable; ring base fails in valleys/urban areas (the DCM change avoids this); DSMs include structures; volumes are lower bounds; DCM dates do not match area epochs; radar penetration. Density 0.8-1.2 t/m3 (Zekkos et al. 2006) to verify. BHV raised features south of site still to check.
 
+**Update 25 Sep evening (final 14-site volume run):**
+- DCM tiles needed per site (checked from outline coordinates): N21E072 BHV-01, SUR-01, SUR-02 (Khajod) (already had); N22E072 AHM-01/02/03; **N22E073 VAD-01/02 (was missing from the list above)**; N22E070 RAJ, JAM; N23E072 GNR, MEH; N23E069 BHJ; N20E072 VAP. Download: https://download.geoservice.dlr.de/TDM30_DCM/ (viewer: https://geoservice.dlr.de/web/maps/tdm:dcm30).
+- Student downloaded all tiles (~2.5 GB) - too large for GitHub (100 MB/file). scripts/clip_dem_tiles.py (in repo) clips every raster inside the zips to each site's outline box + 1.5 km -> dem_clips/<SITE>/ (a few MB total; tested). GLO-30 baseline can be fetched by Claude from AWS (copernicus-dem-30m.s3.amazonaws.com); DLR server is blocked from Claude's environment.
+- Claude to do once volume_height.py + dem_clips/ are pushed: read completer.kml, merge parts as in final_analysis.py, add SUR-02 + VAD-01/02, read DEMs from dem_clips/, run 14 sites, one table + one figure, quality flags as in v2.
+- Fallback if not ready by Sat morning: good/fair baseline volumes (AHM-01, BHJ-01, BHV-01, JAM-01) + DCM change for BHV-01 and SUR-02 (tile N21E072) + Pirana density check.
+- GHG literature noted for discussion: Pirana methane plume detected with PRISMA/EMIT/AVIRIS-NG (Atmos. Pollut. Res. 2025; ADS 2025AtmPR..1602607V - check units before citing); Maasakkers et al. 2022 Sci. Adv. (TROPOMI+GHGSat, Delhi/Mumbai landfills); Delhi FOD vs LandGEM vs IPCC default (PubMed 30385029).
+
 ## Analysis plan (analysis_plan.md)
 Per site: net change and %, peak and peak year, change from peak, Theil-Sen rate (ha/yr), Mann-Kendall (descriptive only, n=6; no forecasting), land newly covered vs reclaimed (overlaps), shape index / compactness / fractal dimension / elongation / number of parts, uncertainty bands. Trajectory classes: expanding, rise-and-fall, contracting-remediated, stable, emerging, fluctuating. Figures: class-coloured study map; small-multiple area charts with events (SBM-U 2.0 Oct 2021, NGT orders, biomining, closures); trajectory quadrant plot; gain/loss maps for case sites; master table.
 Hypothesis to test (not a finding): big-city sites show remediation while smaller-city dumps keep growing.
@@ -109,15 +129,27 @@ Hypothesis to test (not a finding): big-city sites show remediation while smalle
 | When | Student | Claude |
 |---|---|---|
 | Thu night (done) | Traced 7 more sites (12 of 15 now); started screenshots | Interim trend analysis + results page |
-| Fri | Trace Khajod + Vadodara x2; answer Rajkot question; download 5 DCM tiles; Step 5 + Step 6 if time; write slides from afternoon | Re-run trends with all 15; volume change once tiles land (done for 12 sites on GLO-30); figures |
+| Fri (done) | Traced Khajod + Vadodara x2; downloaded all DCM tiles (~2.5 GB) | Final area/perimeter analysis, 14 sites (repo: scripts/, figures/, tables/, data/); slide storyline; GHG vs volume check; clip_dem_tiles.py |
+| Fri night (now) | Push `VOlume and height/volume_height.py` (+ README_volume.md, outputs/all_sites_*.csv) - NOT on GitHub yet as of 11:40 pm; run clip_dem_tiles.py and push dem_clips/; answer Rajkot question; write slides | Update volume_height.py for 14 sites + completer.kml; run; volume table + figure |
 | Sat by noon | Final review, submit before 2 pm | Fixes |
 Fall-back order if behind: volume for small sites dropped first; area/perimeter is the core. (Fires and methane already dropped.)
 
-DLR EOC Geoservice: access working (EDEM + DCM tiles downloaded for N21E072).
+DLR EOC Geoservice: access working (all DCM tiles downloaded 25 Sep evening).
 
 Open questions for the student: (1) Rajkot - is the traced area the active cell next to the remediated forest? (2) Vapi 2022 southern strip recorded as waste. (3) BHV raised features south of site (volume pilot).
 
-## Files in this folder
+## GitHub repo (wre9-tesh/waste-managment-project-1) - what Claude can see
+| Path | Contents |
+|---|---|
+| Locations of landfills in gujurat completer.kml | FINAL master KML, 14 sites |
+| scripts/final_analysis.py, scripts/final_figures.py | Final area/perimeter analysis + figures |
+| scripts/clip_dem_tiles.py | Clips DEM zips/tifs to per-site windows -> dem_clips/ |
+| figures/, tables/, data/ | Final outputs (see README.md) |
+| gujarat_dumpsite_footprints_final.html | Final results page |
+| context.md, README.md | This file; final output guide + key numbers |
+Not in the repo (laptop only): VOlume and height/, pilot/, analysis/ (interim), photos/, planning .md files.
+
+## Files in this folder (laptop)
 | File | Contents |
 |---|---|
 | context.md | This file |
