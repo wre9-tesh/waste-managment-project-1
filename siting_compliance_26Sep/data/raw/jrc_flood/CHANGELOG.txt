@@ -1,0 +1,33 @@
+V2.1.2 (2026-01-12)
+--------------------------------------------------------------------------------
+- Added a previously missing hydraulic model tile to the flood hazard maps and regenerated the affected mosaics to ensure complete spatial coverage and consistent tile indexing.
+
+================================================================================
+V2.1.1 (2025-11-21)
+--------------------------------------------------------------------------------
+- Fixed issues with erroneous hydraulic model tiles in flood hazard maps across multiple return periods by regenerating mosaics, correcting drainage inconsistencies, and ensuring consistent spatial dimensions across simulations.
+
+================================================================================
+V2.1.0 (2024-11-08)
+--------------------------------------------------------------------------------
+- Fixed issues with missing data and erroneous hydraulic model tiles in flood hazard maps across various return periods by regenerating mosaics, correcting channel depth, and masking where needed.
+- Improved permanent water bodies dataset by removing channels in desert areas. 
+- New additional dataset: for each tile a new flood hazard map is available with water depth categorised following the GloFAS "Flood hazard 100 year return period" static layer; 
+- New additional dataset: the Global_SpuriousDepths.tif identifies areas where depths >10m are predicted in small channels (<3,000km^2) for the 10 year return period, plus a 2km buffer. Very high water depths may be caused by limitations in the hydraulic model in combination with the spatial resolution or by artificial sinks in the DEM. Users should exercise caution when using the depth values in these areas. 
+Further information can be found in the CEMS wiki pages: https://confluence.ecmwf.int/display/CEMS/CEMS-Flood+flood+inundation+maps).
+
+================================================================================
+V2.0.1 (2024-09-09)
+--------------------------------------------------------------------------------
+- Fix of water bodies masks to correctly display the maximum permanent water body extent.
+
+================================================================================
+V2.0.0 (2024-03-14)
+--------------------------------------------------------------------------------
+- Release of the updated global flood hazard maps. A description of the dataset is currently being prepared as manuscript: Baugh, Calum; Colonese, Juan; D'Angelo, Claudia; Francesco, Dottori; Neal, Jeffrey; Prudhomme, Christel; Salamon, Peter. (2024): An updated dataset of global and European flood hazard maps. Manuscript under preparation
+
+================================================================================
+v1.0.0 (2016-05-15)
+--------------------------------------------------------------------------------
+- Initial release of the global flood hazard maps. A detailed description of the maps and the methodology can be found in: Dottori F, Salamon P, Bianchi A, Alfieri L, Hirpa F, Feyen L. Development and evaluation of a framework for global flood hazard mapping. ADVANCES IN WATER RESOURCES 94; 2016. p. 87-102. ISSN 0309-1708,
+https://doi.org/10.1016/j.advwatres.2016.05.002. 

@@ -1,0 +1,34 @@
+name,icao,iata,kind,ourairports,osm,dist_km_AHM-01,dist_km_AHM-02,dist_km_AHM-03,dist_km_BHJ-01,dist_km_BHV-01,dist_km_GNR-01,dist_km_JAM-01,dist_km_MEH-01,dist_km_RAJ-01,dist_km_SUR-01,dist_km_SUR-02,dist_km_VAD-01,dist_km_VAD-02,dist_km_VAP-01
+Vadodara Green Airport Harni,VABO,BDQ,"airport, scheduled flights; military use",VABO Vadodara International Airport,way/28851359,98.12,98.58,98.09,376.35,131.3,115.6,321.53,162.66,243.46,137.33,142.32,11.4,8.72,220.83
+Sardar Vallabhbhai Patel International Airport,VAAH,AMD,"airport, scheduled flights",VAAH Sardar Vallabh Patel International Airport,way/37231777,11.86,14.29,15.57,301.16,152.0,19.59,267.79,61.6,198.0,213.49,218.24,110.29,103.89,301.13
+Rajkot Airport,VARK,RAJ,"airport, no scheduled flights",VARK Rajkot Airport,way/49607535,198.09,196.15,195.25,153.3,146.3,221.07,71.77,217.99,10.75,246.26,247.74,250.07,245.96,306.35
+Kandla Airport,VAKE,IXY,"airport, scheduled flights",VAKE Kandla Airport,way/91561459,253.02,251.56,251.14,44.32,250.89,264.29,69.92,240.48,112.47,354.06,356.07,333.66,328.29,418.65
+Porbandar,VAPR,PBD,"airport, scheduled flights",VAPR Porbandar Airport,way/91570432,334.03,332.06,331.09,178.8,252.09,357.98,102.92,354.06,147.66,332.05,331.64,372.09,369.12,364.28
+Surat Airport,VASU,STV,"airport, scheduled flights",VASU Surat International Airport,way/91677201,207.07,206.23,205.12,393.88,101.14,236.37,311.67,276.14,239.17,8.75,6.17,132.18,135.87,84.09
+Amreli Airstrip,,,airstrip,IN-0023 Amreli Airport,way/91679588,204.14,202.25,201.04,240.48,91.31,234.21,149.64,248.76,91.16,172.63,172.92,215.15,213.14,221.27
+Abu Road,,,airstrip,IN-0364 Abu Road Airport,way/104562566,168.27,170.05,171.38,341.97,306.5,137.49,352.57,107.47,305.79,369.62,374.48,254.0,248.42,457.08
+Daman Airport,VADN,NMB,"airport, no scheduled flights; military use",VADN Daman Airport,way/104640434,283.13,282.3,281.21,451.45,169.75,312.14,362.95,352.27,296.96,79.91,73.38,202.16,206.77,8.52
+Mehsana Airport,,,airstrip,IN-0177 Mehsana Airport,way/115710999,70.94,71.84,72.92,275.7,201.42,49.27,263.34,2.45,206.03,274.5,279.1,173.79,167.44,361.9
+Keshod,VAKS,IXK,"airport, scheduled flights",VAKS Keshod Airport,way/115711014,299.94,297.98,296.86,223.49,195.69,327.69,129.82,333.28,131.7,264.77,263.86,319.79,317.76,291.58
+Deesa Airport,,,airstrip,VADS Deesa Airport,way/115714463,146.7,147.66,148.75,278.28,273.39,122.01,291.74,77.51,250.49,350.22,354.79,247.44,241.22,437.53
+Bhavnagar Airport,VABV,BHU,"airport, scheduled flights",VABV Bhavnagar Airport,way/116804127,141.4,139.99,138.73,305.7,10.72,173.39,229.06,204.48,152.8,92.82,95.46,117.74,116.79,169.62
+Vijay Nagar Airstrip,,,airstrip,IN-0034 Vijay Nagar Airport,way/116833114,367.12,366.79,365.89,569.19,279.13,391.49,482.59,436.48,414.18,176.75,172.22,267.79,274.06,113.3
+Naliya Air Force Station,VANY,,"airport, no scheduled flights; military use",VA1K Naliya Air Force Station,way/138755258,377.29,375.86,375.45,82.51,364.59,387.46,149.22,360.4,222.33,464.8,466.14,456.5,451.33,519.9
+Mandvi Airstrip,,,airstrip,IN-0176 Mandvi Airport,way/139424002,334.82,333.23,332.68,61.87,308.9,348.62,91.34,326.98,167.43,407.56,408.69,406.77,401.95,460.62
+Jamnagar Airport,VAJM,JGA,"airport, scheduled flights; military use",VAJM Jamnagar Airport,way/139744541,268.38,266.59,265.86,94.11,226.37,287.01,9.67,274.03,87.32,324.01,325.09,329.81,325.44,377.55
+Diu Airport,VADU,DIU,"airport, scheduled flights",VA1P Diu Airport,way/140036316,302.98,301.19,299.93,309.31,170.36,334.25,212.94,352.68,183.6,202.94,200.09,289.97,289.89,208.14
+Khambhaliya Airstrip,,,airstrip,,way/197338497,309.54,307.71,306.92,112.79,255.38,329.27,52.62,317.47,123.95,348.0,348.53,365.32,361.34,393.77
+Bhuj Rudra Mata Air Force Base,VABJ,BHJ,"airport, scheduled flights; military use",VABJ Bhuj Airport,way/233887272,298.41,297.05,296.69,3.59,298.24,307.69,99.91,280.42,158.03,401.03,402.9,381.42,375.98,463.56
+Mundra Airport,VAMA,,"airport, no scheduled flights",VAMA Mundra Airport,way/233899589,287.68,286.07,285.51,48.0,265.25,301.99,52.51,281.81,123.01,365.67,367.09,360.07,355.16,422.91
+Mai Bakhtawar International Airport,,,airstrip,,way/268533287,325.4,324.96,325.34,179.4,394.11,316.38,261.92,271.97,284.21,494.72,498.05,429.69,423.3,572.86
+Sirohi,,,airstrip,IN-VA38 Sirohi Airport,way/482535155,213.15,214.94,216.26,367.18,351.23,182.29,386.61,151.53,344.68,414.02,418.9,296.95,291.53,501.38
+Dungarpur Airstrip,,,airstrip,,way/566551504,160.8,163.36,164.45,427.55,289.07,135.42,411.07,149.9,345.87,315.9,320.88,189.85,186.67,397.58
+Banswara Airstrip,,,airstrip,IN-VA51 Banswara Airport,way/893101874,190.26,192.69,193.57,472.82,302.36,171.06,448.27,195.63,378.61,310.42,315.23,188.08,186.72,386.07
+Ojhar Air Force Station,VAOZ,ISK,"airport, scheduled flights; military use",VAOZ Nashik International Airport,way/958045672,345.87,345.64,344.78,557.99,265.17,369.3,473.55,414.86,403.04,161.99,158.16,244.79,251.2,110.86
+Talhar Airport,,BDN,"airport, no scheduled flights; military use",,way/996547805,431.7,430.92,431.05,194.98,473.06,428.22,291.59,386.94,341.79,576.76,579.34,531.26,525.1,646.73
+Deesa Air Force Station,,,airstrip; military use,,way/1031648487,160.03,160.68,161.65,260.41,279.81,138.13,280.08,91.71,244.43,361.3,365.73,263.37,257.04,448.09
+Khorewah,,,airstrip,,way/1049442856,454.53,453.69,453.76,204.43,489.7,452.31,300.3,411.91,355.34,593.5,595.9,552.62,546.53,661.31
+Gandhinagar Army Airfield,VANR,,"airport, no scheduled flights; military use",IN-0382 Gandhinagar Airfield,way/1079147575,357.65,357.33,356.42,560.76,270.2,382.05,474.54,427.03,405.73,167.66,163.21,258.41,264.67,106.27
+Nashik International Airport,VAOZ,ISK,"airport, scheduled flights",VAOZ Nashik International Airport,way/1183562361,345.87,345.64,344.78,557.99,265.17,369.3,473.55,414.86,403.04,161.99,158.16,244.79,251.2,110.86
+Rajkot International Airport,VAHS,HSR,"airport, scheduled flights",VAHS Rajkot International Airport,way/1302318071,170.43,168.48,167.56,168.95,125.7,193.95,96.61,193.04,18.18,228.16,230.06,223.69,219.39,293.54
+Mithapur Airstrip,,,airstrip,IN-0106 Mithapur Airport,way/1561713554,372.35,370.61,369.92,118.81,326.35,389.4,114.68,372.24,191.75,418.95,419.41,434.28,430.06,462.52

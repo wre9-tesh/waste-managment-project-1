@@ -1,0 +1,81 @@
+  site                              check  step02  independent  difference  relative_%
+AHM-01                 river distance (m)  959.70       959.70         0.0        0.00
+AHM-01                  pond distance (m)  603.50       603.50         0.0        0.00
+AHM-01               highway distance (m)   28.40        28.40         0.0        0.00
+AHM-01                  park distance (m) 1357.00      1357.00         0.0        0.00
+AHM-01       airport reference point (km)   11.86        11.86         0.0        0.00
+AHM-01 residential buildings within 200 m  390.00       390.00         0.0        0.00
+AHM-02                 river distance (m) 1117.90      1117.90         0.0        0.00
+AHM-02                  pond distance (m)  947.00       947.00         0.0        0.00
+AHM-02               highway distance (m)  281.60       281.60         0.0        0.00
+AHM-02       airport reference point (km)   14.29        14.29         0.0        0.00
+AHM-02 residential buildings within 200 m   48.00        48.00         0.0        0.00
+AHM-03                 river distance (m)  645.50       645.50         0.0        0.00
+AHM-03               highway distance (m)  699.50       699.50         0.0        0.00
+AHM-03       airport reference point (km)   15.57        15.57         0.0        0.00
+AHM-03 residential buildings within 200 m  146.00       146.00         0.0        0.00
+BHJ-01                 river distance (m) 2128.90      2128.90         0.0        0.00
+BHJ-01                  pond distance (m) 1950.80      1950.80         0.0        0.00
+BHJ-01               highway distance (m)   30.40        30.40         0.0        0.00
+BHJ-01       airport reference point (km)    3.59         3.59         0.0        0.00
+BHJ-01 residential buildings within 200 m  140.00       139.00        -1.0       -0.71
+BHV-01                 river distance (m) 2210.60      2210.60         0.0        0.00
+BHV-01               highway distance (m) 1698.00      1698.00         0.0        0.00
+BHV-01       airport reference point (km)   10.72        10.72         0.0        0.00
+BHV-01 residential buildings within 200 m    0.00         0.00         0.0         NaN
+GNR-01                 river distance (m)    2.20         2.20         0.0        0.00
+GNR-01               highway distance (m)  576.70       576.70         0.0        0.00
+GNR-01                  park distance (m) 1373.00      1373.00         0.0        0.00
+GNR-01       airport reference point (km)   19.59        19.59         0.0        0.00
+GNR-01 residential buildings within 200 m  223.00       223.00         0.0        0.00
+JAM-01                 river distance (m) 1937.50      1937.50         0.0        0.00
+JAM-01               highway distance (m)  190.90       190.90         0.0        0.00
+JAM-01       airport reference point (km)    9.67         9.67         0.0        0.00
+JAM-01 residential buildings within 200 m   83.00        81.00        -2.0       -2.41
+MEH-01                 river distance (m)  130.80       130.80         0.0        0.00
+MEH-01                  pond distance (m) 1424.40      1424.40         0.0        0.00
+MEH-01               highway distance (m)   37.00        37.00         0.0        0.00
+MEH-01                  park distance (m) 1578.40      1578.40         0.0        0.00
+MEH-01       airport reference point (km)    2.45         2.45         0.0        0.00
+MEH-01 residential buildings within 200 m   24.00        24.00         0.0        0.00
+RAJ-01                  pond distance (m)  572.10       572.10         0.0        0.00
+RAJ-01       airport reference point (km)   10.75        10.75         0.0        0.00
+RAJ-01 residential buildings within 200 m    4.00         4.00         0.0        0.00
+SUR-01                 river distance (m)  137.60       137.60         0.0        0.00
+SUR-01                  pond distance (m) 1974.60      1974.60         0.0        0.00
+SUR-01               highway distance (m)  768.30       768.30         0.0        0.00
+SUR-01                  park distance (m) 1384.90      1384.90         0.0        0.00
+SUR-01       airport reference point (km)    8.75         8.75         0.0        0.00
+SUR-01 residential buildings within 200 m   75.00        75.00         0.0        0.00
+SUR-02                 river distance (m)  677.30       677.30         0.0        0.00
+SUR-02                  pond distance (m)  158.10       158.10         0.0        0.00
+SUR-02               highway distance (m)  861.20       861.20         0.0        0.00
+SUR-02                  park distance (m) 1214.10      1214.10         0.0        0.00
+SUR-02       airport reference point (km)    6.17         6.17         0.0        0.00
+SUR-02 residential buildings within 200 m   33.00        33.00         0.0        0.00
+VAD-01                 river distance (m)    0.00         0.00         0.0         NaN
+VAD-01                  pond distance (m)  148.00       148.00         0.0        0.00
+VAD-01               highway distance (m)   52.60        52.60         0.0        0.00
+VAD-01                  park distance (m)  471.00       471.00         0.0        0.00
+VAD-01       airport reference point (km)   11.40        11.40         0.0        0.00
+VAD-01 residential buildings within 200 m  113.00       113.00         0.0        0.00
+VAD-02                 river distance (m)  469.50       469.50         0.0        0.00
+VAD-02                  pond distance (m) 1873.20      1873.20         0.0        0.00
+VAD-02               highway distance (m)  316.40       316.40         0.0        0.00
+VAD-02                  park distance (m)  882.80       882.80         0.0        0.00
+VAD-02       airport reference point (km)    8.72         8.72         0.0        0.00
+VAD-02 residential buildings within 200 m  120.00       120.00         0.0        0.00
+VAP-01                 river distance (m)    2.10         2.10         0.0        0.00
+VAP-01                  pond distance (m)  791.40       791.40         0.0        0.00
+VAP-01               highway distance (m) 1473.70      1473.70         0.0        0.00
+VAP-01       airport reference point (km)    8.52         8.52         0.0        0.00
+VAP-01 residential buildings within 200 m    7.00         7.00         0.0        0.00
+
+max |difference| per check:
+check
+airport reference point (km)          0.0
+highway distance (m)                  0.0
+park distance (m)                     0.0
+pond distance (m)                     0.0
+residential buildings within 200 m    2.0
+river distance (m)                    0.0

@@ -1,0 +1,72 @@
+site,check,step02,independent,difference,relative_%
+AHM-01,river distance (m),959.7,959.7,0.0,0.0
+AHM-01,pond distance (m),603.5,603.5,0.0,0.0
+AHM-01,highway distance (m),28.4,28.4,0.0,0.0
+AHM-01,park distance (m),1357.0,1357.0,0.0,0.0
+AHM-01,airport reference point (km),11.86,11.86,0.0,0.0
+AHM-01,residential buildings within 200 m,390.0,390.0,0.0,0.0
+AHM-02,river distance (m),1117.9,1117.9,0.0,0.0
+AHM-02,pond distance (m),947.0,947.0,0.0,0.0
+AHM-02,highway distance (m),281.6,281.6,0.0,0.0
+AHM-02,airport reference point (km),14.29,14.29,0.0,0.0
+AHM-02,residential buildings within 200 m,48.0,48.0,0.0,0.0
+AHM-03,river distance (m),645.5,645.5,0.0,0.0
+AHM-03,highway distance (m),699.5,699.5,0.0,0.0
+AHM-03,airport reference point (km),15.57,15.57,0.0,0.0
+AHM-03,residential buildings within 200 m,146.0,146.0,0.0,0.0
+BHJ-01,river distance (m),2128.9,2128.9,0.0,0.0
+BHJ-01,pond distance (m),1950.8,1950.8,0.0,0.0
+BHJ-01,highway distance (m),30.4,30.4,0.0,0.0
+BHJ-01,airport reference point (km),3.59,3.59,0.0,0.0
+BHJ-01,residential buildings within 200 m,140.0,139.0,-1.0,-0.71
+BHV-01,river distance (m),2210.6,2210.6,0.0,0.0
+BHV-01,highway distance (m),1698.0,1698.0,0.0,0.0
+BHV-01,airport reference point (km),10.72,10.72,0.0,0.0
+BHV-01,residential buildings within 200 m,0.0,0.0,0.0,
+GNR-01,river distance (m),2.2,2.2,0.0,0.0
+GNR-01,highway distance (m),576.7,576.7,0.0,0.0
+GNR-01,park distance (m),1373.0,1373.0,0.0,0.0
+GNR-01,airport reference point (km),19.59,19.59,0.0,0.0
+GNR-01,residential buildings within 200 m,223.0,223.0,0.0,0.0
+JAM-01,river distance (m),1937.5,1937.5,0.0,0.0
+JAM-01,highway distance (m),190.9,190.9,0.0,0.0
+JAM-01,airport reference point (km),9.67,9.67,0.0,0.0
+JAM-01,residential buildings within 200 m,83.0,81.0,-2.0,-2.41
+MEH-01,river distance (m),130.8,130.8,0.0,0.0
+MEH-01,pond distance (m),1424.4,1424.4,0.0,0.0
+MEH-01,highway distance (m),37.0,37.0,0.0,0.0
+MEH-01,park distance (m),1578.4,1578.4,0.0,0.0
+MEH-01,airport reference point (km),2.45,2.45,0.0,0.0
+MEH-01,residential buildings within 200 m,24.0,24.0,0.0,0.0
+RAJ-01,pond distance (m),572.1,572.1,0.0,0.0
+RAJ-01,airport reference point (km),10.75,10.75,0.0,0.0
+RAJ-01,residential buildings within 200 m,4.0,4.0,0.0,0.0
+SUR-01,river distance (m),137.6,137.6,0.0,0.0
+SUR-01,pond distance (m),1974.6,1974.6,0.0,0.0
+SUR-01,highway distance (m),768.3,768.3,0.0,0.0
+SUR-01,park distance (m),1384.9,1384.9,0.0,0.0
+SUR-01,airport reference point (km),8.75,8.75,0.0,0.0
+SUR-01,residential buildings within 200 m,75.0,75.0,0.0,0.0
+SUR-02,river distance (m),677.3,677.3,0.0,0.0
+SUR-02,pond distance (m),158.1,158.1,0.0,0.0
+SUR-02,highway distance (m),861.2,861.2,0.0,0.0
+SUR-02,park distance (m),1214.1,1214.1,0.0,0.0
+SUR-02,airport reference point (km),6.17,6.17,0.0,0.0
+SUR-02,residential buildings within 200 m,33.0,33.0,0.0,0.0
+VAD-01,river distance (m),0.0,0.0,0.0,
+VAD-01,pond distance (m),148.0,148.0,0.0,0.0
+VAD-01,highway distance (m),52.6,52.6,0.0,0.0
+VAD-01,park distance (m),471.0,471.0,0.0,0.0
+VAD-01,airport reference point (km),11.4,11.4,0.0,0.0
+VAD-01,residential buildings within 200 m,113.0,113.0,0.0,0.0
+VAD-02,river distance (m),469.5,469.5,0.0,0.0
+VAD-02,pond distance (m),1873.2,1873.2,0.0,0.0
+VAD-02,highway distance (m),316.4,316.4,0.0,0.0
+VAD-02,park distance (m),882.8,882.8,0.0,0.0
+VAD-02,airport reference point (km),8.72,8.72,0.0,0.0
+VAD-02,residential buildings within 200 m,120.0,120.0,0.0,0.0
+VAP-01,river distance (m),2.1,2.1,0.0,0.0
+VAP-01,pond distance (m),791.4,791.4,0.0,0.0
+VAP-01,highway distance (m),1473.7,1473.7,0.0,0.0
+VAP-01,airport reference point (km),8.52,8.52,0.0,0.0
+VAP-01,residential buildings within 200 m,7.0,7.0,0.0,0.0

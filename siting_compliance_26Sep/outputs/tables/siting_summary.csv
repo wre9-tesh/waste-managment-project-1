@@ -1,0 +1,15 @@
+site,name,breaches_2026,conditional_or_check_2026,breaches_2016,conditional_or_check_2016,breached_rules_2026,conditional_rules_2026,city_group
+AHM-01,Ahmedabad LF-1 (Pirana),3,1,3,1,"Highway (NH / SH), Habitation, Flood plain (100-year)",Airport / airbase,five most populous
+AHM-02,Ahmedabad LF-2,0,2,0,3,,"Habitation, Airport / airbase",five most populous
+AHM-03,Ahmedabad LF-3,0,2,0,2,,"Habitation, Airport / airbase",five most populous
+BHJ-01,Bhuj LF-1,3,0,3,0,"Highway (NH / SH), Habitation, Airport / airbase",,other cities
+BHV-01,Bhavnagar LF-1,1,1,1,1,Flood plain (100-year),Airport / airbase,five most populous
+GNR-01,Gandhinagar LF-1,3,1,2,1,"River, Habitation, Flood plain (100-year)",Airport / airbase,other cities
+JAM-01,Jamnagar LF-1,3,1,2,1,"Highway (NH / SH), Habitation, Airport / airbase",Critical habitat / eco-fragile area,other cities
+MEH-01,Mehsana LF-1,3,0,2,0,"Highway (NH / SH), Habitation, Airport / airbase",,other cities
+RAJ-01,Rajkot LF-1,0,1,0,1,,Airport / airbase,five most populous
+SUR-01,Surat LF-1 (Bhatar),3,0,4,0,"Habitation, Airport / airbase, Flood plain (100-year)",,five most populous
+SUR-02,Surat LF-2 (Khajod),3,1,2,1,"Pond, Airport / airbase, Flood plain (100-year)",Habitation,five most populous
+VAD-01,Vadodara LF-1,5,1,4,1,"River, Pond, Highway (NH / SH), Habitation, Flood plain (100-year)",Airport / airbase,five most populous
+VAD-02,Vadodara LF-2 (Atladara),3,0,4,0,"Habitation, Airport / airbase, Flood plain (100-year)",,five most populous
+VAP-01,Vapi LF-1,3,1,3,0,"River, Airport / airbase, Flood plain (100-year)",Habitation,other cities

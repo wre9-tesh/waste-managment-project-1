@@ -1,0 +1,8 @@
+charts done
+workbook done
+kml done
+/home/claude/siting_compliance_26Sep/scripts/03_figures_tables.py:272: UserWarning: The GeoDataFrame you are attempting to plot is empty. Nothing has been displayed.
+  res[res.distance_m >= 200].plot(ax=ax, facecolor="none", edgecolor="#fcfcfb", linewidth=0.4, alpha=0.7, zorder=5)
+/home/claude/siting_compliance_26Sep/scripts/03_figures_tables.py:272: UserWarning: The GeoDataFrame you are attempting to plot is empty. Nothing has been displayed.
+  res[res.distance_m >= 200].plot(ax=ax, facecolor="none", edgecolor="#fcfcfb", linewidth=0.4, alpha=0.7, zorder=5)
+maps done

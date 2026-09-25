@@ -1,0 +1,50 @@
+{
+ "osm_local": {
+  "AHM-01": "2026-09-25T21:10:33Z",
+  "AHM-02": "2026-09-25T21:12:35Z",
+  "AHM-03": "2026-09-25T21:15:41Z",
+  "BHJ-01": "2026-09-25T21:16:45Z",
+  "BHV-01": "2026-09-25T21:15:41Z",
+  "GNR-01": "2026-09-25T21:17:46Z",
+  "JAM-01": "2026-09-25T21:15:41Z",
+  "MEH-01": "2026-09-25T21:15:41Z",
+  "RAJ-01": "2026-09-25T21:16:45Z",
+  "SUR-01": "2026-09-25T21:17:46Z",
+  "SUR-02": "2026-09-25T21:16:45Z",
+  "VAD-01": "2026-09-25T21:20:47Z",
+  "VAD-02": "2026-09-25T21:17:46Z",
+  "VAP-01": "2026-09-25T21:17:46Z"
+ },
+ "osm_gujarat": {
+  "bbox": [
+   19.8,
+   68.0,
+   24.9,
+   74.6
+  ],
+  "protected": "2026-09-25T21:20:47Z",
+  "aerodromes": "2026-09-25T21:21:51Z"
+ },
+ "jrc_flood": {
+  "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/CEMS-GLOFAS/flood_hazard/",
+  "version": "2.1.2 (README of 12 Jan 2026)",
+  "return_period": 100,
+  "resolution": "3 arc-seconds (~90 m)",
+  "downloaded": "2026-09-25 21:34 UTC"
+ },
+ "overture_buildings": {
+  "release": "2026-09-23.1",
+  "bucket": "s3://overturemaps-us-west-2/release/2026-09-23.1/theme=buildings/type=building/*",
+  "radius_m": 600.0,
+  "downloaded": "2026-09-25 21:40 UTC"
+ },
+ "ourairports": {
+  "url": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+  "downloaded": "2026-09-25 21:22 UTC"
+ },
+ "ghsl_fun": {
+  "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_BUILT_C_GLOBE_R2023A/GHS_BUILT_C_FUN_E2018_GLOBE_R2023A_54009_10/V1-0/GHS_BUILT_C_FUN_E2018_GLOBE_R2023A_54009_10_V1_0/GHS_BUILT_C_FUN_E2018_GLOBE_R2023A_54009_10_V1_0.tif",
+  "product": "GHS-BUILT-C FUN E2018 R2023A, 10 m, Mollweide",
+  "classes": "0 not built, 1 residential, 2 non-residential"
+ }
+}

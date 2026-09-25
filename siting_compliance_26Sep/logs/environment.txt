@@ -1,0 +1,14 @@
+python 3.11.15
+numpy 2.4.4
+pandas 3.0.2
+shapely 2.1.2
+pyproj 3.7.2
+rasterio 1.4.4
+geopandas 1.1.4
+pyarrow 25.0.1
+duckdb 1.5.5
+requests 2.33.1
+matplotlib 3.10.9
+contextily 1.7.1
+openpyxl 3.1.5
+GDAL 3.10.3 PROJ 9.7.1

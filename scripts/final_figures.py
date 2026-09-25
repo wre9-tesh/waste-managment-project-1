@@ -64,8 +64,8 @@ h = [Line2D([], [], marker='o', ls='', color=MAJ, ms=10, label='Five most populo
 for a in (2, 10, 30):
     h.append(Line2D([], [], marker='o', ls='', color='#bdbdbd', ms=math.sqrt(40 + 18 * a), label=f'{a} ha (2026 area)'))
 ax.legend(handles=h, loc='center left', bbox_to_anchor=(1.01, 0.5), frameon=False, fontsize=11, labelspacing=1.3)
-ax.set_title('Study sites: 14 dumpsites in 10 Gujarat cities', loc='left')
-ax.text(0, -0.1, 'Boundary: DataMeet India states. Marker size = traced waste area in 2026.', transform=ax.transAxes, fontsize=10, color=MUTED)
+
+
 save(fig, 'fig01_study_area_map.png')
 
 # ---------- fig02 total footprint ----------

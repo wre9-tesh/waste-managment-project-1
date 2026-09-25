@@ -1,0 +1,23 @@
+outlines: 14 sites written to data/site_outlines.geojson
+AHM-01: 495 OSM features within 2.5 km (OSM data as of 2026-09-25T21:10:33Z)
+AHM-02: 125 OSM features within 2.5 km (OSM data as of 2026-09-25T21:12:35Z)
+AHM-03: 46 OSM features within 2.5 km (OSM data as of 2026-09-25T21:15:41Z)
+BHJ-01: 346 OSM features within 2.5 km (OSM data as of 2026-09-25T21:16:45Z)
+BHV-01: 24 OSM features within 2.5 km (OSM data as of 2026-09-25T21:15:41Z)
+GNR-01: 208 OSM features within 2.5 km (OSM data as of 2026-09-25T21:17:46Z)
+JAM-01: 56 OSM features within 2.5 km (OSM data as of 2026-09-25T21:15:41Z)
+MEH-01: 265 OSM features within 2.5 km (OSM data as of 2026-09-25T21:15:41Z)
+RAJ-01: 48 OSM features within 2.5 km (OSM data as of 2026-09-25T21:16:45Z)
+SUR-01: 540 OSM features within 2.5 km (OSM data as of 2026-09-25T21:17:46Z)
+SUR-02: 106 OSM features within 2.5 km (OSM data as of 2026-09-25T21:16:45Z)
+VAD-01: 137 OSM features within 2.5 km (OSM data as of 2026-09-25T21:20:47Z)
+VAD-02: 375 OSM features within 2.5 km (OSM data as of 2026-09-25T21:17:46Z)
+VAP-01: 59 OSM features within 2.5 km (OSM data as of 2026-09-25T21:17:46Z)
+Gujarat: 47 protected-area features, 35 aerodromes
+OurAirports India list: /home/claude/siting_compliance_26Sep/data/raw/ourairports_IN.csv
+  JRC RP100 ID178_N30_E60: clipped to Gujarat (5873, 2375)
+  JRC RP100 ID184_N30_E70: clipped to Gujarat (5873, 5545)
+  JRC Permanent_WaterBodies ID178_N30_E60: clipped to Gujarat (5873, 2375)
+  JRC Permanent_WaterBodies ID184_N30_E70: clipped to Gujarat (5873, 5545)
+JRC flood tiles ready
+done - sources written to data/sources.json

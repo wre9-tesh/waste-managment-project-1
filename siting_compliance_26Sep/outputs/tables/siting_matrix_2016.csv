@@ -1,0 +1,15 @@
+site,name,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,breaches,conditional_or_check,ok,assessed,breached_rules,conditional_rules
+AHM-01,Ahmedabad LF-1 (Pirana),ok,ok,breach,breach,ok,not assessable,conditional,breach,ok,ok,ok,not assessable,3,1,6,10,"Highway (NH / SH), Habitation, Flood plain (100-year)",Airport / airbase
+AHM-02,Ahmedabad LF-2,ok,ok,ok,check,ok,not assessable,conditional,check,ok,ok,ok,not assessable,0,3,7,10,,"Habitation, Airport / airbase, Flood plain (100-year)"
+AHM-03,Ahmedabad LF-3,ok,ok,ok,check,ok,not assessable,conditional,ok,ok,ok,ok,not assessable,0,2,8,10,,"Habitation, Airport / airbase"
+BHJ-01,Bhuj LF-1,ok,ok,breach,breach,ok,not assessable,breach,ok,ok,ok,ok,not assessable,3,0,7,10,"Highway (NH / SH), Habitation, Airport / airbase",
+BHV-01,Bhavnagar LF-1,ok,ok,ok,ok,ok,not assessable,conditional,breach,ok,ok,ok,not assessable,1,1,8,10,Flood plain (100-year),Airport / airbase
+GNR-01,Gandhinagar LF-1,breach,ok,ok,breach,ok,not assessable,conditional,ok,ok,ok,ok,not assessable,2,1,7,10,"River, Habitation",Airport / airbase
+JAM-01,Jamnagar LF-1,ok,ok,ok,breach,ok,not assessable,breach,ok,ok,ok,check,not assessable,2,1,7,10,"Habitation, Airport / airbase",Critical habitat / eco-fragile area
+MEH-01,Mehsana LF-1,ok,ok,breach,ok,ok,not assessable,breach,ok,ok,ok,ok,not assessable,2,0,8,10,"Highway (NH / SH), Airport / airbase",
+RAJ-01,Rajkot LF-1,ok,ok,ok,ok,ok,not assessable,conditional,ok,ok,ok,ok,not assessable,0,1,9,10,,Airport / airbase
+SUR-01,Surat LF-1 (Bhatar),breach,ok,ok,breach,ok,not assessable,breach,breach,ok,ok,ok,not assessable,4,0,6,10,"River, Habitation, Airport / airbase, Flood plain (100-year)",
+SUR-02,Surat LF-2 (Khajod),ok,ok,ok,check,ok,not assessable,breach,breach,ok,ok,ok,not assessable,2,1,7,10,"Airport / airbase, Flood plain (100-year)",Habitation
+VAD-01,Vadodara LF-1,breach,ok,breach,breach,ok,not assessable,conditional,breach,ok,ok,ok,not assessable,4,1,5,10,"River, Highway (NH / SH), Habitation, Flood plain (100-year)",Airport / airbase
+VAD-02,Vadodara LF-2 (Atladara),breach,ok,ok,breach,ok,not assessable,breach,breach,ok,ok,ok,not assessable,4,0,6,10,"River, Habitation, Airport / airbase, Flood plain (100-year)",
+VAP-01,Vapi LF-1,breach,ok,ok,ok,ok,not assessable,breach,breach,ok,ok,ok,not assessable,3,0,7,10,"River, Airport / airbase, Flood plain (100-year)",

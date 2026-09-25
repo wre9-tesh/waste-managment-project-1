@@ -1,0 +1,652 @@
+"id","ident","type","name","latitude_deg","longitude_deg","elevation_ft","continent","iso_country","iso_region","municipality","scheduled_service","icao_code","iata_code","gps_code","local_code","home_link","wikipedia_link","keywords"
+526897,"HU-0072","heliport","Helipad",29.946754,79.903173,,"AS","IN","IN-UT","Kedareshwar","no",,,,,,,
+35129,"IN-0001","heliport","Siachen Base Camp Heliport",35.194275,77.213051,11693,"AS","IN","IN-LA","Nubra","no",,,,,,,
+35130,"IN-0002","heliport","Tawang Air Force Station",27.588732,91.877439,8756,"AS","IN","IN-AR","Tawang","no",,,,,,,
+42716,"IN-0003","small_airport","Daulat Beg Oldi Advanced Landing Ground",35.396467,77.928965,16200,"AS","IN","IN-LA","Nubra","no",,,,,,"https://en.wikipedia.org/wiki/Daulat_Beg_Oldi_Advanced_Landing_Ground",
+42717,"IN-0004","heliport","Leh Heliport",34.129295,77.537205,10682,"AS","IN","IN-LA","Leh","no",,,,,,,
+42721,"IN-0005","closed","Kayathar Airstrip",8.970609,77.816847,,"AS","IN","IN-TN","Ahilandapuram","no",,,,,,,
+42722,"IN-0006","closed","Chettinad Airstrip",10.164996,78.79377,,"AS","IN","IN-TN","Kanadukathan","no",,,,,,,
+42724,"IN-0007","heliport","Minicoy Heliport",8.27363,73.022301,,"AS","IN","IN-LD","Minicoy","no",,,,,,,"Maliku"
+42729,"IN-0008","heliport","Kavaratti Helipad",10.541667938232422,72.61604309082031,,"AS","IN","IN-LD",,"no",,,,,,,
+42730,"IN-0009","heliport","Gangtok Helipad",27.355736,88.614156,,"AS","IN","IN-SK","Gangtok","no",,,,,,,
+42731,"IN-0010","small_airport","Walong Advanced Landing Ground",28.12967300415,97.019660949707,,"AS","IN","IN-AR",,"no",,,,,,"https://en.wikipedia.org/wiki/Walong",
+43966,"IN-0011","small_airport","Jakkur Aerodrome",13.07674,77.597645,3013,"AS","IN","IN-KA","Bengaluru","no","VOJK",,"VOJK",,,"https://en.wikipedia.org/wiki/Jakkur_Aerodrome",
+44362,"IN-0012","small_airport","Pakyong Airport",27.2313,88.587196,4590,"AS","IN","IN-SK","Pakyong","no","VEPY","PYG","VEPY",,,"https://en.wikipedia.org/wiki/Pakyong_Airport",
+44908,"IN-0013","small_airport","Nadirgul Airport",17.306142,78.561004,1811,"AS","IN","IN-TG","Hyderabad","no",,,,,"https://web.archive.org/web/20170713034841/http://www.aai.aero/allAirports/nadirgul.jsp","https://en.wikipedia.org/wiki/Nadirgul_Airport","NDGL, Nadergul"
+44475,"IN-0014","closed","Koirengei Airstrip",24.872459411621094,93.9256820678711,,"AS","IN","IN-MN",,"no",,,,,,,
+44582,"IN-0015","small_airport","Baljek Airport",25.661487579345703,90.34503936767578,,"AS","IN","IN-ML",,"yes",,,,,,,
+46282,"IN-0016","closed","Ledo Airfield",27.302441,95.737031,,"AS","IN","IN-AS","Ledo","no",,,,,,"https://en.wikipedia.org/wiki/Ledo_Airfield",
+46283,"IN-0017","closed","Dudhkundi Airfield",22.3245915688,87.10741996770001,,"AS","IN","IN-WB",,"no",,,,,,"https://en.wikipedia.org/wiki/Dudhkundi_Airfield",
+46284,"IN-0018","closed","Piardoba Airfield",22.9895085468,87.2995948792,,"AS","IN","IN-WB",,"no",,,,,,"https://en.wikipedia.org/wiki/Piardoba_Airfield",
+46285,"IN-0019","heliport","Dinjan Air Force Station",27.544598,95.238011,376,"AS","IN","IN-AS","Muluk Gaon","no",,,,,,"https://en.wikipedia.org/wiki/Dinjan_Airfield",
+46287,"IN-0020","closed","Ulundurpet Airstrip",11.688549,79.321375,,"AS","IN","IN-TN","Villupuram","no",,,,,,,
+46376,"IN-0021","heliport","Shikra Naval Helibase",18.913345681200003,72.8292113543,,"AS","IN","IN-MM","Mumbai","no",,,,,,,
+46377,"IN-0022","heliport","Kunjali Helipad",18.895273369,72.8084939718,,"AS","IN","IN-MM","Mimbai","no",,,,,,,
+46481,"IN-0023","small_airport","Amreli Airport",21.621416,71.226309,428,"AS","IN","IN-GJ","Amreli","no",,,,,,"https://en.wikipedia.org/wiki/Amreli_Airport","XAM"
+46518,"IN-0024","small_airport","Baramati Airport",18.226944,74.590833,1978,"AS","IN","IN-MM","Pune","yes",,,,"BMT",,,
+46512,"IN-0025","medium_airport","Maharshi Valmiki International Airport",26.747736,82.163664,335,"AS","IN","IN-UP","Faizabad","yes","VEAY","AYJ","VEAY",,,"https://en.wikipedia.org/wiki/Ayodhya_Airport","Maharishi Valmiki International"
+46515,"IN-0026","small_airport","Korba Airport",22.414166666699998,82.7194444444,1200,"AS","IN","IN-CT","Rumgara","no",,,,,,,
+46550,"IN-0027","heliport","Thuampui Helipad",23.745644,92.736828,3214,"AS","IN","IN-MZ","Aizawl","no",,,,,,,"Zemabawk Helipad"
+46551,"IN-0028","heliport","Pukpui Helipad",22.942266666699997,92.76885,,"AS","IN","IN-MZ",,"no",,,,,,,"Lunglei,helipad"
+46552,"IN-0029","heliport","Sethlun Heliport",22.868383,92.7633,,"AS","IN","IN-MZ","Lunglei","no",,,,,,,
+46553,"IN-0030","heliport","Serchhip Helipad",23.32875,92.85606666670002,,"AS","IN","IN-MZ","Serchhip","no",,,,,,,
+46554,"IN-0031","heliport","Vairengte Helipad",24.478916666699998,92.7539333333,,"AS","IN","IN-MZ",,"no",,,,,,,
+46555,"IN-0032","heliport","Saiha Helipad",22.4885833333,92.98695,,"AS","IN","IN-MZ","Saiha","yes",,,,,,,
+46556,"IN-0033","small_airport","Aamby Valley Airport",18.609617,73.377583,2262,"AS","IN","IN-MM","Aamby Valley City","no","VAAV",,"VAAV",,,"https://en.wikipedia.org/wiki/Aamby_Valley_Airport",
+46557,"IN-0034","small_airport","Vijay Nagar Airport",19.8841,73.84056666670001,,"AS","IN","IN-MM","Vijay Nagar","no",,,,,,,
+46558,"IN-0035","heliport","Sevoke Road Indian Army Heliport",26.7744,88.4523166667,472,"AS","IN","IN-WB","Salugara","no",,,,,,,
+46559,"IN-0036","heliport","Pelling Helipad",27.3005,88.23085,,"AS","IN","IN-SK","Pelling City","no",,,,,,,
+46560,"IN-0037","heliport","Namchi Helipad",27.156733,88.322067,,"AS","IN","IN-SK","Nayabazar","no",,,,,,,"Assangthang Helipad"
+46561,"IN-0038","heliport","Upper Tadong Indian Army Helipad",27.306716666699998,88.59965,,"AS","IN","IN-SK","Upper Tadong","no",,,,,,,
+46562,"IN-0039","heliport","Lebong Helipad",27.0590833333,88.2777333333,,"AS","IN","IN-WB","Lebong","no",,,,,,,
+46563,"IN-0040","heliport","Pedong Helipad",27.1559333333,88.61065,,"AS","IN","IN-SK","Pedong","no",,,,,,,
+46564,"IN-0041","heliport","HQ Eastern Air Command Helipad",25.538183333299997,91.82655,,"AS","IN","IN-ML","Myliem","no",,,,,,,
+46565,"IN-0042","heliport","Shillong Indian Army Helipad",25.54425,91.8817166667,,"AS","IN","IN-ML","Shillong","no",,,,,,,
+46566,"IN-0043","heliport","STC BSF Indian Army Helipad",24.3267,93.67546666670002,,"AS","IN","IN-MN","Gangpimual","no",,,,,,,
+46567,"IN-0044","heliport","PAP Complex Heliport",31.2920833333,75.6072,766,"AS","IN","IN-PB","Jalandhar","no",,,,,,,
+46568,"IN-0045","heliport","Catholic Medical Centre Helipad",24.8062,93.94275,,"AS","IN","IN-MN","Kangla","no",,,,,,,
+46569,"IN-0046","heliport","Butcher Island Helipad",18.9623,72.9030833333,,"AS","IN","IN-MM","Mumbai","no",,,,,,,
+46570,"IN-0047","heliport","Mahalaxmi Race Course Helipad",18.9820333333,72.8215666667,,"AS","IN","IN-MM","Mumbai","no",,,,,,,"Bombay"
+46571,"IN-0048","heliport","Rajbhavan Helipad",18.94265,72.794017,,"AS","IN","IN-MM","Mumbai","no",,,,,,,
+46572,"IN-0049","heliport","Kohima Helipad",25.663066666699997,94.1139333333,,"AS","IN","IN-NL","Kohima","no",,,,,,,
+46573,"IN-0050","heliport","Phalodi Airfield",27.1128333333,72.389,,"AS","IN","IN-RJ","Phalodi","no",,,,,,,
+46574,"IN-0051","heliport","Aviation Research Centre RAW Headquarters Helipad",30.706042,77.861524,7234,"AS","IN","IN-UP","Chakrata","no",,,,,,,
+46575,"IN-0052","heliport","Mathura Heliport",27.464233333299997,77.68241666670001,,"AS","IN","IN-UP","Mathura","no",,,,,,,
+46581,"IN-0053","small_airport","INS Kohassa",13.236316,93.049731,13,"AS","IN","IN-AN","Diglipur","no",,,"VODX",,,"https://en.wikipedia.org/wiki/INS_Kohassa","VABM, Shivpur"
+46606,"IN-0054","closed","Charra Airfield",23.3657772896,86.43673896790001,,"AS","IN","IN-WB","Purulia","no",,,,,,"https://en.wikipedia.org/wiki/Charra_Airfield",
+46607,"IN-0055","closed","Kanchrapara Airfield",22.922932987499998,88.4599292278,,"AS","IN","IN-WB","Kanchrapara","no",,,,,,"https://en.wikipedia.org/wiki/Kanchrapara_Airfield","Calcutta"
+46608,"IN-0056","closed","Kalyan Airstrip",19.17922,73.139184,,"AS","IN","IN-MM","Kalyan","no",,,,,,"https://en.wikipedia.org/wiki/Kalyan_International_Airport",
+46609,"IN-0057","closed","Rasgovindpur Airstrip",21.8050895155,87.0469093323,,"AS","IN","IN-OR","Rasgovindpur","no",,,,,,,
+46610,"IN-0058","closed","Dhubulia Airstrip",23.4929846863,88.4540176392,,"AS","IN","IN-WB","Dhubulia","no",,,,,,,"Dhubalia"
+46611,"IN-0059","closed","Digri Airstrip",22.7854403333,87.36225128170001,,"AS","IN","IN-WB","Digri","no",,,,,,,
+46623,"IN-0060","small_airport","Khargon Govt. Airstrip",21.810030194599996,75.55443763730001,,"AS","IN","IN-MP",,"no",,,,,,,"Khargon, Khargone, Khargoan"
+46624,"IN-0061","small_airport","Khandwa Airport",21.857117,76.336956,1079,"AS","IN","IN-MP","Khandwa","no",,,"VAKD",,,,
+46625,"IN-0062","small_airport","Shirpur Airport",21.3239987933,74.9567341805,,"AS","IN","IN-MM","Shirpur","no",,,,,,,"Shirpur, Dhule"
+46628,"IN-0063","closed","Cholavaram Airstrip",13.210242,80.152345,,"AS","IN","IN-TN","Sembilivaram","no",,,,,,,
+46640,"IN-0064","small_airport","Umaria Air Field",23.5325139099,80.80821990970001,1510,"AS","IN","IN-MP","Umaria","no",,,,,,,
+299082,"IN-0065","medium_airport","Amravati  Airport",20.814608,77.717765,1125,"AS","IN","IN-MM","Amravati","yes","VAAM","AVR","VAAM",,,"https://en.wikipedia.org/wiki/Amravati_Airport",
+300448,"IN-0066","small_airport","Madhubani Airport",26.329167,86.06,,"AS","IN","IN-BR","Madhubani","no",,,,,,,
+300449,"IN-0067","small_airport","Ulao Aerodrome",25.42788,86.08819,,"AS","IN","IN-BR","Begusarai","no",,,,,,,
+299921,"IN-0068","small_airport","Birwa Airstrip",22.092639,80.595531,,"AS","IN","IN-MP","Baihar","no",,,,,,,
+300715,"IN-0069","small_airport","Sultanpur Airport",26.2475,82.0425,,"AS","IN","IN-UP","Sultanpur","no","VESL",,"VESL",,,"https://en.wikipedia.org/wiki/Amhat_Airstrip","VISL, Amhat Airstrip"
+301043,"IN-0071","heliport","Gadag Government Estate Heliport",15.419947,75.611361,,"AS","IN","IN-KA","Gadag","no",,,,,,,
+301046,"IN-0072","small_airport","Raigarh Airport (JSPL)",21.9352805556,83.3502138889,,"AS","IN","IN-CT",,"no",,,,,,,
+301049,"IN-0073","small_airport","Savitri Jindal Airport",20.910055,85.036669,623,"AS","IN","IN-OR","Angul","no",,,,,,,
+301051,"IN-0074","small_airport","Barbil Tonto Airstrip",22.045829,85.373468,,"AS","IN","IN-OR","Bhusugaon","no","VEBL",,"VEBL",,,"https://en.wikipedia.org/wiki/Barbil_Tonto_Airstrip",
+301058,"IN-0075","heliport","Itanagar (Naharlagun) Heliport",27.111675,93.696106,,"AS","IN","IN-AR","Itanagar","no",,,,,,,
+301059,"IN-0076","heliport","[Duplicate] Itanagar (Naharlagun) Heliport",27.111675,93.696106,466,"AS","IN","IN-AR","Itanagar","no",,,,,,,
+301145,"IN-0077","small_airport","Bhagalpur Airport",25.249535,87.011976,,"AS","IN","IN-BR","Bhagalpur","no",,,,,,,
+302122,"IN-0078","closed","Bishnupur Airfield",23.0339266917,87.35486984250001,,"AS","IN","IN-WB",,"no",,,,,,,
+302134,"IN-0079","closed","Guskhara Airfield",23.471667,87.794167,,"AS","IN","IN-WB",,"no",,,,,,"https://en.wikipedia.org/wiki/Guskhara_Airfield",
+302135,"IN-0080","closed","Pandaveswar Airfield",23.641300520900003,87.348690033,,"AS","IN","IN-WB",,"no",,,,,,"https://en.wikipedia.org/wiki/Pandaveswar_Airfield",
+306912,"IN-0081","heliport","Annadale Helipad",31.111405,77.157015,6120,"AS","IN","IN-HP","Shimla","no",,,,,,,
+306913,"IN-0082","heliport","Ajog Heliport",32.921925,76.457747,7460,"AS","IN","IN-HP","Ajog","no",,,,,,,
+306915,"IN-0083","heliport","Bilaspur Helipad",31.345138888900003,76.75675,1685,"AS","IN","IN-HP","Bilaspur","no",,,,,,,
+308280,"IN-0084","closed","Salwas",26.141647,73.097062,,"AS","IN","IN-RJ",,"no",,,,,,,
+308281,"IN-0085","small_airport","Fury Airport",26.434072,73.101472,768,"AS","IN","IN-RJ","Karwar, Jodhpur","no",,,"VAJO",,,,
+309587,"IN-0086","small_airport","CHINDWARA AIRFIELD",22,78.93,,"AS","IN","IN-MP",,"no",,,,,,,
+309591,"IN-0087","small_airport","Gauchar Airstrip",30.284585,79.161665,,"AS","IN","IN-UT","Gauchar","no",,,,,,,"Gaucher"
+311989,"IN-0088","small_airport","Poonch Airport",33.76875,74.083753,3219,"AS","IN","IN-JK","Poonch","no",,,,,,"https://en.wikipedia.org/wiki/Poonch_Airport","Punch"
+309944,"IN-0089","small_airport","Noamundi Airport",22.192222,85.548889,1402,"AS","IN","IN-JH","Itarbalijor","no",,,,,,,
+311047,"IN-0091","small_airport","Saharsa Airport",25.892205,86.583016,,"AS","IN","IN-BR","Saharsa","no",,,,,,,"Saharsha"
+311049,"IN-0092","closed","Sukinda Airstrip",21.031944,85.753889,400,"AS","IN","IN-OR","Kaliapani","no",,,,,,,
+311106,"IN-0093","small_airport","Vedanta Lanjigarh Airstrip",19.7194444444,83.3936111111,,"AS","IN","IN-OR",,"no",,,,,,,
+312280,"IN-0094","closed","no airport",20.46668667,83.48333056,,"AS","IN","IN-OR",,"no",,,,,,,
+315328,"IN-0095","heliport","Kuttikayam Helipad",9.3539,76.86489,207,"AS","IN","IN-KL","Mampara","no",,,,,,"https://en.wikipedia.org/wiki/Perunad#Heliport","Perunad Heliport, Sabarimala Helipad"
+317900,"IN-0096","small_airport","Akli Airport",25.8077,70.2943,230,"AS","IN","IN-RJ","Akli","no",,,,,,,
+317980,"IN-0097","small_airport","Surichua Air Base",24.18824,87.701722,280,"AS","IN","IN-WB","Rampurhat","no",,,,,,,"Rampur Hat"
+317981,"IN-0098","heliport","Maithon Heliport",23.785,86.7935,529,"AS","IN","IN-JH","Maithon","no",,,,,,,"Gogna Colony"
+317983,"IN-0099","small_airport","Durgapur Steel Plant Airport",23.58331,87.339787,290,"AS","IN","IN-WB","Durgapur","no",,,,,,,
+317984,"IN-0100","small_airport","Sido Kanhu Airport",24.231185,87.269989,470,"AS","IN","IN-JH","Dumka","no",,,,,,,"Anasol"
+319166,"IN-0101","small_airport","Vanasthali Airport",26.407627,75.870128,,"AS","IN","IN-RJ","Vanasthali","no",,,,,,,
+336938,"IN-0102","small_airport","Mandla Airstrip",22.500929,80.331195,,"AS","IN","IN-MP","Dhenko","no",,,,,,,
+339986,"IN-0103","heliport","Parva Helipad",22.08627,92.64987,,"AS","IN","IN-MZ","Parva II","no",,,,,,,
+340004,"IN-0104","heliport","Kalyani BSF Helipad",23.02589,88.87582,,"AS","IN","IN-WB","Petrapole","no",,,,,,,
+340005,"IN-0105","closed","Ashoknagar Airfield",22.83809,88.61521,,"AS","IN","IN-WB","Ashoknagar","no",,,,,,,
+331217,"IN-0106","small_airport","Mithapur Airport",22.412068,68.993632,11,"AS","IN","IN-GJ","Mithapur","no",,,,,,,"VA86"
+331218,"IN-0107","medium_airport","Sindhudurg Airport",16.002552,73.529846,203,"AS","IN","IN-MM","Chipi","yes","VOSR","SDW","VOSR",,,"https://en.wikipedia.org/wiki/Sindhudurg_Airport","VA85"
+340006,"IN-0108","heliport","Digha Heliport",21.62606,87.501056,16,"AS","IN","IN-WB","Digha","no",,,,,,,
+340007,"IN-0109","heliport","Naraj Heliport",20.48082,85.77965,,"AS","IN","IN-OR","Narajmarthapur","no",,,,,,,
+340008,"IN-0110","heliport","Puri Heliport",19.81035,85.84752,,"AS","IN","IN-OR","Puri","no",,,,,,,
+340011,"IN-0112","heliport","Tata Steel Helipad",19.33095,84.91073,,"AS","IN","IN-OR","Sindhigan","no",,,,,,,
+340012,"IN-0113","heliport","Buragam Heliport",18.73454,84.07501,,"AS","IN","IN-AP","Buragam","no",,,,,,,
+340013,"IN-0114","heliport","Srikakulam Heliport",18.27207,83.90325,,"AS","IN","IN-AP","Srikakulam","no",,,,,,,
+340014,"IN-0115","heliport","GMR Institute of Technology Helipad",18.46648,83.66081,,"AS","IN","IN-AP","Razam","no",,,,,,,
+340015,"IN-0116","heliport","Suvarnakuteer Phase II Helipad",17.89855,83.26756,,"AS","IN","IN-AP","Visakhapatnam","no",,,,,,,
+340016,"IN-0117","heliport","HAL Heliport",18.7365,82.83861,,"AS","IN","IN-OR","Sunabeda","no",,,,,,,
+340017,"IN-0118","heliport","Rushikonda Beach Heliport",17.77966,83.38549,,"AS","IN","IN-AP","Visakhapatnam","no",,,,,,,
+340018,"IN-0119","heliport","Oxygen Towers Helipad",17.73999,83.31414,,"AS","IN","IN-AP","Visakhapatnam","no",,,,,,,
+340121,"IN-0120","heliport","Kakinada Beach Navy Heliport",17.02268,82.29039,,"AS","IN","IN-AP","Kakinada","no",,,,,,,
+340122,"IN-0121","heliport","Jawaharlal Nehru Technological University Heliport",16.98158,82.23949,,"AS","IN","IN-AP","Kakinada","no",,,,,,,
+340123,"IN-0122","heliport","Dhirubhai Ambani Heliport",16.74354,82.29191,,"AS","IN","IN-PY","Gadimoga","no",,,,,,,
+340124,"IN-0123","heliport","Yanam Heliport",16.7261,82.20674,,"AS","IN","IN-PY","Yanam","no",,,,,,,
+340125,"IN-0124","heliport","Pondicherry Heliport",11.9631,79.81498,,"AS","IN","IN-PY","Puducherry (Pondicherry)","no",,,,,,,
+340126,"IN-0125","heliport","Pondicherry Harbour Heliport",11.91806,79.82697,,"AS","IN","IN-PY","Puducherry (Pondicherry)","no",,,,,,,
+340127,"IN-0126","heliport","Anaparthi Heliport",16.94338,81.95439,,"AS","IN","IN-AP","Anaparthi","no",,,,,,,
+340128,"IN-0127","heliport","Tenali Market Heliport",16.2431,80.63092,,"AS","IN","IN-AP","Tenali","no",,,,,,,
+340129,"IN-0128","heliport","Guntur Police Parade Ground Heliport",16.29632,80.4325,,"AS","IN","IN-AP","Guntur","no",,,,,,,
+340130,"IN-0129","heliport","Amaravati Heliport",16.54477,80.52135,,"AS","IN","IN-AP","Amaravati","no",,,,,,,
+340131,"IN-0130","heliport","Krishnapatnam North Heliport",14.27386,80.09823,,"AS","IN","IN-AP","Nellore","no",,,,,,,
+340132,"IN-0131","heliport","Narayana Medical College Heliport",14.43095,80.01121,,"AS","IN","IN-AP","Nellore","no",,,,,,,
+340133,"IN-0132","closed","Nellore Airport",14.69388,79.94277,,"AS","IN","IN-AP","Dagadarthi","no",,,,,,"https://en.wikipedia.org/wiki/Nellore_Airport",
+340134,"IN-0133","heliport","ABM Junior College Heliport",15.49844,80.05503,,"AS","IN","IN-AP","Ongole","no",,,,,,,
+340135,"IN-0134","heliport","Ongole Police Training College Heliport",15.51774,80.02776,,"AS","IN","IN-AP","Ongole","no",,,,,,,
+340136,"IN-0135","heliport","Sri City Heliport",13.57462,80.03822,,"AS","IN","IN-AP","Sri City","no",,,,,,,
+340137,"IN-0136","heliport","Air 16 Heliport",13.4375,79.97665,,"AS","IN","IN-TN","Chedilpakkam","no",,,,,,,
+340138,"IN-0137","heliport","Sriharikota Heliport",13.67567,80.19056,,"AS","IN","IN-AP","Sriharikota","no",,,,,,,
+340139,"IN-0138","heliport","Vallur Camp Heliport",13.2556,80.27623,,"AS","IN","IN-TN","Minjur","no",,,,,,,
+340140,"IN-0139","heliport","Chettinad Health City Helipad",12.79598,80.22006,,"AS","IN","IN-TN","Kelambakkam","no",,,,,,,
+340141,"IN-0140","heliport","ECR Heliport",12.77042,80.24574,,"AS","IN","IN-TN","Kunnakkadu","no",,,,,,,
+340142,"IN-0141","heliport","Anna Stadium Heliport",11.75417,79.76703,,"AS","IN","IN-TN","Cuddalore","no",,,,,,,
+340143,"IN-0142","heliport","AVC Polytechnic College Heliport",11.103012,79.692989,,"AS","IN","IN-TN","Mannampandal","no",,,,,,,
+340144,"IN-0143","heliport","MARG Heliport",10.83343,79.84245,,"AS","IN","IN-PY","Karaikal","no",,,,,,,
+340145,"IN-0144","heliport","Nagapattinam Heliport",10.78938,79.83942,,"AS","IN","IN-TN","Nagapattinam","no",,,,,,,
+340147,"IN-0145","closed","Badangi Airstrip",18.4884,83.3829,,"AS","IN","IN-AP","Badangi","no",,,,,,,
+340148,"IN-0146","closed","Tadepalligudem Airstrip",16.83321,81.53099,,"AS","IN","IN-AP","Tadepalligudem","no",,,,,,,
+340149,"IN-0147","heliport","INS Parundu Heliport",9.28061,79.13578,,"AS","IN","IN-TN","Mandapam","no",,,,,,,
+340150,"IN-0148","heliport","Ramanathapuram Heliport",9.36241,78.85934,,"AS","IN","IN-TN","Ramanathapuram","no",,,,,,,
+340151,"IN-0149","heliport","Kanyakumari Heliport",8.07972,77.54877,,"AS","IN","IN-TN","Kanyakumari","no",,,,,,,
+340152,"IN-0150","heliport","Varkala Helipad",8.73564,76.70461,,"AS","IN","IN-KL","Varkala","no",,,,,,,
+340153,"IN-0151","heliport","Ashramam Heliport",8.89486,76.59155,,"AS","IN","IN-KL","Kollam","no",,,,,,"https://en.wikipedia.org/wiki/Quilon_Aerodrome","Quilon Aerodrome, Kollam Airport"
+340154,"IN-0152","heliport","Alappuzha Heliport",9.49414,76.31942,20,"AS","IN","IN-KL","Alappuzha","no",,,,,,,
+340156,"IN-0153","heliport","Indian Naval Academy Heliport",12.0376,75.19671,,"AS","IN","IN-KL","Ezhimala","no",,,,,,,
+340157,"IN-0154","heliport","Kalpeni Heliport",10.089713,73.648893,,"AS","IN","IN-LD","Kalpeni","no",,,,,,,
+340158,"IN-0155","heliport","Kiltan Heliport",11.496,72.99814,,"AS","IN","IN-LD","Kiltan","no",,,,,,,
+340159,"IN-0156","heliport","Chetlat Heliport",11.68159,72.70606,,"AS","IN","IN-LD","Chetlat","no",,,,,,,
+340160,"IN-0157","heliport","Bitra Heliport",11.60039,72.18541,,"AS","IN","IN-LD","Bitra","no",,,,,,,
+340161,"IN-0158","heliport","Kadmat Heliport",11.18231,72.76175,,"AS","IN","IN-LD","Kadmat","no",,,,,,,
+340162,"IN-0159","heliport","Amini Helipad",11.13496,72.73172,,"AS","IN","IN-LD","Amini","no",,,,,,,
+340163,"IN-0160","heliport","Bangaram Heliport",10.94592,72.28765,,"AS","IN","IN-LD","Bangaram","no",,,,,,,
+340165,"IN-0161","heliport","Andrott Heliport",10.81316,73.69946,,"AS","IN","IN-LD","Andrott","no",,,,,,,
+340166,"IN-0162","heliport","Suheli Par Heliport",10.04794,72.28857,,"AS","IN","IN-LD","Suheli Par","no",,,,,,,
+340167,"IN-0163","heliport","Minicoy Fire Station Heliport",8.27937,73.05178,,"AS","IN","IN-LD","Minicoy","no",,,,,,,
+340168,"IN-0164","heliport","Adiudupi Heliport",13.3488,74.73095,,"AS","IN","IN-KA","Adiudupi","no",,,,,,,
+340169,"IN-0165","heliport","Koteshwara Heliport",13.59634,74.71365,,"AS","IN","IN-KA","Koteshwara","no",,,,,,,
+340170,"IN-0166","heliport","Mavalli Helipad",14.10027,74.50855,,"AS","IN","IN-KA","Mavalli","no",,,,,,,
+340171,"IN-0167","heliport","Areshiroor Helipad",13.82919,74.74877,,"AS","IN","IN-KA","Areshiroor","no",,,,,,,
+340172,"IN-0168","heliport","INS Kadamba Heliport",14.76987,74.15487,,"AS","IN","IN-KA","Arga","no",,,,,,,
+340173,"IN-0169","heliport","Raj Bhavan Heliport",15.45962,73.79463,,"AS","IN","IN-GA","Dona Paula","no",,,,,,,
+340174,"IN-0170","heliport","Sequirem Heliport",15.49526,73.77516,,"AS","IN","IN-GA","Candolim","no",,,,,,,
+340175,"IN-0171","heliport","Ella Heliport",15.5114,73.92381,,"AS","IN","IN-GA","Ella","no",,,,,,,
+340176,"IN-0172","heliport","Vagator Helipad",15.59946,73.73368,,"AS","IN","IN-GA","Anjuna","no",,,,,,,
+340177,"IN-0173","heliport","Quitol Heliport",15.13299,73.96594,,"AS","IN","IN-GA","Quitol","no",,,,,,,
+340178,"IN-0174","heliport","Dwarkadhish Heliport",22.25044,68.95358,,"AS","IN","IN-GJ","Dwarka","no",,,,,,,
+340179,"IN-0175","heliport","Dwarkashish Heliport",22.25463,68.96182,,"AS","IN","IN-GJ","Dwarka","no",,,,,,,
+340180,"IN-0176","small_airport","Mandvi Airport",22.83932,69.30498,,"AS","IN","IN-GJ","Mandvi","no",,,,,,,
+340181,"IN-0177","small_airport","Mehsana Airport",23.60118,72.37399,,"AS","IN","IN-GJ","Mehsana","no",,,,,,,
+340556,"IN-0178","heliport","Jaigaon Heliport",26.822651,89.391989,,"AS","IN","IN-WB","Jaigaon","no",,,,,,,
+340557,"IN-0179","heliport","Dalapchand Heliport",27.193387,88.675583,,"AS","IN","IN-SK","Aritar","no",,,,,,,
+340559,"IN-0180","heliport","Shoktsen Heliport",27.724741,91.703814,,"AS","IN","IN-AR","Shoktsen","no",,,,,,,
+341666,"IN-0181","heliport","Sito Gunno Helipad",30.02882,74.36395,,"AS","IN","IN-PB","Sito Gunno","no",,,,,,,
+341667,"IN-0182","heliport","Abohar Heliport",30.16081,74.1768,,"AS","IN","IN-PB","Abohar","no",,,,,,,
+341711,"IN-0183","heliport","Bhainsdehi Helipad",21.645885,77.623711,,"AS","IN","IN-MP","Bhainsdehi","no",,,,,,,
+341712,"IN-0184","heliport","Mozari Point Helipad",21.391405,77.321496,,"AS","IN","IN-MM","Chikhaldara","no",,,,,,,
+341743,"IN-0185","closed","Adilabad Airfield",19.664765,78.549511,,"AS","IN","IN-TG","Adilabad","no",,,,,,,
+341744,"IN-0186","heliport","Shanti Nagar Heliport",19.662823,78.538564,,"AS","IN","IN-TG","Adilabad","no",,,,,,,
+341745,"IN-0187","heliport","Adilabad Heliport",19.662494,78.548462,,"AS","IN","IN-TG","Adilabad","no",,,,,,,
+341746,"IN-0188","heliport","Dimna Lake Helipad",22.861472,86.241374,,"AS","IN","IN-JH","Jamshedpur","no",,,,,,,
+341748,"IN-0189","heliport","SAP Camp Helipad",15.82762,78.022942,,"AS","IN","IN-AP","Kurnool","no",,,,,,,
+341749,"IN-0190","heliport","Manjunath Huded Helipad",15.36992,76.504243,,"AS","IN","IN-KA","Basavana Durga","no",,,,,,,
+341750,"IN-0191","heliport","Gulbarga Heliport",17.326028,76.843368,,"AS","IN","IN-KA","Gulbarga","no",,,,,,,
+341751,"IN-0192","heliport","Kia Factory Heliport",14.163568,77.616621,,"AS","IN","IN-AP","Duddebanda","no",,,,,,,
+341752,"IN-0193","heliport","Sundipenta Helipiort",16.06663,78.9142,,"AS","IN","IN-AP","Sundipenta","no",,,,,,,
+341753,"IN-0194","heliport","Davanagere Heliport",14.444823,75.923356,,"AS","IN","IN-KA","Davanagere","no",,,,,,,
+341754,"IN-0195","heliport","Kia Factory Helipad",14.160405,77.625947,,"AS","IN","IN-AP","Duddebanda","no",,,,,,,
+341755,"IN-0196","heliport","NTPC Kudgi Helipad",16.491748,75.833551,,"AS","IN","IN-KA","Telgi","no",,,,,,,
+341756,"IN-0197","heliport","Defence Research and Development Organization Helipad",17.335419,78.498922,,"AS","IN","IN-TG","Hyderabad","no",,,,,,,
+341757,"IN-0198","heliport","Bagalkot Heliport",16.167272,75.671748,,"AS","IN","IN-KA","Bagalkot","no",,,,,,,
+341758,"IN-0199","heliport","Sagar Helipad",14.157544,75.00186,,"AS","IN","IN-KA","Sampalli","no",,,,,,,
+341759,"IN-0200","heliport","Infosys Heliport",12.849384,77.661706,,"AS","IN","IN-KA","Bengaluru","no",,,,,,,
+341760,"IN-0201","heliport","Karimnagar Heliport",18.429549,79.125341,,"AS","IN","IN-TG","Karimnagar","no",,,,,,,
+341761,"IN-0202","heliport","Oterra Hotel Helipad",12.850085,77.660633,,"AS","IN","IN-KA","Bengaluru","no",,,,,,,
+341762,"IN-0203","heliport","Chikodi Helipad",16.427864,74.555727,,"AS","IN","IN-KA","Belgaum","no",,,,,,,
+341763,"IN-0204","heliport","Hadagali Helipad",15.025368,75.973912,,"AS","IN","IN-KA","Hadagali","no",,,,,,,
+341767,"IN-0205","heliport","Kakraban Heliport",23.477405,91.413509,,"AS","IN","IN-TR","Kakraban","no",,,,,,,
+341768,"IN-0206","heliport","Udaipur Helipad",23.56406,91.470621,,"AS","IN","IN-TR","Radhakishorepur","no",,,,,,,
+341769,"IN-0207","heliport","Paschim Jalefa Heliport",23.026273,91.706276,,"AS","IN","IN-TR","Paschim Jalefa","no",,,,,,,
+341775,"IN-0208","heliport","Agra Heliport",27.15727,78.117582,,"AS","IN","IN-UP","Hingot Kheria","no",,,,,,,
+341776,"IN-0209","heliport","Rohini Heliport",28.752659,77.058718,719,"AS","IN","IN-DL","Rohini","no",,,,,,,
+341777,"IN-0210","heliport","Kuttanellur Heliport",10.501753,76.254586,,"AS","IN","IN-KL","Thrissur","no",,,,,,,
+341778,"IN-0211","heliport","Jaypee Greens Helipad",28.46595,77.523169,,"AS","IN","IN-UP","Greater Noida","no",,,,,,,
+341798,"IN-0212","heliport","SVP Hospital Helipad",23.019684,72.571711,,"AS","IN","IN-GJ","Ahmedabad","no",,,,,,,
+341799,"IN-0213","heliport","Sarkhej-Okaf Heliport",23.0023,72.46914,,"AS","IN","IN-GJ","Sarkhej-Okaf","no",,,,,,,
+341800,"IN-0214","heliport","Koba Heliport",23.146389,72.635223,,"AS","IN","IN-GJ","Gandhinagar","no",,,,,,,
+341801,"IN-0215","heliport","TELAV Helipad",22.985982,72.42063,,"AS","IN","IN-GJ","Gibpura","no",,,,,,,
+341802,"IN-0216","heliport","Dholka Heliport",22.72097,72.459568,,"AS","IN","IN-GJ","Dholka","no",,,,,,,
+341803,"IN-0217","heliport","Gujarat State Assembly Heliport",23.217949,72.65901,,"AS","IN","IN-GJ","Gandhinagar","no",,,,,,,"Vidhan Sabha"
+341804,"IN-0218","heliport","Kalol Heliport",23.222579,72.498995,,"AS","IN","IN-GJ","Kalol","no",,,,,,,
+341805,"IN-0219","heliport","United Phosphorus Helipad",20.337466,72.899429,,"AS","IN","IN-GJ","Nahuli","no",,,,,,,
+341806,"IN-0220","heliport","Kawade Heliport",20.114043,72.88384,,"AS","IN","IN-MM","Kawade","no",,,,,,,
+341807,"IN-0221","heliport","Daman Heliport",20.433359,72.849382,,"AS","IN","IN-DH","Marwad","no",,,,,,,
+341808,"IN-0222","heliport","MAA Foundation Helipad",20.403102,72.904262,,"AS","IN","IN-GJ","Vapi","no",,,,,,,
+341809,"IN-0223","heliport","Sardar Patel Heliport",23.010427,71.229845,,"AS","IN","IN-GJ","Halvad","no",,,,,,,
+341810,"IN-0224","heliport","Reliance Corporate Park Heliport",19.130282,73.011801,,"AS","IN","IN-MM","Navi Mumbai","no",,,,,,,
+341811,"IN-0225","heliport","Reliance Corporate Park North Heliport",19.132914,73.01128,,"AS","IN","IN-MM","Navi Mumbai","no",,,,,,,
+341812,"IN-0226","heliport","Mumbai University Heliport",19.066998,72.856918,,"AS","IN","IN-MM","Mumbai","no",,,,,,,
+341813,"IN-0227","heliport","Saily Police Training School Heliport",20.252858,73.035821,,"AS","IN","IN-DH","Alok","no",,,,,,,
+341814,"IN-0228","heliport","Haveli Grounds Heliport",20.268076,72.984833,,"AS","IN","IN-DH","Silvassa","no",,,,,,,
+341816,"IN-0229","heliport","CQAV Heliport",19.11263,74.740041,,"AS","IN","IN-MM","Ahmednagar","no",,,,,,,
+341817,"IN-0230","heliport","Ahmednagar Police Heliport",19.100453,74.73498,,"AS","IN","IN-MM","Ahmednagar","no",,,,,,,
+341818,"IN-0231","heliport","DMR Area Heliport",19.070711,74.787925,,"AS","IN","IN-MM","Ahmednagar","no",,,,,,,
+341819,"IN-0232","heliport","ACC&S Heliport",19.084887,74.777932,,"AS","IN","IN-MM","Ahmednagar","no",,,,,,,
+341820,"IN-0233","heliport","MIRC Heliport",19.05024,74.767188,,"AS","IN","IN-MM","Wakodi","no",,,,,,,
+341836,"IN-0234","heliport","Mizoram University Heliport",23.732843,92.65553,,"AS","IN","IN-MZ","Aizawl","no",,,,,,,
+341837,"IN-0235","heliport","Mualpui Helipot",23.715285,92.736057,,"AS","IN","IN-MZ","Aizawl","no",,,,,,,
+341838,"IN-0236","heliport","Luangpawl Heliport",23.894013,92.497234,,"AS","IN","IN-MZ","Mamit","no",,,,,,,
+341839,"IN-0237","heliport","Kawrtethawveng Heliport",23.873867,92.372788,,"AS","IN","IN-MZ","Kawrtethawveng","no",,,,,,,
+341840,"IN-0238","heliport","Kawnpui Helipad",24.046672,92.671347,,"AS","IN","IN-MZ","Kawnpui","no",,,,,,,
+341841,"IN-0239","heliport","Sialsuk Heliport",23.394918,92.753586,,"AS","IN","IN-MZ","Sialsuk","no",,,,,,,
+341842,"IN-0240","heliport","Saitual Heliport",23.693488,92.978364,,"AS","IN","IN-MZ","Saitual","no",,,,,,,
+341843,"IN-0241","heliport","Darlawn Chhimveng Heliport",24.010327,92.148375,,"AS","IN","IN-MZ","Darlawn","no",,,,,,,
+341844,"IN-0242","heliport","Tuipuibari Heliport",23.71351,92.327704,,"AS","IN","IN-MZ","Tuipuibari","no",,,,,,,
+341845,"IN-0243","heliport","Suangpuilawn Heliport",23.94864,93.032695,,"AS","IN","IN-MZ","Suangpuilawn","no",,,,,,,
+341846,"IN-0244","heliport","Champhai Heliport",23.469998,93.34356,,"AS","IN","IN-MZ","Champhai","no",,,,,,,
+341886,"IN-0245","heliport","Ghooghra Heliport Ajmer",26.509349,74.704718,,"AS","IN","IN-RJ","Ghooghra","no",,,,,,,
+341887,"IN-0246","heliport","Pushkar Heliport",26.485927,74.543235,,"AS","IN","IN-RJ","Pushkar","no",,,,,,,
+341888,"IN-0247","heliport","Kishanpura Goyla Heliport",26.476022,74.519229,,"AS","IN","IN-RJ","Kishanpura Goyla","no",,,,,,,
+341889,"IN-0248","heliport","Tiloniya Heliport",26.646926,74.938877,,"AS","IN","IN-RJ","Tiloniya","no",,,,,,,
+341890,"IN-0249","heliport","Pushkar Hotel Heliport",26.479509,74.518667,,"AS","IN","IN-RJ","Kishanpura Goyla","no",,,,,,,
+341891,"IN-0250","heliport","Central University of Rajasthan Heliport",26.628069,75.028541,,"AS","IN","IN-RJ","Bandar Seendri","no",,,,,,,
+341898,"IN-0251","heliport","HAL Heliport",26.21757,81.817293,,"AS","IN","IN-UP","Korwa","no",,,,,,,
+341899,"IN-0252","heliport","Mau Heliport",25.913982,83.561476,,"AS","IN","IN-UP","Mau","no",,,,,,,
+341900,"IN-0253","heliport","MMMUT Heliport",26.731111,83.435293,,"AS","IN","IN-UP","Gorakhpur","no",,,,,,,
+341901,"IN-0254","heliport","Prayagraj Army Helipad",25.486483,81.850521,,"AS","IN","IN-UP","Prayagraj","no",,,,,,,
+341902,"IN-0255","heliport","Fertilizer Colony Helipad",26.82455,83.376899,,"AS","IN","IN-UP","Gorakhpur","no",,,,,,,
+341912,"IN-0256","heliport","Shegaon Heliport",20.779141,76.692378,,"AS","IN","IN-MM","Shegaon","no",,,,,,,
+341913,"IN-0257","heliport","Bhokardan Heliport",20.234464,75.768429,,"AS","IN","IN-MM","Bhokardan","no",,,,,,,
+341914,"IN-0258","heliport","ACC Heliport",21.940413,80.047809,,"AS","IN","IN-MP","Lalbarra","no",,,,,,,
+341915,"IN-0259","heliport","BKT Heliport",17.971592,73.043761,,"AS","IN","IN-MM","Narayannagar","no",,,,,,,
+341970,"IN-0260","heliport","Chennai Military Hospital Helipad",13.0196,80.1976,52,"AS","IN","IN-TN","Chennai","no",,,,,,,
+341972,"IN-0261","heliport","Chethy Beach Helipad",9.624,76.2966,13,"AS","IN","IN-KL","Mararikkulam North","no",,,,,,,
+341973,"IN-0262","heliport","Devaswam Board Pampa College Helipad",9.3235,76.5354,16,"AS","IN","IN-KL","Nirmalapuram","no",,,,,,,
+341974,"IN-0263","heliport","Manjinikkara Helipad",9.2481,76.7469,55,"AS","IN","IN-KL","Pathanamthitta","no",,,,,,,
+341975,"IN-0264","heliport","Kottayam Police Heliport",9.5911,76.5337,128,"AS","IN","IN-KL","Kottayam","no",,,,,,,
+341976,"IN-0265","heliport","KSEB Heliport",9.7855,76.8503,515,"AS","IN","IN-KL","Moolamattom","no",,,,,,,
+341977,"IN-0266","heliport","Lakeshore Hospital Helipad",9.9188,76.319,,"AS","IN","IN-KL","Ernakulam","no",,,,,,,
+341978,"IN-0267","heliport","Sabarimala Nilakkal Heliport",9.3863,77.0102,1270,"AS","IN","IN-KL","Perunad","no",,,,,,,
+341979,"IN-0268","heliport","Amrita Heliport",10.0366,76.2996,20,"AS","IN","IN-KL","Ernakulam","no",,,,,,,
+341980,"IN-0269","heliport","Bolgatty / Lulu Grand Hyatt Heliport",9.9899,76.264,1,"AS","IN","IN-KL","Ernakulam","no",,,,,,,
+341981,"IN-0270","heliport","Jatayu-Chipsan Aviation Heliport",8.8634,76.8661,478,"AS","IN","IN-KL","Kollam","no",,,,,,,
+341982,"IN-0271","heliport","Ayiranalloor Heliport",8.9858,76.9729,586,"AS","IN","IN-KL","Ayiranalloor","no",,,,,,,
+341983,"IN-0272","heliport","Chipsan-Orange Hills Heliport",9.6348,77.1308,3754,"AS","IN","IN-KL","Pathumury","no",,,,,,,
+341984,"IN-0273","heliport","Prakrithisakthi Helipad",9.5293,76.9786,2726,"AS","IN","IN-KL","Panchalimedu","no",,,,,,,
+341985,"IN-0274","heliport","Ottakathatla Helipad",9.6367,77.1545,3996,"AS","IN","IN-KL","Chakkuppallam","no",,,,,,,
+341986,"IN-0275","heliport","Aster Hospital Helipad",10.0445,76.2767,14,"AS","IN","IN-KL","Kochi","no",,,,,,,
+342093,"IN-0276","large_airport","Navi Mumbai International Airport",18.984597,73.065253,184,"AS","IN","IN-MM","Navi Mumbai","yes","VANM","NMI","VANM",,,"https://en.wikipedia.org/wiki/Navi_Mumbai_International_Airport","D. B. Patil, new airport"
+342196,"IN-0278","heliport","Nyoma Heliport",33.193,78.6417,13594,"AS","IN","IN-LA","Nyoma","no",,,,,,,
+342197,"IN-0279","small_airport","Chushul Airstrip",33.55493,78.72214,14213,"AS","IN","IN-LA","Chushul","no",,,,,,,
+342198,"IN-0280","heliport","Tangtse Heliport",34.06786,78.13719,12851,"AS","IN","IN-LA","Tangtse","no",,,,,,,
+342199,"IN-0281","heliport","Surtok Heliport",33.966779,78.418908,13944,"AS","IN","IN-LA","Surtok","no",,,,,,,
+342200,"IN-0282","heliport","Man Heliport",33.85732,78.52398,14127,"AS","IN","IN-LA","Man","no",,,,,,,
+342873,"IN-0283","small_airport","Therubali Aerodrome",19.34564,83.43444,830,"AS","IN","IN-OR","Deopur","no",,,,,,,
+347130,"IN-0284","heliport","Aerial Bay Heliport",13.27495,93.02323,25,"AS","IN","IN-AN","Diglipur","no",,,,,,,
+347136,"IN-0285","heliport","Diglipur Heliport",13.25542,93.00137,16,"AS","IN","IN-AN","Diglipur","no",,,,,,,"Diglipur Helicopter Terminal"
+347137,"IN-0286","heliport","Mayabunder Heliport",12.91375,92.8976,3,"AS","IN","IN-AN","Mayabunder","no",,,,,,,"Mayabunder Helicopter Terminal"
+347138,"IN-0287","heliport","Rangat Heliport",12.50765,92.96071,20,"AS","IN","IN-AN","Rangat","no",,,,,,,
+347139,"IN-0288","heliport","Havelock Heliport",12.03744,92.98318,13,"AS","IN","IN-AN","Govind Nagar","no",,,,,,,
+347140,"IN-0289","heliport","Neil Island Heliport",11.84177,93.01838,23,"AS","IN","IN-AN","Lakshmanpur","no",,,,,,,
+347141,"IN-0290","heliport","Ross Island Heliport",11.67722,92.76022,1,"AS","IN","IN-AN","Port Blair","no",,,,,,,
+347142,"IN-0291","heliport","Chidiya Tapu Heliport",11.50879,92.70187,13,"AS","IN","IN-AN","Port Blair","no",,,,,,,
+347143,"IN-0292","heliport","Hut Bay Heliport",10.60307,92.53432,10,"AS","IN","IN-AN","Kwate-tu-kwage (Hut Bay)","no",,,,,,,
+347144,"IN-0293","seaplane_base","Hut Bay Seaplane Base",10.58975,92.55899,,"AS","IN","IN-AN","Kwate-tu-kwage (Hut Bay)","no",,,,,,,
+347145,"IN-0294","heliport","Chowra Island Heliport",8.46046,93.04432,20,"AS","IN","IN-AN","Nancowry","no",,,,,,,
+347146,"IN-0295","heliport","Tarasa Dwip Island Heliport",8.30196,93.1247,60,"AS","IN","IN-AN","Nancowry","no",,,,,,,
+347147,"IN-0296","heliport","Kamorta Heliport",8.03703,93.54899,20,"AS","IN","IN-AN","Nancowry","no",,,,,,,
+347148,"IN-0297","heliport","Goaltekery Heliport",8.06716,93.54712,154,"AS","IN","IN-AN","Nancowry","no",,,,,,,
+347149,"IN-0298","heliport","Champin Heliport",8.02424,93.54499,3,"AS","IN","IN-AN","Nancowry","no",,,,,,,
+347150,"IN-0299","heliport","Katchal Heliport",7.99756,93.37938,125,"AS","IN","IN-AN","Nancowry","no",,,,,,,
+348753,"IN-0300","small_airport","Viraf Airstrip",17.728462,78.700909,2010,"AS","IN","IN-TG","Mamidiyal","no",,,,,,,
+354545,"IN-0301","medium_airport","Rashtrakavi Kuvempu Airport",13.858024,75.618868,2017,"AS","IN","IN-KA","Shimoga","no","VOSH","RQY","VOSH",,"https://web.archive.org/web/20240204161112/https://ksiidc.karnataka.gov.in/new-page/ShivamoggaAirport/en","https://en.wikipedia.org/wiki/Shivamogga_Airport","Sogane, Shivamogga"
+350876,"IN-0302","small_airport","Nyoma Airstrip",33.16913,78.72971,13589,"AS","IN","IN-LA","Nyoma","no",,,,,,,
+350878,"IN-0303","heliport","Kargil Heliport",34.5577,76.13505,9154,"AS","IN","IN-LA","Kargil","no",,,,,,,
+350879,"IN-0304","heliport","Nimmoo Basgo Hydroelectric Plant Heliport",34.211296,77.185811,10289,"AS","IN","IN-LA","Khaltsi","no",,,,,,,
+350880,"IN-0305","heliport","Nimmoo Heliport",34.19983,77.31903,10253,"AS","IN","IN-LA","Nimmoo","no",,,,,,,
+350881,"IN-0306","heliport","Khalatse Zerthang Heliport",34.31879,76.90241,9829,"AS","IN","IN-LA","Khalatse","no",,,,,,,"Khalsi, Khaltse"
+350890,"IN-0307","small_airport","Tuting Advanced Landing Ground",28.98876,94.89863,1562,"AS","IN","IN-AR","Tuting","no",,,"VETU",,,"https://en.wikipedia.org/wiki/Tuting_Advanced_Landing_Ground","Tuting Airport and Heliport"
+354546,"IN-0308","medium_airport","Itanagar Donyi Polo Hollongi Airport",26.96683,93.638792,328,"AS","IN","IN-AR","Hollongi","yes","VEHO","HGI","VEHO",,,"https://en.wikipedia.org/wiki/Itanagar_Airport",
+355261,"IN-0309","heliport","HeliTaxii Heliport",12.84305,77.668188,3005,"AS","IN","IN-KA","Bengaluru","no",,,,,,,
+355262,"IN-0310","heliport","Chandimandir Helipad",30.73473,76.88139,1410,"AS","IN","IN-HR","Panchkula","no",,,,,,,
+355263,"IN-0311","heliport","Pilani Helipad",28.349677,75.591104,974,"AS","IN","IN-RJ","Pilani","no",,,,,,,
+355265,"IN-0312","heliport","ICAT Helipad",28.36925,76.87712,790,"AS","IN","IN-HR","Gurugram","no",,,,,,,
+355266,"IN-0313","heliport","EON Helipad",18.545464,73.96432,1774,"AS","IN","IN-MM","Pune","no",,,,,,,
+355267,"IN-0314","heliport","Ganga Helipad",11.09489,76.95603,1417,"AS","IN","IN-TN","Coimbatore","no",,,,,,,
+355268,"IN-0315","heliport","RPSCL Private Helipad",27.83428,79.92742,501,"AS","IN","IN-UP","Shahjahanpur","no",,,,,,,
+355270,"IN-0316","heliport","Varanasi Police Line Helipad",25.34819,82.98752,255,"AS","IN","IN-UP","Varanasi","no",,,,,,,
+356024,"IN-0317","heliport","Kiari Heliport",33.47621,78.12866,12641,"AS","IN","IN-LA","Kiari","no",,,,,,,
+356025,"IN-0318","heliport","Chumathang Heliport",33.36284,78.31326,13402,"AS","IN","IN-LA","Chumathang","no",,,,,,,
+356026,"IN-0319","heliport","Karu Heliport",33.91257,77.74465,10961,"AS","IN","IN-LA","Karu","no",,,,,,,
+356027,"IN-0320","heliport","Upshi Heliport",33.82395,77.82194,11187,"AS","IN","IN-LA","Upshi","no",,,,,,,
+356104,"IN-0321","heliport","Jhakri SJVN Heliport",31.4899,77.70754,4420,"AS","IN","IN-HP","Shimla","no",,,,,,,
+356105,"IN-0322","heliport","Rampur Bushahr Heliport",31.41727,77.62826,4111,"AS","IN","IN-HP","Shimla","no",,,,,,,
+356106,"IN-0323","heliport","Tharu Heliport",31.3337,77.55919,6943,"AS","IN","IN-HP","Shimla","no",,,,,,,
+356107,"IN-0324","heliport","Bithal Heliport",31.3534,77.49121,2874,"AS","IN","IN-HP","Shimla","no",,,,,,,
+356109,"IN-0325","heliport","Kumharsain Heliport",31.33025,77.44237,4475,"AS","IN","IN-HP","Shimla","no",,,,,,,
+356110,"IN-0326","heliport","Kalpa Heliport",31.5392,78.2723,7615,"AS","IN","IN-HP","Kalpa","no",,,,,,,
+356111,"IN-0327","heliport","Rukling Heliport",31.6015,78.43633,8081,"AS","IN","IN-HP","Morang","no",,,,,,,
+356112,"IN-0328","heliport","Pooh Heliport",31.75225,78.57191,8781,"AS","IN","IN-HP","Pooh","no",,,,,,,
+356114,"IN-0329","heliport","Chango Heliport",31.96923,78.59328,10630,"AS","IN","IN-HP","Chango","no",,,,,,,
+356115,"IN-0330","heliport","Kaurik Heliport",32.09448,78.67575,12231,"AS","IN","IN-HP","Spiti","no",,,,,,,
+356116,"IN-0331","heliport","Khuldo Heliport",32.77295,78.98563,13980,"AS","IN","IN-LA","Khuldo","no",,,,,,,
+356118,"IN-0332","heliport","Nako Heliport",31.8861,78.62787,11826,"AS","IN","IN-HP","Nako","no",,,,,,,
+356120,"IN-0333","heliport","Judi Heliport",30.57862,78.45075,7232,"AS","IN","IN-UT","Mukhem Renge","no",,,,,,,
+356128,"IN-0334","heliport","Jindal Heliport",20.96598,86.04235,207,"AS","IN","IN-OR","Gadapur","no",,,,,,,
+356129,"IN-0335","heliport","Tata Steel Gadapur Heliport",20.96803,86.03998,201,"AS","IN","IN-OR","Gadapur","no",,,,,,,
+356130,"IN-0336","heliport","Tata Steel Bamnipal Heliport",21.12438,85.92252,289,"AS","IN","IN-OR","Bamnipal","no",,,,,,,
+356131,"IN-0337","heliport","Bamnipal Heliport",21.12157,85.92059,316,"AS","IN","IN-OR","Bamnipal","no",,,,,,,
+356132,"IN-0338","small_airport","Birasal Airport",20.98366,85.681622,240,"AS","IN","IN-OR","Rahani","no",,,,,,,
+356133,"IN-0339","heliport","NOCCi Business Park Heliport",21.49523,86.883522,62,"AS","IN","IN-OR","Balasore","no",,,,,,,
+356134,"IN-0340","closed","Bhograi Heliport",21.68382,87.41512,29,"AS","IN","IN-OR","Bhograi","no",,,,,,,
+356352,"IN-0341","small_airport","Mohammadabad Airport",27.316258,79.451555,,"AS","IN","IN-UP","Mohammadabad","no",,,,,,,"VAMH"
+429737,"IN-0342","small_airport","Marhamtabad Airport",26.58182,79.96797,,"AS","IN","IN-UP","Marhamtabad","no",,,,,,"https://en.wikipedia.org/wiki/Marhamtabad_Airstrip",
+429738,"IN-0343","small_airport","Benti Airstrip",25.67292,81.49592,,"AS","IN","IN-UP","Benti","no",,,,,,,
+429739,"IN-0344","closed","Naini Airfield",25.32424,81.84179,,"AS","IN","IN-UP","Iradatjanj","no",,,,,,,"Iradatganj"
+429740,"IN-0345","small_airport","Andhau Airfield",25.6155,83.56064,,"AS","IN","IN-UP","Biraich","no",,,,,,,
+429741,"IN-0346","small_airport","Bihta Air Force Station",25.59124,84.88312,194,"AS","IN","IN-BR","Patna","no","VEBT",,,,,"https://en.wikipedia.org/wiki/Bihta_Air_Force_Station",
+429833,"IN-0347","heliport","Gelling Heliport",29.13306,94.97873,,"AS","IN","IN-AR","Gelling","no",,,,,,,
+429834,"IN-0348","heliport","Yingkiong Heliport",28.6393,95.0196,,"AS","IN","IN-AR","Yingkiong","no",,,,,,,"Siang Heliport"
+429835,"IN-0349","heliport","Jengging Heliport",28.53862,95.06795,,"AS","IN","IN-AR","Jengging","no",,,,,,,
+429836,"IN-0350","heliport","Boleng Heliport",28.31533,94.95583,,"AS","IN","IN-AR","Boleng","no",,,,,,,
+429837,"IN-0351","heliport","Pangin Heliport",28.20879,95.00239,,"AS","IN","IN-AR","Pangin","no",,,,,,,
+429838,"IN-0352","heliport","Duliajan Oil Heliport",27.36617,95.322951,,"AS","IN","IN-AS","Duliajan","no",,,,,,,
+429839,"IN-0353","heliport","Deomali Heliport",27.195513,95.467098,,"AS","IN","IN-AS","Deomali","no",,,,,,,
+429842,"IN-0354","heliport","Namsai Heliport",27.676474,95.853884,,"AS","IN","IN-AR","Namsai","no",,,,,,,
+429849,"IN-0355","heliport","Nampong Heliport",27.300864,96.112883,,"AS","IN","IN-AR","Nampong","no",,,,,,,
+429850,"IN-0356","heliport","Miao Heliport",27.492864,96.213954,,"AS","IN","IN-AR","Miao","no",,,,,,,
+429851,"IN-0357","heliport","Nalung Heliport",27.803726,95.999887,,"AS","IN","IN-AR","Nalung","no",,,,,,,
+429852,"IN-0358","heliport","Parsuram Kund Heliport",27.88058,96.35382,,"AS","IN","IN-AR","Parsuram Kund","no",,,,,,,
+429853,"IN-0359","heliport","Roing Heliport",28.14626,95.83937,,"AS","IN","IN-AR","Roing","no",,,,,,,
+429854,"IN-0360","small_airport","Dinjan Airfield",27.53606,95.2682,390,"AS","IN","IN-AR","Baghbari Gaon","no",,,,,,"https://en.wikipedia.org/wiki/Dinjan_Airfield",
+429855,"IN-0361","heliport","Sivasagar Heliport",26.95124,94.59869,,"AS","IN","IN-AS","Rudra Sagar","no",,,,,,,
+430015,"IN-0362","heliport","Anachal Heliport / Southern Skies Balloonport",10.02322,77.03309,3035,"AS","IN","IN-KL","Anachal","no",,,,,,,
+3305,"IN-0363","small_airport","Dhule Airport",20.9265,74.737099,920,"AS","IN","IN-MM","Dhule(Gondur)","no",,,,"VA53",,,
+3306,"IN-0364","small_airport","Abu Road Airport",24.4942,72.781502,875,"AS","IN","IN-RJ",,"no",,,,"VA74",,,
+571717,"IN-0365","heliport","Hisar Heliport",29.11653,75.82027,757,"AS","IN","IN-HR","Hisar","no",,,,,,,
+508627,"IN-0366","heliport","Jain Irrigations Helipad",20.945389,75.551255,840,"AS","IN","IN-MM","Jalgoan","no",,,,,,,
+508628,"IN-0367","small_airport","Dahod Helipad",22.874296,74.243247,860,"AS","IN","IN-GJ","Dahod","no",,,,"JLG",,,
+508629,"IN-0368","closed","Jabua Airstrip",22.780522,74.561697,1200,"AS","IN","IN-MP","Kundla","no",,,,,,,
+508630,"IN-0369","medium_airport","Sant Gadge Baba Yavatmal Airport",20.395781,78.216272,1403,"AS","IN","IN-MM","Yavatmal","no",,,,"VA78",,"https://en.wikipedia.org/wiki/Sant_Gadge_Baba_Yavatmal_Airport",
+517010,"IN-0370","small_airport","Gunna Ka Pura",26.65022,77.792484,791,"AS","IN","IN-RJ","Khanpura","no",,,,,,,
+517082,"IN-0371","heliport","Birpur Airstrip",26.509893,87.016609,273,"AS","IN","IN-BR","Birpur","no",,,,,,,
+517157,"IN-0372","heliport","Fazilka Heliport",30.394823,74.054244,586,"AS","IN","IN-PB","Fazilka","no",,,,,,,
+517212,"IN-0373","small_airport","Tarpura Airfield",27.729912,75.24086,1434,"AS","IN","IN-RJ","Dadiya","no",,,,,,,
+518553,"IN-0374","closed","RIAF Phaphamau",25.545166,81.88199,335,"AS","IN","IN-UP","Phaphamau","no",,,,,,"https://en.wikipedia.org/wiki/Phaphamau",
+549731,"IN-0375","heliport","INS Adyar Heliport",13.073189,80.290046,32,"AS","IN","IN-TN","Chennai","no",,,,,,,
+528562,"IN-0377","heliport","Narendra Modi Stadium Heliport",23.096266,72.60104,269,"AS","IN","IN-GJ","Ahmedabad","no",,,,,,,
+555870,"IN-0378","heliport","Gandhinagar Heliport",19.965882,73.809096,,"AS","IN","IN-MM","Nashik","no",,,,,,,
+555871,"IN-0379","heliport","[Duplicate] Gandhinagar Heliport",19.965882,73.809096,,"AS","IN","IN-MM","Nashik","no",,,,,,,
+571743,"IN-0380","heliport","Mehna Heliport",30.233786,75.008798,676,"AS","IN","IN-PB","Bhatinda","no",,,,,,,
+32589,"IN-0381","closed","Dunakonda Airport",15.8063,79.4882,472,"AS","IN","IN-AP","Dunakonda","no",,,,,,"https://en.wikipedia.org/wiki/Donakonda_Airport","VODK, VODK"
+26454,"IN-0382","small_airport","Gandhinagar Airfield",19.963699,73.807602,1959,"AS","IN","IN-MM","Nashik","no","VANR",,"VANR",,,"https://en.wikipedia.org/wiki/Gandhinagar_Airport","ISK, Nashik Road Airport"
+595309,"IN-0383","heliport","Nilgrar Heliport",34.28701,75.32843,8953,"AS","IN","IN-JK","Sonamarg","no",,,,,,,
+595310,"IN-0384","heliport","Sonamarg Heliport",34.30261,75.28678,8776,"AS","IN","IN-JK","Sonamarg","no",,,,,,,
+595311,"IN-0385","heliport","Sonamarg (Namrose Resorts) Heliport",34.30778,75.27828,8694,"AS","IN","IN-JK","Sonamarg","no",,,,,,,
+595312,"IN-0386","heliport","Pahalgam Heliport",34.01434,75.31333,6982,"AS","IN","IN-JK","Pahalgam","no",,,,,,,
+595420,"IN-0387","heliport","Sindhu Ghat Heliport",34.082472,77.61225,10581,"AS","IN","IN-LA","Shey","no",,,,,,,
+595421,"IN-0388","heliport","Army Hospital Leh Heliport",34.1608,77.56775,11293,"AS","IN","IN-LA","Leh","no",,,,,,,
+597482,"IN-0389","heliport","INS Dronacharya Heliport",9.952137,76.239602,15,"AS","IN","IN-KL","Kochi","no",,,,,,,
+597483,"IN-0390","small_airport","Kannur Heliport",11.862516,75.366505,24,"AS","IN","IN-KL","Kannur","no",,,,,,,
+597486,"IN-0391","heliport","PRSU Heliport",21.248285,81.599843,944,"AS","IN","IN-CT","Raipur","no",,,,,,,
+597786,"IN-0392","large_airport","Noida International Airport",28.179868,77.611843,644,"AS","IN","IN-UP","Gautam Buddha Nagar","yes","VIND","DXN","VIND",,"https://niairport.in/","https://en.wikipedia.org/wiki/Noida_International_Airport",
+598586,"IN-0393","medium_airport","Maa Mahamaya Airport",22.98753,83.19612,1930,"AS","IN","IN-CT","Ambikapur","yes","VEAP","AHA",,,"https://www.aai.aero/en/node/71997","https://en.wikipedia.org/wiki/Maa_Mahamaya_Airport","Ambikapur, Darima"
+598623,"IN-0394","heliport","Clement Town Heliport",30.259615,78.01434,1965,"AS","IN","IN-UT","Clement Town","no",,,,,,,
+604767,"IN-0395","closed","Dholera International Airport (Under Construction)",22.363316,72.308219,,"AS","IN","IN-GJ","Dholera","no",,,,,,"https://en.wikipedia.org/wiki/Dholera_International_Airport",
+605985,"IN-0396","heliport","Paradeep Sea Beach Heliport",20.260016,86.66278,16,"AS","IN","IN-OR","Paradeep","no",,,,,,,
+605986,"IN-0397","heliport","Paradeep Fshing Harbor Heliport",20.28733,86.70177,16,"AS","IN","IN-OR","Paradeep","no",,,,,,,
+605987,"IN-0398","heliport","Paradeep Arcelor Mittal Nippon Steel India Heliport",20.31809,86.64601,13,"AS","IN","IN-OR","Paradeep","no",,,,,,,
+605988,"IN-0399","heliport","Dhamara Heliport",20.78732,86.95413,10,"AS","IN","IN-OR","Sabitrisarai","no",,,,,,,
+605989,"IN-0400","heliport","Dhamara Port Heliport",20.818086,86.946538,7,"AS","IN","IN-OR","Dosinga","no",,,,,,,
+605990,"IN-0401","heliport","Chandipur Range Heliport",21.43836,87.01749,16,"AS","IN","IN-OR","Chandipur","no",,,,,,,
+605991,"IN-0402","heliport","Haldia Heliport",22.0282,88.065,13,"AS","IN","IN-OR","Haldia","no",,,,,,,
+610316,"IN-0403","heliport","Sahastradhara Helidrome",30.3758,78.09828,2750,"AS","IN","IN-UT","Dehradun","no",,,,,,,
+31698,"IN-JGB","small_airport","Jagdalpur Airport",19.074301,82.036797,1822,"AS","IN","IN-CT","Jagdalpur","yes","VEJR","JGB","VEJR","VEJR",,"https://en.wikipedia.org/wiki/Jagdalpur_Airport",
+32215,"IN-RJI","small_airport","Rajouri Airport",33.377899,74.315201,3000,"AS","IN","IN-JK","Rajouri","no",,"RJI",,,,"https://en.wikipedia.org/wiki/Rajouri_Airport","Rajauri"
+3302,"IN-VA38","small_airport","Sirohi Airport",24.895099639892578,72.84590148925781,1000,"AS","IN","IN-RJ",,"no",,,"VA38","VA38",,,
+3304,"IN-VA51","small_airport","Banswara Airport",23.589259,74.314048,700,"AS","IN","IN-RJ",,"no",,,,"VA51",,,
+314033,"OMN","small_airport","Osmanabad Airport",18.281,76.0574,2277,"AS","IN","IN-MM","Osmanabad","no",,,,,,"https://en.wikipedia.org/wiki/Osmanabad_Airport",
+3283,"VA1B","small_airport","Chanda Airport",19.994699478149414,79.22250366210938,625,"AS","IN","IN-MM",,"no",,,"VA1B","VA1B",,,
+3284,"VA1C","small_airport","Birlagram Airport",23.4468994140625,75.42030334472656,1541,"AS","IN","IN-MP",,"no",,,"VA1C","VA1C",,,
+3285,"VA1D","small_airport","Muirpur Airport",24.125200271606445,83.04060363769531,1122,"AS","IN","IN-UP",,"no",,,"VA1D","VA1D",,,
+3286,"VA1E","small_airport","Bhilai Airport",21.294200897216797,81.37950134277344,1014,"AS","IN","IN-CT",,"no",,,"VA1E","VA1E",,,
+3287,"VA1F","small_airport","Sidhi Airport",24.402299880981445,81.8147964477539,1093,"AS","IN","IN-MP",,"no",,,"VA1F","VA1F",,,
+3288,"VA1G","medium_airport","Rewa Airport, Chorhata, REWA",24.503401,81.220299,1000,"AS","IN","IN-MP","Rewa","yes","VERW","REW","VA1G","VA1G",,"https://en.wikipedia.org/wiki/Rewa_Airport",
+3289,"VA1H","small_airport","Ondwa Airport",25.14150047302246,74.61150360107422,1450,"AS","IN","IN-RJ",,"no",,,"VA1H","VA1H",,,
+3290,"VA1J","small_airport","Dhana Airport",23.753599166870117,78.85579681396484,1706,"AS","IN","IN-MP",,"no",,,"VA1J","VA1J",,,
+3291,"VA1K","small_airport","Naliya Air Force Station",23.2223,68.891296,135,"AS","IN","IN-GJ","Naliya","no",,,"VANY",,,"https://en.wikipedia.org/wiki/Naliya_Air_Force_Station","Raedhanpur Airport, VA1K"
+3292,"VA1L","small_airport","Amla Airport",21.926399,78.113602,2435,"AS","IN","IN-MP","Amla","no",,,"VA1L","VA1L",,,
+3293,"VA1M","small_airport","Karad Airport",17.285900115966797,74.15809631347656,1890,"AS","IN","IN-MM",,"no",,,"VA1M","VA1M",,,
+3294,"VA1N","small_airport","Nimach Airport",24.43079948425293,74.8677978515625,1617,"AS","IN","IN-MP",,"no",,,"VA1N","VA1N",,,
+3295,"VA1O","small_airport","Burhar Airport",23.235200881958008,81.50370025634766,1500,"AS","IN","IN-MP",,"no",,,"VA1O","VA1O",,,
+3296,"VA1P","small_airport","Diu Airport",20.714185,70.921855,31,"AS","IN","IN-DH","Diu","yes","VADU","DIU","VADU","VADU","http://aai.aero/allAirports/diu_airpo_gi.jsp","https://en.wikipedia.org/wiki/Diu_Airport","VA1P"
+3297,"VA2A","small_airport","Phalodi Airport",27.112899780273438,72.38899993896484,781,"AS","IN","IN-RJ",,"no",,,"VA2A","VA2A",,,
+3298,"VA2B","small_airport","Dr. Bhimrao Ambedkar Airstrip",28.904933,77.677524,732,"AS","IN","IN-UP","Meerut","no",,,"VA2B","VA2B",,,
+3299,"VA2C","medium_airport","Gondia Airport",21.526817,80.290347,987,"AS","IN","IN-MM","Gondia","yes","VAGD","GDB","VAGD","VA2C",,"https://en.wikipedia.org/wiki/Gondia_Airport","Birsi"
+3300,"VA2D","small_airport","Ratlam Airport",23.381399154663086,75.02559661865234,1702,"AS","IN","IN-MP",,"no",,,"VA2D","VA2D",,,
+26431,"VAAH","large_airport","Sardar Vallabh Patel International Airport",23.0772,72.634697,189,"AS","IN","IN-GJ","Ahmedabad","yes","VAAH","AMD","VAAH",,"https://www.adani.com/svpia-ahmedabad-airport","https://en.wikipedia.org/wiki/Sardar_Vallabhbhai_Patel_International_Airport","Gandhinagar Air Force Station"
+26432,"VAAK","medium_airport","Akola Airport",20.698931,77.056883,999,"AS","IN","IN-MM","Akola","no","VAAK","AKD","VAAK",,,"https://en.wikipedia.org/wiki/Akola_Airport","Shioni Airport"
+26433,"VAAU","medium_airport","Aurangabad Airport",19.862875,75.396312,1911,"AS","IN","IN-MM","Aurangabad","yes","VAAU","IXU","VAAU",,"http://aai.aero/allAirports/aurangabad_generalinfo.jsp","https://en.wikipedia.org/wiki/Aurangabad_Airport","Chikkalthana Airport, Chhatrapati Sambhajinagar"
+26434,"VABB","large_airport","Chhatrapati Shivaji Maharaj International Airport",19.088699,72.867897,39,"AS","IN","IN-MM","Mumbai","yes","VABB","BOM","VABB",,"http://www.csia.in/","https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_International_Airport","Bombay, Sahar International Airport"
+26436,"VABJ","medium_airport","Bhuj Airport",23.2877998352,69.6701965332,268,"AS","IN","IN-GJ","Bhuj","yes","VABJ","BHJ","VABJ",,"http://aai.aero/allAirports/bhuj_generalinfo.jsp","https://en.wikipedia.org/wiki/Bhuj_Airport","Bhuj Rudra Mata Air Force Station, Shyamji Krishna Verma, Bhuj Airport"
+26437,"VABM","medium_airport","Belagavi Airport",15.8593,74.618301,2487,"AS","IN","IN-KA","Belgaum","yes","VOBM","IXG","VOBM",,,"https://en.wikipedia.org/wiki/Belgaum_Airport","VABM"
+26438,"VABO","large_airport","Vadodara International Airport",22.336201,73.226303,129,"AS","IN","IN-GJ","Vadodara","yes","VABO","BDQ","VABO",,"http://aai.aero/allAirports/vadodara_generalinfo.jsp","https://en.wikipedia.org/wiki/Vadodara_Airport","Civil Airport Harni"
+26439,"VABP","large_airport","Raja Bhoj International Airport",23.2875,77.337402,1711,"AS","IN","IN-MP","Bhopal","yes","VABP","BHO","VABP",,"http://aai.aero/allAirports/bhopal_generalinfo.jsp","https://en.wikipedia.org/wiki/Bhopal_Airport",
+26440,"VABV","medium_airport","Bhavnagar Airport",21.752199173,72.1852035522,44,"AS","IN","IN-GJ","Bhavnagar","yes","VABV","BHU","VABV",,"http://aai.aero/allAirports/bhavnagar.jsp","https://en.wikipedia.org/wiki/Bhavnagar_Airport",
+26441,"VADN","medium_airport","Daman Airport",20.434401,72.843201,33,"AS","IN","IN-DH","Daman","no","VADN","NMB","VADN",,,"https://en.wikipedia.org/wiki/Daman_Airport",
+26442,"VADS","small_airport","Deesa Airport",24.2679,72.204399,485,"AS","IN","IN-GJ","Deesa","no",,,"VADS",,,"https://en.wikipedia.org/wiki/Deesa_Airport","Disa, Palanpur"
+26443,"VAGN","small_airport","Guna Airport",24.654699,77.347298,1600,"AS","IN","IN-MP",,"no","VAGN","GUX","VAGN",,,,
+26445,"VAHB","medium_airport","Hubballi Airport",15.361084,75.082096,2171,"AS","IN","IN-KA","Hubballi","yes","VOHB","HBX","VOHB",,"http://www.airportsindia.org.in/allAirports/hubli_generalinfo.jsp","https://en.wikipedia.org/wiki/Hubli_Airport","Hubli, VAHB"
+512065,"VAHS","large_airport","Rajkot International Airport",22.378824,71.039391,647,"AS","IN","IN-GJ","Rajkot","yes","VAHS","HSR","VAHS",,,"https://en.wikipedia.org/wiki/Rajkot_International_Airport","Hirasar Airport"
+26446,"VAID","large_airport","Devi Ahilya Bai Holkar International Airport",22.721404,75.80051,1850,"AS","IN","IN-MP","Indore","yes","VAID","IDR","VAID",,"http://aai.aero/allAirports/indore_technicalinfo.jsp","https://en.wikipedia.org/wiki/Devi_Ahilyabai_Holkar_International_Airport",
+26447,"VAJB","medium_airport","Jabalpur Airport",23.177799,80.052002,1624,"AS","IN","IN-MP","Jabalpur","yes","VAJB","JLR","VAJB",,,"https://en.wikipedia.org/wiki/Jabalpur_Airport",
+30171,"VAJJ","small_airport","Juhu Aerodrome",19.098100662231445,72.83419799804688,13,"AS","IN","IN-MM","Mumbai","no",,,"VAJJ",,"http://www.airportsindia.org.in/allAirports/juhu.jsp","https://en.wikipedia.org/wiki/Juhu_Aerodrome","Bombay"
+3303,"VAJL","small_airport","Jalgaon Airport",20.962678,75.627492,818,"AS","IN","IN-MM","Jalgaon","yes","VAJL","JLG","VAJL",,,"https://en.wikipedia.org/wiki/Jalgaon_Airport","VA47"
+26448,"VAJM","medium_airport","Jamnagar Airport",22.465499877929688,70.01260375976562,69,"AS","IN","IN-GJ","Jamnagar","yes","VAJM","JGA","VAJM",,,"https://en.wikipedia.org/wiki/Jamnagar_Airport","Jamnagar Air Force Station"
+26449,"VAKE","medium_airport","Kandla Airport",23.1127,70.100304,96,"AS","IN","IN-GJ","Kandla","yes","VAKE","IXY","VAKE",,"http://aai.aero/allAirports/kandla_generalinfo.jsp","https://en.wikipedia.org/wiki/Kandla_Airport",
+26450,"VAKJ","medium_airport","Khajuraho Airport",24.8172,79.918602,728,"AS","IN","IN-MP","Khajuraho","yes","VEKO","HJR","VEKO",,"https://www.aai.aero/en/airports/khajuraho","https://en.wikipedia.org/wiki/Khajuraho_Airport","VAKJ"
+26451,"VAKP","medium_airport","Kolhapur Airport",16.6647,74.289398,1996,"AS","IN","IN-MM","Kolhapur","yes","VAKP","KLH","VAKP",,,"https://en.wikipedia.org/wiki/Kolhapur_Airport",
+26452,"VAKS","medium_airport","Keshod Airport",21.317101,70.270401,167,"AS","IN","IN-GJ","Keshod","yes","VAKS","IXK","VAKS",,"https://www.aai.aero/en/airports/keshod","https://en.wikipedia.org/wiki/Keshod_Airport",
+3341,"VALT","medium_airport","Murod Kond Airport",18.411501,76.464699,2136,"AS","IN","IN-MM","Latur","yes","VALT","LTU","VALT",,,"https://en.wikipedia.org/wiki/Latur_Airport",
+340182,"VAMA","small_airport","Mundra Airport",22.834795,69.765408,,"AS","IN","IN-GJ","Mundra","no",,,"VAMA",,,"https://en.wikipedia.org/wiki/Mundra_Airport",
+30180,"VAND","medium_airport","Nanded Airport",19.1833,77.316704,1250,"AS","IN","IN-MM","Nanded","yes","VAND","NDC","VOND","VOND",,"https://en.wikipedia.org/wiki/Nanded_Airport",
+26453,"VANP","large_airport","Dr. Babasaheb Ambedkar International Airport",21.092199,79.047203,1033,"AS","IN","IN-MM","Nagpur","yes","VANP","NAG","VANP",,"http://aai.aero/allAirports/nagpur1_generalinfo.jsp","https://en.wikipedia.org/wiki/Dr._Babasaheb_Ambedkar_International_Airport","Sonegaon Airport, Sonegaon Air Force Station"
+3301,"VAOZ","large_airport","Nashik International Airport",20.119101,73.912903,1900,"AS","IN","IN-MM","Nashik","yes","VAOZ","ISK","VAOZ",,"https://www.goindigo.in/airport-directory/india/nashik-isk.html","https://en.wikipedia.org/wiki/Nashik_Airport","VA35"
+26455,"VAPO","large_airport","Pune International Airport",18.5821,73.919701,1942,"AS","IN","IN-MM","Pune","yes","VAPO","PNQ","VAPO",,,"https://en.wikipedia.org/wiki/Pune_Airport","Lohegaon Airport, Lohegaon Air Force Station"
+26456,"VAPR","medium_airport","Porbandar Airport",21.649524,69.656405,23,"AS","IN","IN-GJ","Porbandar","yes","VAPR","PBD","VAPR",,"http://www.airportsindia.org.in/allAirports/porbander.jsp","https://en.wikipedia.org/wiki/Porbandar_Airport",
+26457,"VARG","medium_airport","Ratnagiri Airport",17.013599,73.327797,305,"AS","IN","IN-MM",,"no","VARG","RTC","VARG",,,"https://en.wikipedia.org/wiki/Ratnagiri_Airport",
+26458,"VARK","medium_airport","Rajkot Airport",22.3092,70.779503,441,"AS","IN","IN-GJ","Rajkot","no","VARK","RAJ","VARK",,,"https://en.wikipedia.org/wiki/Rajkot_Airport",
+26459,"VARP","medium_airport","Swami Vivekananda Airport",21.180401,81.7388,1041,"AS","IN","IN-CT","Raipur","yes","VERP","RPR","VERP",,"http://aai.aero/allAirports/raipur_generalinfo.jsp","https://en.wikipedia.org/wiki/Swami_Vivekananda_Airport","VARP, Mana Airport, Raipur Airport"
+327452,"VASD","large_airport","Shirdi International Airport",19.689211,74.373655,1926,"AS","IN","IN-MM","Kakadi","yes","VASD","SAG","VASD",,,"https://en.wikipedia.org/wiki/Shirdi_Airport","Ahmednagar, Saibaba"
+26460,"VASL","medium_airport","Solapur Airport",17.6280002594,75.93479919430001,1584,"AS","IN","IN-MM","Solapur","no","VASL","SSE","VASL",,,"https://en.wikipedia.org/wiki/Solapur_Airport","Sholapur"
+26461,"VASU","large_airport","Surat International Airport",21.115531,72.743251,16,"AS","IN","IN-GJ","Surat","yes","VASU","STV","VASU",,"https://suratinternationalairport.com/","https://en.wikipedia.org/wiki/Surat_Airport",
+26462,"VAUD","medium_airport","Maharana Pratap Airport",24.617700576799997,73.89610290530001,1684,"AS","IN","IN-RJ","Udaipur","yes","VAUD","UDR","VAUD",,"http://www.airportsindia.org.in/allAirports/udaipur_airpo_gi.jsp","https://en.wikipedia.org/wiki/Udaipur_Airport","Dabok Airport"
+3307,"VE23","small_airport","Burnpur Airport",23.631500244140625,86.97550201416016,310,"AS","IN","IN-WB",,"no",,,"VE23","VE23",,,
+3308,"VE24","small_airport","Sookerating (Doomdooma) Airport",27.5529,95.570602,400,"AS","IN","IN-AS","Sokriting T.E.","no",,,"VE24","VE24",,,
+3310,"VE36","small_airport","Nuagaon Airport",20.511699676513672,83.4480972290039,656,"AS","IN","IN-OR",,"no",,,"VE36","VE36",,,
+3311,"VE41","small_airport","Giridih Airport",24.201900482177734,86.28980255126953,1000,"AS","IN","IN-BR",,"no",,,"VE41","VE41",,,
+3315,"VE54","small_airport","Daltonganj Airport",24.01930046081543,84.09510040283203,803,"AS","IN","IN-BR",,"no",,,"VE54","VE54",,,
+3316,"VE62","small_airport","Cuttack Airport / Charbatia Air Force Station",20.549601,85.886299,115,"AS","IN","IN-OR","Bandalo","no",,,"VE62","VE62",,,"Charbatia"
+3317,"VE67","small_airport","Mechuka Advanced Landing Ground",28.602458,94.126139,7900,"AS","IN","IN-AR","Kargong","no",,,"VE67","VE67",,,
+3318,"VE85","small_airport","Bentayan Airport",23.09510040283203,75.88529968261719,1666,"AS","IN","IN-MP","Ujjain","no",,,,,,,"VE85"
+3320,"VE91","small_airport","Vijaynagar Advanced Landing Ground",27.1935997009,97.00370025630001,4167,"AS","IN","IN-AR",,"no",,,"VE91","VE91",,,
+3321,"VE96","small_airport","Thuniabhand Airport",22.00160026550293,78.91719818115234,2182,"AS","IN","IN-MP",,"no",,,"VE96","VE96",,,
+525150,"VEAH","small_airport","Azamgarh Airport",26.153333,83.118333,250,"AS","IN","IN-UP","Azamgarh","no",,"AZH","VEAH",,,"https://en.wikipedia.org/wiki/Azamgarh_Airport",
+26488,"VEAN","medium_airport","Along Airport",28.17530059814453,94.802001953125,900,"AS","IN","IN-AR",,"no","VEAN","IXV","VEAN",,,"https://en.wikipedia.org/wiki/Along_Airport",
+26489,"VEAT","medium_airport","Agartala - Maharaja Bir Bikram Airport",23.886999,91.240402,46,"AS","IN","IN-TR","Agartala","yes","VEAT","IXA","VEAT",,,"https://en.wikipedia.org/wiki/Agartala_Airport","Singerbhil Airport, Agartala Air Force Station"
+26490,"VEAZ","small_airport","Tuirial Airfield",23.746214,92.802846,1093,"AS","IN","IN-MZ","Aizawl","no",,,"VEAZ",,,,
+29689,"VEBA","small_airport","Behala Airport",22.50423,88.293427,10,"AS","IN","IN-WB","Kolkata","no","VEBA",,"VEBA",,,"https://en.wikipedia.org/wiki/Behala_Airport","Parnasree"
+26491,"VEBD","large_airport","Bagdogra Airport",26.6812,88.328598,412,"AS","IN","IN-WB","Siliguri","yes","VEBD","IXB","VEBD",,"http://aai.aero/allAirports/bagdogra_generalinfo.jsp","https://en.wikipedia.org/wiki/Bagdogra_Airport","Bagdogra Air Force Station"
+32206,"VEBG","small_airport","Balurghat Airport",25.2617,88.795601,78,"AS","IN","IN-WB","Balurghat","no","VEBG","RGH","VEBG",,,"https://en.wikipedia.org/wiki/Balurghat_Airport",
+26492,"VEBI","medium_airport","Shillong Airport",25.70359992980957,91.97869873046875,2910,"AS","IN","IN-ML","Shillong","yes","VEBI","SHL","VEBI",,,"https://en.wikipedia.org/wiki/Shillong_Airport","Barapani Airport, Barapani Air Force Station, Umroi Airport"
+26493,"VEBK","small_airport","Bokaro Airport",23.643499,86.148903,715,"AS","IN","IN-BR",,"no","VEBK",,"VEBK",,,"https://en.wikipedia.org/wiki/Bokaro_Airport",
+340009,"VEBM","small_airport","Berhampur Rangeilunda Airport",19.2975,84.876944,100,"AS","IN","IN-OR","Berhampur (Brahmapur)","no","VEBP",,"VEBM",,,"https://en.wikipedia.org/wiki/Berhampur_Airport","Brahmapur, Rangeilunda"
+26545,"VEBN","large_airport","Lal Bahadur Shastri International Airport",25.452171,82.862549,266,"AS","IN","IN-UP","Varanasi","yes","VEBN","VNS","VEBN",,"https://www.aai.aero/en/airports/varanasi","https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri_Airport","VIBN, Babatpur Airport, Varanasi Airport"
+26494,"VEBS","large_airport","Biju Patnaik International Airport",20.251021,85.814747,138,"AS","IN","IN-OR","Bhubaneswar","yes","VEBS","BBI","VEBS",,"http://aai.aero/allAirports/bhubaneshwar_generalinfo.jsp","https://en.wikipedia.org/wiki/Biju_Patnaik_Airport",
+26435,"VEBU","medium_airport","Bilaspur Airport",21.9884,82.111,899,"AS","IN","IN-CT","Bilaspur","yes","VEBU","PAB","VEBU",,,"https://en.wikipedia.org/wiki/Bilaspur_Airport","VABI"
+26495,"VECA","small_airport","Chabua Air Force Station",27.4622,95.117699,367,"AS","IN","IN-AS","Chabua","no","VECA",,"VECA",,,"https://en.wikipedia.org/wiki/Chabua_Air_Force_Station",
+26496,"VECC","large_airport","Netaji Subhash Chandra Bose International Airport",22.654012,88.44765,16,"AS","IN","IN-WB","Kolkata","yes","VECC","CCU","VECC",,"https://www.nscbiairport.com/","https://en.wikipedia.org/wiki/Netaji_Subhash_Chandra_Bose_International_Airport","Calcutta, Kolkatta, Dum Dum Air Force Station"
+29775,"VECK","small_airport","Chakulia Airport",22.463625,86.705219,430,"AS","IN","IN-JH",,"no","VECK",,"VECK",,,"https://en.wikipedia.org/wiki/Chakulia_Airport",
+26497,"VECO","small_airport","Cooch Behar Airport",26.3305,89.467201,138,"AS","IN","IN-WB","Cooch Behar","no","VECO","COH","VECO",,,"https://en.wikipedia.org/wiki/Cooch_Behar_Airport",
+525147,"VECT","small_airport","Chitrakoot Airport",25.167694,80.9358,1050,"AS","IN","IN-UP","Chitrakoot","no",,"CWK","VECT",,,"https://en.wikipedia.org/wiki/Chitrakoot_Airport",
+26498,"VEDB","medium_airport","Dhanbad Airport",23.834,86.425301,847,"AS","IN","IN-BR",,"no","VEDB","DBD","VEDB",,,"https://en.wikipedia.org/wiki/Dhanbad_Airport",
+317982,"VEDG","medium_airport","Kazi Nazrul Islam Airport",23.6225,87.243,300,"AS","IN","IN-WB","Durgapur","yes","VEDG","RDP","VEDG",,,"https://en.wikipedia.org/wiki/Kazi_Nazrul_Islam_Airport","Andal Airport, Durgapur Airport"
+3319,"VEDH","medium_airport","Darbhanga Airport",26.192801,85.916901,156,"AS","IN","IN-BR","Darbhanga","yes","VEDH","DBR","VEDH","VEDH",,"https://en.wikipedia.org/wiki/Darbhanga_Airport",
+312234,"VEDO","small_airport","Deoghar Airport",24.446842,86.704955,361,"AS","IN","IN-JH","Deoghar","yes","VEDO","DGH","VEDO",,"https://www.aai.aero/en/airports/deoghar","https://en.wikipedia.org/wiki/Deoghar_Airport",
+26499,"VEDX","small_airport","Kharagpur Airport / Kalaikunda Air Force Station",22.3395,87.2145,200,"AS","IN","IN-WB","Doarkhol","no","VEDX",,"VEDX",,,"https://en.wikipedia.org/wiki/Kalaikunda_Air_Force_Station","VE60"
+44474,"VEDZ","small_airport","Daporijo Airport",27.985500335699996,94.22280120850002,750,"AS","IN","IN-AR","Daporijo","no","VEDZ","DEP","VEDZ",,,"https://en.wikipedia.org/wiki/Daporijo_Airport","Deparijo, Daparizo, Deparizo, DAE"
+26500,"VEGK","medium_airport","Gorakhpur Airport",26.739700317399997,83.4496994019,259,"AS","IN","IN-UP","Gorakhpur","yes","VEGK","GOP","VEGK",,"http://www.aai.aero/allAirports/gorakhpur.jsp","https://en.wikipedia.org/wiki/Gorakhpur_Airport","Gorakhpur Air Force Station"
+26501,"VEGT","large_airport","Lokpriya Gopinath Bordoloi International Airport",26.106654,91.585226,162,"AS","IN","IN-AS","Guwahati","yes","VEGT","GAU","VEGT",,"http://aai.aero/guwahati/index.jsp","https://en.wikipedia.org/wiki/Lokpriya_Gopinath_Bordoloi_International_Airport","Borjhar Airport, Mountain Shadow Air Force Station"
+26502,"VEGY","medium_airport","Gaya Airport",24.744301,84.951202,380,"AS","IN","IN-BR","Gaya","yes","VEGY","GAY","VEGY",,,"https://en.wikipedia.org/wiki/Gaya_Airport",
+26503,"VEHK","small_airport","Hirakud Airport",21.5802,84.005699,658,"AS","IN","IN-OR","Sambalpur","no","VEHK",,"VEHK",,,"https://en.wikipedia.org/wiki/Hirakud_Airstrip",
+3312,"VEHX","medium_airport","Hashimara Air Force Station",26.698299,89.369102,340,"AS","IN","IN-WB","Jalpaiguri","no","VEHX",,"VEHX","VE44",,"https://en.wikipedia.org/wiki/Hasimara_Air_Force_Station",
+26504,"VEIM","large_airport","Bir Tikendrajit International Airport",24.76,93.896698,2540,"AS","IN","IN-MN","Imphal","yes","VEIM","IMF","VEIM",,"http://www.aai.aero/allAirports/imphal_gen.jsp","https://en.wikipedia.org/wiki/Imphal_Airport","Imphal"
+26505,"VEJH","small_airport","Jharsuguda Airport",21.9135,84.0504,751,"AS","IN","IN-OR",,"yes","VEJH","JRG","VEJH",,,"https://en.wikipedia.org/wiki/Jharsuguda_Airport",
+32183,"VEJP","small_airport","Jeypore Airport",18.879549,82.552478,1952,"AS","IN","IN-OR","Jeypore","no","VEJP","PYB","VEJP",,,"https://en.wikipedia.org/wiki/Jeypore_Airport","Jeypur, Jaypur"
+26506,"VEJS","medium_airport","Sonari Airport",22.813706,86.168981,475,"AS","IN","IN-JH","Jamshedpur","no","VEJS","IXW","VEJS",,,"https://en.wikipedia.org/wiki/Sonari_Airport",
+26507,"VEJT","medium_airport","Jorhat Airport",26.730456,94.175416,311,"AS","IN","IN-AS","Jorhat","yes","VEJT","JRH","VEJT",,"http://aai.aero/allAirports/jorhat_airpo_gi.jsp","https://en.wikipedia.org/wiki/Jorhat_Airport","Rowriah Airport, Jorhat Air Force Station"
+599962,"VEKG","small_airport","Kishanganj Airport",26.075836,87.93965,139,"AS","IN","IN-BR","Kishanganj","no","VEKG",,"VEKG",,,,
+599963,"VEKH","heliport","Katihar Heliport",25.614599,87.555376,111,"AS","IN","IN-BR",,"no","VEKH",,"VEKH",,,,
+350147,"VEKI","medium_airport","Kushinagar International Airport",26.776534,83.889214,266,"AS","IN","IN-UP","Kushinagar","no","VEKI","KBK","VEKI",,,"https://en.wikipedia.org/wiki/Kushinagar_International_Airport",
+309893,"VEKJ","small_airport","Kendujhar Airport",21.696667,85.581667,,"AS","IN","IN-OR","Gopinathapur","no","VEKJ",,"VEKJ",,,"https://en.wikipedia.org/wiki/Kendujhar_Airstrip","Keonjhar, Raisuon"
+30005,"VEKM","small_airport","Kamalpur Airport",24.134325,91.810769,131,"AS","IN","IN-TR","Manik Bhandar","no","VEKM","IXQ","VEKM",,,"https://en.wikipedia.org/wiki/Kamalpur_Airport",
+26508,"VEKR","medium_airport","Kailashahar Airport",24.308657,92.00768,79,"AS","IN","IN-TR","Kailashahar","no","VEKR","IXH","VEKR",,,"https://en.wikipedia.org/wiki/Kailashahar_Airport",
+26509,"VEKU","medium_airport","Silchar Airport",24.9129009247,92.97869873050001,352,"AS","IN","IN-AS","Silchar","yes","VEKU","IXS","VEKU",,"http://aai.aero/allAirports/silchar_general.jsp","https://en.wikipedia.org/wiki/Silchar_Airport","Kumbhigram Air Force Station"
+31691,"VEKW","small_airport","Khowai Airport",24.061899,91.603897,95,"AS","IN","IN-TR","Khowai","no","VEKW","IXN","VEKW",,,"https://en.wikipedia.org/wiki/Khowai_Airport",
+26510,"VELP","medium_airport","Lengpui Airport",23.840599,92.619698,1398,"AS","IN","IN-MZ","Aizawl (Lengpui)","yes","VELP","AJL","VELP",,"http://www.aai.aero/allAirports/lengpui.jsp","https://en.wikipedia.org/wiki/Lengpui_Airport",
+26511,"VELR","medium_airport","Lilabari North Lakhimpur Airport",27.295682,94.097266,330,"AS","IN","IN-AS","Lilabari","yes","VELR","IXI","VELR",,,"https://en.wikipedia.org/wiki/Lilabari_Airport",
+31799,"VEMH","small_airport","Malda Airport",25.01018,88.126917,79,"AS","IN","IN-WB","Malda","no","VEMH","LDA","VEMH",,,"https://en.wikipedia.org/wiki/Malda_Airport","English Bazar"
+26512,"VEMN","medium_airport","Dibrugarh Airport",27.4839000702,95.0168991089,362,"AS","IN","IN-AS","Dibrugarh","yes","VEMN","DIB","VEMN",,,"https://en.wikipedia.org/wiki/Dibrugarh_Airport","Mohanbari Air Force Station"
+26513,"VEMR","medium_airport","Dimapur Airport",25.883899688699998,93.77110290530001,487,"AS","IN","IN-NL","Dimapur","yes","VEMR","DMU","VEMR",,,"https://en.wikipedia.org/wiki/Dimapur_Airport",
+26514,"VEMZ","medium_airport","Muzaffarpur Airport",26.119101,85.313698,174,"AS","IN","IN-BR","Muzaffarpur","no","VEMZ","MZU","VEMZ",,,"https://en.wikipedia.org/wiki/Muzaffarpur_Airport",
+26515,"VENP","small_airport","Nawapara Airport",20.870001,82.5196,1058,"AS","IN","IN-OR","Nawapara","no",,,"VENP",,,"https://en.wikipedia.org/wiki/Nuapada_Airstrip",
+31692,"VEPG","small_airport","Pasighat Airport",28.064786,95.336952,477,"AS","IN","IN-AR","Pasighat","no","VEPG","IXT","VEPG",,,"https://en.wikipedia.org/wiki/Pasighat_Airport",
+26516,"VEPH","medium_airport","Panagarh Air Force Station",23.474300384499998,87.4274978638,240,"AS","IN","IN-WB",,"no",,,"VEPH",,,"https://en.wikipedia.org/wiki/Panagarh_Airport",
+3309,"VEPI","small_airport","Barrackpore Air Force Station",22.7810001373,88.3591995239,18,"AS","IN","IN-WB","Barrackpore","no",,,"VEPI","VE31",,,
+26517,"VEPT","medium_airport","Jay Prakash Narayan Airport",25.591299,85.087997,170,"AS","IN","IN-BR","Patna","yes","VEPT","PAT","VEPT",,"http://airportsindia.org.in/allAirports/patna_techinfo.jsp","https://en.wikipedia.org/wiki/Jay_Prakash_Narayan_Airport","Lok Nayah Jayprakash"
+26518,"VEPU","small_airport","Purnea Airport",25.759599685668945,87.41000366210938,129,"AS","IN","IN-BR",,"no",,,"VEPU",,,"https://en.wikipedia.org/wiki/Purnea_Airport",
+26519,"VERC","medium_airport","Birsa Munda Airport",23.314300537100003,85.3217010498,2148,"AS","IN","IN-JH","Ranchi","yes","VERC","IXR","VERC",,"http://airportsindia.org.in/allAirports/ranchi.jsp","https://en.wikipedia.org/wiki/Birsa_Munda_Airport",
+26520,"VERK","medium_airport","Rourkela Airport",22.256571,84.815193,659,"AS","IN","IN-OR","Rourkela","no","VERK","RRK","VERK",,,"https://en.wikipedia.org/wiki/Rourkela_Airport",
+30325,"VERL","small_airport","Raxaul Airport",26.9667,84.833298,259,"AS","IN","IN-BR",,"no",,,"VERL",,,"https://en.wikipedia.org/wiki/Raxaul_Airport",
+30356,"VERU","small_airport","Rupsi Airport",26.141867,89.907892,131,"AS","IN","IN-AS","Rupsi","no","VERU","RUP","VERU",,,"https://en.wikipedia.org/wiki/Rupsi_Airport",
+32433,"VETJ","small_airport","Tezu Airport",27.9412002563,96.1343994141,800,"AS","IN","IN-AR","Tezu","no","VETJ","TEI","VETJ",,,"https://en.wikipedia.org/wiki/Tezu_Airport","Teju New Airport"
+26521,"VETZ","medium_airport","Tezpur Airport",26.7091007232666,92.78469848632812,240,"AS","IN","IN-AS",,"yes","VETZ","TEZ","VETZ",,,"https://en.wikipedia.org/wiki/Tezpur_Airport","Salonibari Airport, Tezpur Air Force Station"
+26522,"VEUK","medium_airport","Utkela Airport",20.097778,83.183333,685,"AS","IN","IN-OR","Bhawanipatna","yes","VEUK","UKE","VEUK",,,"https://en.wikipedia.org/wiki/Utkela_Airport",
+26523,"VEVZ","medium_airport","INS Dega Airport (visakhapatnam international airport)",17.723506,83.227729,15,"AS","IN","IN-AP","Visakhapatnam","no","VOVZ",,"VOVZ",,"http://www.vizagairport.in/","https://en.wikipedia.org/wiki/Visakhapatnam_Airport","VEVZ, Visakhapatnam, Vizag"
+26524,"VEZO","medium_airport","Ziro Airport",27.588301,93.828102,5403,"AS","IN","IN-AR","Ziro","no","VEZO","ZER","VEZO",,,"https://en.wikipedia.org/wiki/Zero_Airport",
+429736,"VI00","small_airport","Saifai Airport",26.9202,79.06277,,"AS","IN","IN-UP","Barauli Khurd","no",,,"VI00",,,"https://en.wikipedia.org/wiki/Saifai_Airstrip",
+3322,"VI20","small_airport","Narnaul Airport",28.077101,76.205002,955,"AS","IN","IN-HR",,"no",,,"VINL","VI20",,"https://en.wikipedia.org/wiki/Narnaul_Airport",
+3323,"VI40","small_airport","Karnal Airport",29.714663,77.037438,829,"AS","IN","IN-HR","Niawal","no",,,"VI40","VI40",,,
+3324,"VI43","small_airport","Suratgarh New Airport",29.387800216674805,73.90390014648438,554,"AS","IN","IN-RJ",,"no",,,"VI43","VI43",,,"Phalodi Air Force Station"
+3325,"VI57","small_airport","Thoise Airport",34.652599,77.375801,10046,"AS","IN","IN-LA","Nubra","no",,,"VI57","VI57",,,
+3327,"VI65","small_airport","Kargil Airport",34.5243,76.155899,9604,"AS","IN","IN-LA","Kargil","no",,,"VI65","VI65",,"https://en.wikipedia.org/wiki/Kargil_Airport",
+3328,"VI66","small_airport","Fukche Advanced Landing Ground",32.937401,79.213203,13700,"AS","IN","IN-LA","Koyul","no",,,"VI66","VI66",,,
+3329,"VI69","small_airport","Jhunjhunu Airport",28.106700897216797,75.37560272216797,1110,"AS","IN","IN-RJ",,"no",,,"VI69","VI69",,,
+3330,"VI70","small_airport","Pilani New Airport",28.348800659179688,75.59369659423828,1100,"AS","IN","IN-RJ",,"no",,,"VI70","VI70",,,
+3331,"VI71","small_airport","Pinjore Airfield and Flying Club",30.82457,76.883652,1700,"AS","IN","IN-HR","Gannan","no",,,"VI71","VI71",,,"Kalka"
+3332,"VI73","small_airport","Nagaur Airport",27.20829963684082,73.7114028930664,950,"AS","IN","IN-RJ",,"no",,,"VI73","VI73",,,
+3333,"VI75","small_airport","IIT Kanpur Airport",26.520399,80.232904,400,"AS","IN","IN-UP","Kanpur","no",,,,,,"https://en.wikipedia.org/wiki/IIT_Kanpur_Airport","Kalyanpur Airport, VI75"
+3334,"VI76","small_airport","Band Tal Airport",26.000099182128906,78.26180267333984,790,"AS","IN","IN-MP",,"no",,,"VI76","VI76",,,
+3335,"VI82","small_airport","Maa Ganga Airport Uttarkashi",30.582583,78.323164,2983,"AS","IN","IN-UT","Chinyalisour","no",,,"VI82","VI82",,,"Bharkot"
+3336,"VI88","small_airport","Beas Airport",31.559999,75.341301,741,"AS","IN","IN-PB","Bhaini","no",,,"VI88","VI88",,,"Jallowal Airport"
+3337,"VI90","small_airport","Akbarpur Mahamaya Rajkiya Airport",26.447599,82.568199,288,"AS","IN","IN-UP","Akbarpur","no",,,"VI90","VI90",,,
+26537,"VIAG","medium_airport","Agra Airport / Agra Air Force Station",27.157975,77.961025,551,"AS","IN","IN-UP","Agra","yes","VIAG","AGR","VIAG",,,"https://en.wikipedia.org/wiki/Agra_Airport","Kheria Airport, Pandit Deen Dayal Upadhyay Airport, RAF Agra"
+298454,"VIAH","small_airport","Aligarh Airport",27.861437,78.145404,619,"AS","IN","IN-UP","Aligarh","no","VIAH","HRH","VIAH",,,"https://en.wikipedia.org/wiki/Aligarh_Airport","Dhanipur"
+26538,"VIAL","medium_airport","Prayagraj Airport",25.4401,81.733902,322,"AS","IN","IN-UP","Allahabad","yes","VEAB","IXD","VEAB","VEAB","https://www.aai.aero/en/node/75695","https://en.wikipedia.org/wiki/Prayagraj_Airport","VIAL, Allahabad Bamrauli Airport, Bamrauli Air Force Station"
+26539,"VIAM","medium_airport","Ambala Air Force Station",30.368099,76.816704,909,"AS","IN","IN-HR","Ambala","no",,,"VIAM","VI18",,"https://en.wikipedia.org/wiki/Halwara_Air_Force_Base",
+26540,"VIAR","large_airport","Sri Guru Ram Das Ji International Airport",31.7096,74.797302,756,"AS","IN","IN-PB","Amritsar","yes","VIAR","ATQ","VIAR",,"http://www.aai.aero/allAirports/amritsar_generalinfo.jsp","https://en.wikipedia.org/wiki/Sri_Guru_Ram_Dass_Jee_International_Airport","Amritsar Air Force Station"
+26541,"VIAW","small_airport","Awantipura Air Force Station",33.876598,74.9757,5393,"AS","IN","IN-JK","Awantipura","no",,,"VIAW",,,"https://en.wikipedia.org/wiki/Awantipur_Air_Force_Station","Awantipora, Awantipur"
+26542,"VIAX","small_airport","Adampur Airport",31.4338,75.758797,775,"AS","IN","IN-PB","Adampur","yes","VIAX","AIP","VIAX",,,"https://en.wikipedia.org/wiki/Adampur_Air_Force_Base","Adampur Air Force Station"
+26543,"VIBK","medium_airport","Nal Airport",28.070601,73.207199,750,"AS","IN","IN-RJ","Bikaner","no","VIBK","BKB","VIBK",,,"https://en.wikipedia.org/wiki/Bikaner_Airport","Nal Air Force Station"
+26544,"VIBL","small_airport","Bakshi Ka Talab Air Force Station",26.9883,80.893097,385,"AS","IN","IN-UP","Lucknow","no",,,"VIBL",,,"https://en.wikipedia.org/wiki/Lucknow_Air_Force_Station",
+26546,"VIBR","medium_airport","Kullu Manali Airport",31.876699,77.154404,3573,"AS","IN","IN-HP","Bhuntar","yes","VIBR","KUU","VIBR",,,"https://en.wikipedia.org/wiki/Kullu%E2%80%93Manali_Airport",
+26547,"VIBT","medium_airport","Bhatinda Air Force Station",30.2701,74.755798,662,"AS","IN","IN-PB",,"no","VIBT","BUP","VIBT",,,"https://en.wikipedia.org/wiki/Bathinda_Airport",
+26548,"VIBW","small_airport","Bhiwani Airport",28.837,76.1791,720,"AS","IN","IN-HR","Bhiwani","no",,,"VIBW",,,"https://en.wikipedia.org/wiki/Bhiwani_Airport",
+26549,"VIBY","medium_airport","Bareilly Air Force Station",28.4221,79.450798,580,"AS","IN","IN-UP","Bareilly","yes","VIBY","BEK","VIBY",,,"https://en.wikipedia.org/wiki/Trishul_Air-base","Trishul Air Base"
+26550,"VICG","large_airport","Shaheed Bhagat Singh International Airport",30.6735,76.788498,1012,"AS","IN","IN-CH","Chandigarh","yes","VICG","IXC","VICG",,,"https://en.wikipedia.org/wiki/Chandigarh_Airport","Chandigarh Air Force Station"
+26551,"VICX","medium_airport","Kanpur Airport",26.404301,80.410103,410,"AS","IN","IN-UP","Kanpur","yes","VECX","KNU","VEKA","VEKA",,"https://en.wikipedia.org/wiki/Kanpur_Airport","VECX (IAF Stn), VICX, Ganesh Shankar Vidyarthi Airport, Chakeri Air Force Station"
+26552,"VIDD","medium_airport","Safdarjung Airport",28.585453,77.203563,705,"AS","IN","IN-DL","New Delhi","no","VIDD",,"VIDD",,,"https://en.wikipedia.org/wiki/Safdarjung_Airport",
+26553,"VIDF","small_airport","Pithoragarh Airport",29.593599,80.239197,4910,"AS","IN","IN-UT","Pithoragarh","no","VIPG",,"VIPG",,,"https://en.wikipedia.org/wiki/Pithoragarh_Airport","Naini–Saini"
+26554,"VIDN","medium_airport","Dehradun Jolly Grant Airport",30.189243,78.176651,1831,"AS","IN","IN-UT","Dehradun (Jauligrant)","yes","VIDN","DED","VIDN",,"http://aai.aero/allAirports/dehradun_generalinfo.jsp","https://en.wikipedia.org/wiki/Jolly_Grant_Airport","Jauligrant, Jolly Grant"
+26555,"VIDP","large_airport","Indira Gandhi International Airport",28.55563,77.09519,777,"AS","IN","IN-DL","New Delhi","yes","VIDP","DEL","VIDP",,"https://www.newdelhiairport.in/","https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport","Palam Air Force Station"
+26556,"VIDX","small_airport","Hindon Airport / Hindon Air Force Station",28.707701,77.358902,700,"AS","IN","IN-UP","Ghaziabad","yes","VIDX","HDO","VIDX",,,"https://en.wikipedia.org/wiki/Hindon_Airport",
+26557,"VIGG","medium_airport","Kangra Airport",32.164902,76.263018,2525,"AS","IN","IN-HP","Kangra","yes","VIGG","DHM","VIGG",,"https://www.aai.aero/en/airports/kangra-gaggal","https://en.wikipedia.org/wiki/Kangra_Airport","Dharamshala, Gaggal"
+26558,"VIGR","medium_airport","Gwalior Airport",26.29330062866211,78.22779846191406,617,"AS","IN","IN-MP","Gwalior","yes","VIGR","GWL","VIGR",,,"https://en.wikipedia.org/wiki/Gwalior_Airport","Maharajpur Air Force Station"
+26559,"VIHR","large_airport","Maharaja Agrasen International Airport",29.186065,75.74142,700,"AS","IN","IN-HR","Hisar","yes","VIHR","HSS","VIHR",,,"https://en.wikipedia.org/wiki/Hisar_Airport","Hisar"
+26560,"VIHX","large_airport","Halwara International Airport",30.748501,75.629799,790,"AS","IN","IN-PB","Halwara","yes","VIHX","HWR","VIHX",,,"https://en.wikipedia.org/wiki/Ludhiana_Halwara_International_Airport","Ludhiana International Airport, Halwara Air Force Station"
+26561,"VIJN","small_airport","Jhansi Airport",25.491199,78.558403,801,"AS","IN","IN-UP",,"no",,,"VIJN",,,"https://en.wikipedia.org/wiki/Jhansi_Airstrip",
+26562,"VIJO","medium_airport","Jodhpur Airport",26.251100540161133,73.04889678955078,717,"AS","IN","IN-RJ","Jodhpur","yes","VIJO","JDH","VIJO",,,"https://en.wikipedia.org/wiki/Jodhpur_Airport","Jodhpur Air Force Station"
+26563,"VIJP","large_airport","Jaipur International Airport",26.8242,75.812202,1263,"AS","IN","IN-RJ","Jaipur","yes","VIJP","JAI","VIJP",,"https://www.jaipurairport.com/","https://en.wikipedia.org/wiki/Jaipur_International_Airport",
+26564,"VIJR","medium_airport","Jaisalmer Airport",26.8887,70.864998,751,"AS","IN","IN-RJ",,"yes","VIJR","JSA","VIJR",,,"https://en.wikipedia.org/wiki/Jaisalmer_Airport","Jaisalmer Air Force Station"
+26565,"VIJU","medium_airport","Jammu Airport",32.688849,74.838152,996,"AS","IN","IN-JK","Jammu","yes","VIJU","IXJ","VIJU",,,"https://en.wikipedia.org/wiki/Jammu_Airport","Satwari Airport"
+26566,"VIKA","small_airport","Kanpur Civil Airport (Old)",26.440857,80.365029,411,"AS","IN","IN-UP","Kanpur","no","VIKA",,"VIKA",,,,"KNU"
+327453,"VIKG","medium_airport","Kishangarh Airport Ajmer",26.591007,74.812956,,"AS","IN","IN-RJ","Ajmer (Kishangarh)","yes","VIKG","KQH","VIKG",,,"https://en.wikipedia.org/wiki/Kishangarh_Airport",
+26567,"VIKO","medium_airport","Kota Airport",25.160200119,75.84559631350001,896,"AS","IN","IN-RJ","Kota","no","VIKO","KTU","VIKO",,,"https://en.wikipedia.org/wiki/Kota_Airport",
+26568,"VILD","medium_airport","Ludhiana Airport",30.854700088500977,75.95259857177734,834,"AS","IN","IN-PB",,"no","VILD","LUH","VILD",,,"https://en.wikipedia.org/wiki/Sahnewal_Airport",
+26569,"VILH","medium_airport","Leh Kushok Bakula Rimpochee Airport",34.135899,77.546501,10682,"AS","IN","IN-LA","Leh","yes","VILH","IXL","VILH",,"http://airportsindia.org.in/allAirports/leh_generalinfo.jsp","https://en.wikipedia.org/wiki/Leh_Kushok_Bakula_Rimpochee_Airport","Leh Air Force Station"
+26570,"VILK","large_airport","Chaudhary Charan Singh International Airport",26.760599,80.889297,410,"AS","IN","IN-UP","Lucknow","yes","VILK","LKO","VILK",,"http://aai.aero/allAirports/lucknow_generalinfo.jsp","https://en.wikipedia.org/wiki/Amausi_Airport","Amausi International Airport"
+32576,"VILP","small_airport","Lalitpur Airport",24.716999053955078,78.41699981689453,1204,"AS","IN","IN-UP","Lalitpur","no",,,"VILP",,,,
+558007,"VIMB","medium_airport","Moradabad Airport",28.81746,78.92187,637,"AS","IN","IN-UP","Moradabad","yes","VIMB","MZS","VIMB",,,"https://en.wikipedia.org/wiki/Moradabad_Airport",
+26571,"VIPK","medium_airport","Pathankot Airport",32.233611,75.634444,1017,"AS","IN","IN-PB","Pathankot","yes","VIPK","IXP","VIPK",,,"https://en.wikipedia.org/wiki/Pathankot_Airport",
+26572,"VIPL","small_airport","Patiala Airport",30.3148,76.364502,820,"AS","IN","IN-PB",,"no",,,"VIPL",,,"https://en.wikipedia.org/wiki/Patiala_Airport",
+26573,"VIPT","medium_airport","Pantnagar Airport",29.0334,79.473701,769,"AS","IN","IN-UP","Pantnagar","yes","VIPT","PGH","VIPT",,,"https://en.wikipedia.org/wiki/Pantnagar_Airport","Panthnagar"
+525296,"VIPX","small_airport","Phalodi Air Force Station",27.104866,72.212894,,"AS","IN","IN-RJ",,"no",,,"VIPX",,,"https://en.wikipedia.org/wiki/Phalodi_Air_Force_Station",
+26574,"VIRB","small_airport","Fursatganj Airport",26.248501,81.380501,360,"AS","IN","IN-UP","Tarauna","no",,,"VERB",,,,
+26575,"VISA","medium_airport","Sirsa Air Force Station",29.5606,75.006104,650,"AS","IN","IN-HR",,"no",,,"VISA",,,"https://en.wikipedia.org/wiki/Sirsa_Air_Force_Station",
+26576,"VISM","small_airport","Shimla Airport",31.0818,77.068001,5072,"AS","IN","IN-HP","Jubbarhatti","no","VISM","SLV","VISM",,,"https://en.wikipedia.org/wiki/Shimla_Airport",
+26577,"VISP","small_airport","Sarsawa Air Force Station",29.994303,77.42456,891,"AS","IN","IN-UP","Sherpur Naqeebpur","no",,"SWN","VISP",,,"https://en.wikipedia.org/wiki/Sarsawa_Air_Force_Station","Sarsawan"
+26578,"VISR","large_airport","Srinagar International Airport",33.987099,74.7742,5429,"AS","IN","IN-JK","Srinagar","yes","VISR","SXR","VISR",,,"https://en.wikipedia.org/wiki/Srinagar_Airport","Srinagar Air Force Station"
+26579,"VIST","small_airport","Satna Airport",24.56262,80.852927,1060,"AS","IN","IN-MP",,"no",,"TNI","VEST",,"https://www.aai.aero/en/airports/satna","https://en.wikipedia.org/wiki/Satna_Airport","VIST"
+525168,"VISV","small_airport","Shravasti Airport",27.499732,82.032927,366,"AS","IN","IN-UP","Shravasti","yes","VISV","VSV","VISV",,,"https://en.wikipedia.org/wiki/Shravasti_Airport",
+26580,"VIUT","small_airport","Uttarlai Airport",25.813,71.4823,500,"AS","IN","IN-RJ",,"no",,,"VIUT",,,"https://en.wikipedia.org/wiki/Uttarlai_Air_Force_Station","Uttarlai Air Force Station"
+26581,"VIUX","medium_airport","Udhampur Air Force Station",32.902152,75.155709,2066,"AS","IN","IN-JK","Udhampur","no",,,"VIUX",,,,
+3338,"VO26","small_airport","Kovilpatti Airport",9.15389,77.821198,325,"AS","IN","IN-TN","Nallatinputhur","no",,,"VO26","VO26",,,
+3340,"VO52","small_airport","Harihar Airport",14.534533,75.786879,1750,"AS","IN","IN-KA","Harihar","no",,,"VO52","VO52",,,
+3343,"VO94","medium_airport","Campbell Bay Airport / INS Baaz",7.01304,93.922798,16,"AS","IN","IN-AN","Campbell Bay","no",,,"VOBX",,,,"VO94"
+3344,"VO95","small_airport","Hosur Airport",12.661299705505371,77.76719665527344,3116,"AS","IN","IN-TN",,"no",,,"VO95","VO95",,,
+26601,"VOAR","small_airport","INS Rajali / Arakkonam Naval Air Station",13.0712,79.6912,265,"AS","IN","IN-TN","Arakkonam","no",,,"VOAR",,,"https://en.wikipedia.org/wiki/Arakkonam_Naval_Air_Station","Arkonam, Arakkonam"
+26602,"VOAT","medium_airport","Agatti Airport",10.8237,72.176003,14,"AS","IN","IN-LD","Agatti","yes","VOAT","AGX","VOAT",,,"https://en.wikipedia.org/wiki/Agatti_Aerodrome",
+26603,"VOBG","medium_airport","HAL Airport",12.95,77.668198,2912,"AS","IN","IN-KA","Bangalore","no","VOBG",,"VOBG",,,"https://en.wikipedia.org/wiki/HAL_Bangalore_International_Airport","Bengaluru, Hindustan Airport, HAL Airport, Hindustan Aeronautics"
+26604,"VOBI","medium_airport","Bellary Airport",15.162799835205078,76.88279724121094,30,"AS","IN","IN-KA","Bellary","no","VOBI","BEP","VOBI",,,"https://en.wikipedia.org/wiki/Bellary_Airport","Jindal Vijayanagar, Vijaynagar"
+35145,"VOBL","large_airport","Kempegowda International Airport Bengaluru",13.1979,77.706299,3000,"AS","IN","IN-KA","Bengaluru","yes","VOBL","BLR","VOBL",,"http://www.bengaluruairport.com/home/home.jspx","https://en.wikipedia.org/wiki/Kempegowda_International_Airport","Bangalore"
+26605,"VOBR","medium_airport","Bidar Airport / Bidar Air Force Station",17.9081,77.487099,2178,"AS","IN","IN-KA","Bidar","no","VOBR","IXX","VOBR",,,"https://en.wikipedia.org/wiki/Bidar_Airport",
+26606,"VOBZ","large_airport","Vijayawada International Airport",16.530011,80.804888,82,"AS","IN","IN-AP","Vijayawada","yes","VOBZ","VGA","VOBZ",,"https://www.aai.aero/en/airports/vijayawada","https://en.wikipedia.org/wiki/Vijayawada_Airport",
+26607,"VOCB","large_airport","Coimbatore International Airport",11.03,77.043404,1324,"AS","IN","IN-TN","Coimbatore","yes","VOCB","CJB","VOCB",,"http://www.airportsindia.org.in/allAirports/coimbatore_generalinfo.jsp","https://en.wikipedia.org/wiki/Coimbatore_Airport",
+26608,"VOCC","small_airport","INS Garuda / Willingdon Island Naval Air Station",9.946064,76.271947,8,"AS","IN","IN-KL","Kochi","no",,,"VOCC",,,"https://en.wikipedia.org/wiki/INS_Garuda","RAF Willingdon Island, Gochin, COK, Willingdon Island Air Base"
+26609,"VOCI","large_airport","Cochin International Airport",10.151047,76.400838,30,"AS","IN","IN-KL","Kochi","yes","VOCI","COK","VOCI",,"http://www.cial.aero/","https://en.wikipedia.org/wiki/Cochin_International_Airport","Cochin"
+26610,"VOCL","large_airport","Calicut International Airport",11.135996,75.955152,342,"AS","IN","IN-KL","Calicut","yes","VOCL","CCJ","VOCL",,,"https://en.wikipedia.org/wiki/Calicut_International_Airport",
+26611,"VOCP","medium_airport","Kadapa Airport",14.513154,78.769183,430,"AS","IN","IN-AP","Kadapa","yes","VOCP","CDP","VOCP",,,"https://en.wikipedia.org/wiki/Kadapa_Airport","Cuddapah"
+26612,"VOCX","medium_airport","Car Nicobar Air Force Base",9.153056,92.819273,5,"AS","IN","IN-AN","IAF Camp","no","VOCX","CBD","VOCX",,,"https://en.wikipedia.org/wiki/Car_Nicobar_Air_Force_Base","Carnicobar"
+26613,"VODG","medium_airport","Dundigul Air Force Academy",17.627199173,78.4033966064,2013,"AS","IN","IN-TG","Hyderabad","no",,,"VODG",,,"https://en.wikipedia.org/wiki/Dundigul_Air_Force_Academy",
+342094,"VOGA","large_airport","Manohar International Airport",15.744257,73.860625,552,"AS","IN","IN-GA","Mopa","yes","VOGA","GOX","VOGA",,"https://www.miagoaairport.com/","https://en.wikipedia.org/wiki/Manohar_International_Airport","Mopa International"
+506610,"VOGB","small_airport","Kalaburagi Airport",17.308154,76.965246,1571,"AS","IN","IN-KA","Kalaburagi","yes","VOGB","GBI","VOGB",,,"https://en.wikipedia.org/wiki/Kalaburagi_Airport","Gulbarga"
+26444,"VOGO","large_airport","Goa Dabolim International Airport",15.380062,73.833328,150,"AS","IN","IN-GA","Vasco da Gama","yes","VOGO","GOI","VOGO",,,"https://en.wikipedia.org/wiki/Dabolim_Airport","Goa Airport, Dabolim Navy Airbase, दाबोळी विमानतळ"
+26614,"VOHK","small_airport","Hakimpet Airport",17.553499,78.524902,2020,"AS","IN","IN-TG","Secunderabad","no",,,"VOHK",,,"https://en.wikipedia.org/wiki/Helicopter_Training_School","Hakimpeth Air Force Station, Hakimpet Air Force Station, VO28"
+35141,"VOHS","large_airport","Rajiv Gandhi International Airport",17.231318,78.429855,2024,"AS","IN","IN-TG","Hyderabad","yes","VOHS","HYD","VOHS",,"http://www.hyderabad.aero/","https://en.wikipedia.org/wiki/Rajiv_Gandhi_International_Airport","Shamshabad, Hyderabad"
+26615,"VOHY","medium_airport","Begumpet Airport",17.4531,78.467598,1742,"AS","IN","IN-TG","Hyderabad","no","VOHY","BPM","VOHY",,,"https://en.wikipedia.org/wiki/Begumpet_Airport","Begumpet Air Force Station, HYD, Hyderabad Airport"
+301040,"VOJV","small_airport","Jindal Vijaynagar Airport",15.175921,76.63303,1670,"AS","IN","IN-KA","Toranagallu","no","VOJV","VDY","VOJV",,,"https://en.wikipedia.org/wiki/Jindal_Vijaynagar_Airport","JSW, Vidyanagar, Vijayanagar"
+329504,"VOKN","large_airport","Kannur International Airport",11.916343,75.544979,330,"AS","IN","IN-KL","Kannur","yes","VOKN","CNN","VOKN",,,"https://en.wikipedia.org/wiki/Kannur_International_Airport",
+44630,"VOKP","small_airport","Baldota Koppal Aerodrome",15.359481,76.219411,1700,"AS","IN","IN-KA","Basapur","no",,,"VOKP",,,,
+340146,"VOKU","medium_airport","Kurnool Airport",15.716288,78.16923,920,"AS","IN","IN-AP","Orvakal","yes","VOKU","KJB","VOKU","KJB",,"https://en.wikipedia.org/wiki/Kurnool_Airport","Orvakal"
+26616,"VOMD","medium_airport","Madurai Airport",9.83450984955,78.09339904790001,459,"AS","IN","IN-TN","Madurai","yes","VOMD","IXM","VOMD",,"http://www.airportsindia.org.in/allAirports/madurai_airpo_gi.jsp","https://en.wikipedia.org/wiki/Madurai_Airport","Madurai Air Force Station"
+26617,"VOML","large_airport","Mangaluru International Airport",12.95471,74.886812,337,"AS","IN","IN-KA","Mangaluru","yes","VOML","IXE","VOML",,,"https://en.wikipedia.org/wiki/Mangalore_International_Airport","Bajpe Airport"
+26618,"VOMM","large_airport","Chennai International Airport",12.990005,80.169296,52,"AS","IN","IN-TN","Chennai","yes","VOMM","MAA","VOMM",,,"https://en.wikipedia.org/wiki/Chennai_International_Airport","Madras"
+31996,"VOMY","medium_airport","Mysore Airport",12.229751,76.653683,2349,"AS","IN","IN-KA","Mysore","yes","VOMY","MYQ","VOMY",,,"https://en.wikipedia.org/wiki/Mysore_Airport","Mysuru, Mandakalli airport"
+26619,"VONS","small_airport","Nagarjuna Sagar Airport",16.541574,79.316504,658,"AS","IN","IN-AP","Nagarjuna Sagar","no",,,"VONS",,,"https://en.wikipedia.org/wiki/Nagarjuna_Sagar_Airport",
+42723,"VONV","small_airport","Neyveli Airport",11.612956,79.527382,184,"AS","IN","IN-TN","Neyveli","no","VONV","NVY","VONV",,,"https://en.wikipedia.org/wiki/Neyveli_Airport",
+26620,"VOPB","large_airport","Veer Savarkar International Airport / INS Utkrosh",11.640194,92.72902,13,"AS","IN","IN-AN","Port Blair","yes","VOPB","IXZ","VOPB",,,"https://en.wikipedia.org/wiki/Veer_Savarkar_International_Airport","Port Blair Airport, Port Blair Air Force Station"
+26621,"VOPC","medium_airport","Pondicherry Airport",11.968,79.812,134,"AS","IN","IN-PY","Puducherry (Pondicherry)","yes","VOPC","PNY","VOPC",,,"https://en.wikipedia.org/wiki/Pondicherry_Airport",
+26622,"VOPN","medium_airport","Sri Sathya Sai Airport",14.1492996216,77.7910995483,1558,"AS","IN","IN-AP","Puttaparthi","no","VOPN","PUT","VOPN",,,"https://en.wikipedia.org/wiki/Sri_Sathya_Sai_Airport",
+313997,"VORG","small_airport","Basanth Nagar Airport",18.701,79.3923,670,"AS","IN","IN-TG","Ramagundam","no","VORG","RMD","VORG",,,"https://en.wikipedia.org/wiki/Ramagundam_Airport",
+32591,"VORM","small_airport","Ramnad Naval Air Station",9.32509,78.971497,16,"AS","IN","IN-TN","Ramnad","no",,,"VORM",,,"https://en.wikipedia.org/wiki/INS_Parundu","Ramanathapuram"
+520738,"VORR","small_airport","Raichur Airport",16.279722,77.360278,1230,"AS","IN","IN-KA",,"no",,,"VORR",,,"https://en.wikipedia.org/wiki/Raichur_Airport","Yeramaras"
+26623,"VORY","medium_airport","Rajahmundry Airport",17.105799,81.813204,151,"AS","IN","IN-AP","Madhurapudi","yes","VORY","RJA","VORY",,"http://aai.aero/allAirports/rajahmundry_generalinfo.jsp","https://en.wikipedia.org/wiki/Rajahmundry_Airport",
+26624,"VOSM","medium_airport","Salem Airport",11.78330039978,78.06559753418,1008,"AS","IN","IN-TN","Salem","no","VOSM","SXV","VOSM",,,"https://en.wikipedia.org/wiki/Salem_Airport_(India)",
+26625,"VOSX","small_airport","Coimbatore Air Force Station",11.0136,77.159698,1250,"AS","IN","IN-TN","Sulur","no",,,"VOSX",,,"https://en.wikipedia.org/wiki/Sulur_Air_Force_Station",
+26626,"VOTJ","small_airport","Thanjavur Air Force Station",10.723835,79.109457,253,"AS","IN","IN-TN","Thanjavur","no","VOTJ","TJV","VOTJ",,,"https://en.wikipedia.org/wiki/Thanjavur_Air_Force_Station","Tanjavur, Tanjore Air Force Base"
+3342,"VOTK","small_airport","Tuticorin Airport",8.724241,78.025803,129,"AS","IN","IN-TN","Vagaikulam","yes","VOTK","TCR","VOTK",,,"https://en.wikipedia.org/wiki/Tuticorin_Airport","VO80, Tuticorin Southwest Airport, Thoothukudi"
+26627,"VOTP","large_airport","Tirupati International Airport",13.631988,79.539869,350,"AS","IN","IN-AP","Tirupati","yes","VOTP","TIR","VOTP",,"http://aai.aero/allAirports/tirupati_generalinfo.jsp","https://en.wikipedia.org/wiki/Tirupati_Airport",
+26628,"VOTR","large_airport","Tiruchirappalli International Airport",10.762915,78.717741,288,"AS","IN","IN-TN","Tiruchirappalli","yes","VOTR","TRZ","VOTR",,,"https://en.wikipedia.org/wiki/Tiruchirappalli_International_Airport","Trichy, Trichinopoly, RAF Kajamalai"
+26629,"VOTV","large_airport","Thiruvananthapuram International Airport",8.481889,76.920029,15,"AS","IN","IN-KL","Thiruvananthapuram","yes","VOTV","TRV","VOTV",,"https://www.adani.com/thiruvananthapuram-airport","https://en.wikipedia.org/wiki/Trivandrum_International_Airport","Thiruvananthapuram International Airport, Trivandrum Air Force Station"
+26630,"VOTX","small_airport","Tambaram Air Force Station",12.9072,80.121902,90,"AS","IN","IN-TN","Chennai","no",,,"VOTX",,,"https://en.wikipedia.org/wiki/Tambaram_Air_Force_Station",
+610317,"VOVI","large_airport","Alluri Sitarama Raju International Airport (Vizag)",17.971512,83.503617,188,"AS","IN","IN-AP","Visakhapatnam","yes","VOVI","VTZ","VOVI",,"https://www.asrivizagairport.com","https://en.wikipedia.org/wiki/Alluri_Sitarama_Raju_International_Airport","Vizag, Visakhapatnam"
+32592,"VOVR","small_airport","Vellore Airport",12.9088,79.066803,764,"AS","IN","IN-TN","Vellore","no",,,"VOVR",,,"https://en.wikipedia.org/wiki/Vellore_Airport",
+32647,"VOWA","small_airport","Warangal Airport",17.9144,79.602203,935,"AS","IN","IN-TG","Warangal","no","VOWA","WGC","VOWA",,"http://aai.aero/allAirports/warrangal.jsp","https://en.wikipedia.org/wiki/Warangal_Airport","Mamnoor, Warrangal"
+26631,"VOYK","small_airport","Yelahanka Air Force Station",13.135499954223633,77.60600280761719,3045,"AS","IN","IN-KA","Yelahanka","no",,,"VOYK",,,"https://en.wikipedia.org/wiki/Yelahanka_Air_Force_Station",
