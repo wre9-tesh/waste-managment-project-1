@@ -119,6 +119,10 @@ CRZ_TIDAL_M = 50.0                 # m from tidal creeks, mangroves, tidal flats
 # ---------------------------------------------------------------- critical habitat / eco-fragile (R11)
 ESZ_MIN_M = 1000.0                 # Supreme Court, 3 June 2022 (T.N. Godavarman, IA 1000/2003): minimum 1 km Eco-Sensitive Zone
 ESZ_DEFAULT_M = 10000.0            # MoEFCC 2011 guidelines: 10 km applies where no ESZ is notified -> reported as 'check'
+# Review of the 1-10 km 'check' results: sites confirmed to lie inside the eco-sensitive zone -> breach (student, 26 Sep 2026)
+ESZ_REVIEW = {
+    "JAM-01": ("inside ESZ", "student check 26 Sep: the landfill lies in the eco-sensitive zone of Khijadiya Wildlife Sanctuary (5.4 km)"),
+}
 
 # ---------------------------------------------------------------- flood plain (R8)
 FLOOD_MIN_DEPTH = 0.0              # m; any modelled water depth > 0 in the JRC 100-year map counts as flood plain

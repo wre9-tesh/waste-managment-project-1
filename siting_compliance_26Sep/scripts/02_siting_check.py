@@ -320,10 +320,15 @@ for s in SITES:
         # R11 critical habitat / eco-fragile ------------------------------------------------------
         d, r = nearest(pa_list, out, P)
         v = "breach" if d < C.ESZ_MIN_M else ("check" if d < C.ESZ_DEFAULT_M else "ok")
+        esz_review, esz_note = C.ESZ_REVIEW.get(s, ("", ""))
+        if v == "check" and esz_review == "inside ESZ":      # confirmed inside the eco-sensitive zone
+            v = "breach"
         put("R11", v, round(d / 1000, 2) if np.isfinite(d) else None, unit="km",
             feature=(f"{r['name']}" + (f" ({r['title']})" if r['title'] else "") if r else "none in Gujarat list"),
             basis="OSM protected areas (national parks, sanctuaries, reserves) in Gujarat; inside or < 1 km (minimum ESZ, "
-                  "SC order 3 June 2022) = breach; 1-10 km = check the notified ESZ (10 km default, MoEFCC 2011)")
+                  "SC order 3 June 2022) = breach; 1-10 km = check the notified ESZ (10 km default, MoEFCC 2011); "
+                  "confirmed inside the ESZ (config.ESZ_REVIEW) = breach",
+            extra=dict(esz_review=esz_review, esz_note=esz_note))
         if ep == C.MAIN_EPOCH:
             for x in pa_list:
                 dd = out.distance(P(x["geom"]))

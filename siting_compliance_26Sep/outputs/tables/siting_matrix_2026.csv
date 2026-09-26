@@ -5,7 +5,7 @@ AHM-03,Ahmedabad LF-3,ok,ok,ok,ok,ok,not assessable,conditional,ok,ok,ok,ok,not 
 BHJ-01,Bhuj LF-1,ok,ok,breach,breach,ok,not assessable,breach,ok,ok,ok,ok,not assessable,3,0,7,10,"Highway (NH / SH), Habitation, Airport / airbase",
 BHV-01,Bhavnagar LF-1,ok,ok,ok,ok,ok,not assessable,conditional,breach,ok,ok,ok,not assessable,1,1,8,10,Flood plain (100-year),Airport / airbase
 GNR-01,Gandhinagar LF-1,breach,ok,ok,breach,ok,not assessable,conditional,breach,ok,ok,ok,not assessable,3,1,6,10,"River, Habitation, Flood plain (100-year)",Airport / airbase
-JAM-01,Jamnagar LF-1,ok,ok,breach,breach,ok,not assessable,breach,ok,ok,ok,check,not assessable,3,1,6,10,"Highway (NH / SH), Habitation, Airport / airbase",Critical habitat / eco-fragile area
+JAM-01,Jamnagar LF-1,ok,ok,breach,breach,ok,not assessable,breach,ok,ok,ok,breach,not assessable,4,0,6,10,"Highway (NH / SH), Habitation, Airport / airbase, Critical habitat / eco-fragile area",
 MEH-01,Mehsana LF-1,ok,ok,breach,breach,ok,not assessable,breach,ok,ok,ok,ok,not assessable,3,0,7,10,"Highway (NH / SH), Habitation, Airport / airbase",
 RAJ-01,Rajkot LF-1,ok,ok,ok,ok,ok,not assessable,conditional,ok,ok,ok,ok,not assessable,0,1,9,10,,Airport / airbase
 SUR-01,Surat LF-1 (Bhatar),ok,ok,ok,breach,ok,not assessable,breach,breach,ok,ok,ok,not assessable,3,0,7,10,"Habitation, Airport / airbase, Flood plain (100-year)",
