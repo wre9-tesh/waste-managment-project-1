@@ -7,13 +7,14 @@ Figures (figures/, 200 dpi PNG):
   figS2_breaches_per_site.png        number of rules breached per site (definite + conditional/check)
   figS3_sites_per_rule.png           number of sites breaching each rule
   figS4_distance_vs_limit.png        measured distance vs the legal minimum, six distance rules
-  figS5_site_maps.png                14 site maps on satellite imagery: outline, 100/200 m rings, features
+  figS5_site_maps.png                14 site maps on satellite imagery (landscape, 3 x 5): outline, 100/200 m rings, features
   figS6_2016_vs_2026.png             breaches with the 2016 outline vs the 2026 outline
   outputs/sites/<SITE>/<SITE>_siting_map.png   one larger map per site
 Workbook: outputs/tables/siting_results.xlsx (all tables + rules + data sources)
 KML for Google Earth Pro: outputs/siting_check_layers.kml
 
 Run:  python 03_figures_tables.py
+      python 03_figures_tables.py --s5-from-site-maps   (offline: re-tile figS5 from the per-site maps)
 """
 import json, os, html
 import numpy as np
@@ -313,23 +314,53 @@ def map_legend():
     return h
 
 
-def fig_maps():
-    fig, axes = plt.subplots(4, 4, figsize=(20, 21))
+S5_ROWS, S5_COLS = 3, 5          # landscape: 14 maps + one cell for the key and credits (was 4 x 4 portrait)
+S5_CREDITS = ("Imagery: Esri World Imagery (Maxar, Earthstar Geographics).\n"
+              "Features: OpenStreetMap contributors (ODbL), Overture Maps buildings,\n"
+              "JRC / Copernicus global flood hazard map (100-yr).\n"
+              "Airport and protected-area distances are in figS1 / siting_results.xlsx.")
+
+
+def s5_title(s):
+    b_, c_ = int(m26.loc[s, "breaches"]), int(m26.loc[s, "conditional_or_check"])
+    return f"{s} {SHORT[s]}: {b_} breach{'es' if b_ != 1 else ''}" + (f" (+{c_})" if c_ else "")
+
+
+def s5_layout(draw_site):
+    """Landscape figS5: 3 rows x 5 columns; draw_site(ax, site) fills one map cell."""
+    fig, axes = plt.subplots(S5_ROWS, S5_COLS, figsize=(30, 18.5))
     for ax, s in zip(axes.flat, sorted(m26.index)):
-        gdf = gpd.read_file(os.path.join(C.SITES_OUT, s, f"{s}_layers.geojson"))
-        site_map(ax, s, gdf, small=True)
-    axes.flat[14].axis("off"); axes.flat[15].axis("off")
-    axes.flat[14].legend(handles=map_legend(), loc="center left", frameon=False, fontsize=11)
-    axes.flat[15].text(0.0, 0.5, "Imagery: Esri World Imagery (Maxar, Earthstar Geographics).\n"
-                       "Features: OpenStreetMap contributors (ODbL), Overture Maps buildings,\n"
-                       "JRC / Copernicus global flood hazard map (100-yr).\n"
-                       "Airport and protected-area distances are in figS1 / siting_results.xlsx.",
-                       fontsize=9.5, color=INK2, va="center", transform=axes.flat[15].transAxes)
+        draw_site(ax, s)
+    key = axes.flat[len(m26.index)]; key.axis("off")
+    for ax in axes.flat[len(m26.index) + 1:]: ax.axis("off")
+    key.legend(handles=map_legend(), loc="upper left", bbox_to_anchor=(0.0, 1.02), frameon=False, fontsize=10.5)
+    key.text(0.0, -0.02, S5_CREDITS, fontsize=9, color=INK2, va="top", transform=key.transAxes)
     fig.suptitle("Dumpsites (2026 outline) with the 100 m / 200 m siting rings and the features that set the verdicts",
-                 x=0.01, ha="left", fontsize=15, color=INK)
-    fig.tight_layout(rect=(0, 0, 1, 0.975))
+                 x=0.01, ha="left", fontsize=16, color=INK)
+    fig.tight_layout(rect=(0, 0, 1, 0.97), w_pad=1.0, h_pad=1.6)
     fig.savefig(os.path.join(C.FIG, "figS5_site_maps.png"), dpi=110, bbox_inches="tight")
     plt.close(fig)
+
+
+def fig_maps_from_site_pngs():
+    """Rebuild the landscape figS5 offline from the per-site maps already in outputs/sites/ (they carry the satellite
+    imagery). The map area of each per-site PNG is the axes at [0.01, 0.03, 0.62, 0.9] of the figure (see fig_maps)."""
+    from PIL import Image
+    def draw(ax, s):
+        im = Image.open(os.path.join(C.SITES_OUT, s, f"{s}_siting_map.png")); W, H = im.size
+        ax.imshow(im.crop((round(0.01 * W), round(0.07 * H), round(0.63 * W), round(0.97 * H))))
+        ax.set_xticks([]); ax.set_yticks([])
+        for sp in ax.spines.values(): sp.set_edgecolor("#c3c2b7")
+        ax.set_title(s5_title(s), fontsize=11, color=INK, loc="left")
+    s5_layout(draw)
+
+
+def fig_maps():
+    def draw(ax, s):
+        gdf = gpd.read_file(os.path.join(C.SITES_OUT, s, f"{s}_layers.geojson"))
+        site_map(ax, s, gdf, small=True)
+        ax.set_title(s5_title(s), fontsize=11, color=INK, loc="left")
+    s5_layout(draw)
     for s in sorted(m26.index):
         gdf = gpd.read_file(os.path.join(C.SITES_OUT, s, f"{s}_layers.geojson"))
         fig = plt.figure(figsize=(13, 9))
@@ -449,6 +480,8 @@ if __name__ == "__main__":
     import sys
     if "--maps-only" in sys.argv:
         fig_maps(); print("maps done"); sys.exit()
+    if "--s5-from-site-maps" in sys.argv:           # no internet: re-tile figS5 from outputs/sites/*/<SITE>_siting_map.png
+        fig_maps_from_site_pngs(); print("figS5 rebuilt from the per-site maps"); sys.exit()
     fig_matrix(); fig_per_site(); fig_per_rule(); fig_distance(); fig_epochs()
     print("charts done")
     workbook(); print("workbook done")
