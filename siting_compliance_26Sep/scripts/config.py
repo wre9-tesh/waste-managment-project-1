@@ -13,6 +13,8 @@ SCRIPTS = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(SCRIPTS)                       # ...\Project 1\siting_compliance_26Sep
 PROJECT = os.path.dirname(ROOT)                       # ...\Project 1
 KML = os.path.join(PROJECT, "Locations of landfills in gujurat Completed.kml")   # master outlines
+if not os.path.exists(KML):        # the GitHub copy of the same file is named '... completer.kml'
+    KML = os.path.join(PROJECT, "Locations of landfills in gujurat completer.kml")
 DATA = os.path.join(ROOT, "data")
 RAW = os.path.join(DATA, "raw")                       # downloaded layers (step 01)
 OUT = os.path.join(ROOT, "outputs")
@@ -82,11 +84,12 @@ HAB_MIN_BUILDINGS = 5              # breach if >= 5 RESIDENTIAL building footpri
                                    # industrial/commercial/plant land, and standing on a GHSL 'residential' cell (2018)
 HAB_SENS = (1, 5, 20)              # sensitivity: result with 1, 5 and 20 buildings as the threshold
 # Imagery review of the buildings inside the 200 m ring (Esri World Imagery at zoom 17, 26 Sep 2026, by Claude; TO BE
-# CONFIRMED by the student in Google Earth Pro). 'uncertain' turns an automatic breach into 'check'. Edit and re-run 02.
+# CONFIRMED by the student in Google Earth Pro). 'uncertain' turns an automatic breach into 'check'; 'not residential'
+#                                  gives 'ok' (buildings are not dwellings). AHM-02, AHM-03, SUR-02, VAP-01 set by the student 26 Sep.
 HABITATION_REVIEW = {
     "AHM-01": ("confirmed", "dense housing on the east / south-east edge; industrial units elsewhere (excluded)"),
-    "AHM-02": ("uncertain", "Pirana STP to the west (excluded); small structures to the north and south-east may be sheds or huts"),
-    "AHM-03": ("uncertain", "many small structures in the walled yard just north; may be a waste-handling / scrap yard, not homes"),
+    "AHM-02": ("not residential", "student imagery check 26 Sep: structures within 200 m are not dwellings (Pirana STP to the west, sheds north and south-east)"),
+    "AHM-03": ("not residential", "student imagery check 26 Sep: structures in the walled yard just north are not dwellings (waste-handling / scrap yard)"),
     "BHJ-01": ("confirmed", "houses of the residential area to the south"),
     "BHV-01": ("none", "no buildings inside the 200 m ring"),
     "GNR-01": ("confirmed", "dense cluster of small dwellings along the west edge"),
@@ -94,10 +97,10 @@ HABITATION_REVIEW = {
     "MEH-01": ("confirmed", "houses to the north-west"),
     "RAJ-01": ("none", "structures in the ring are the processing-plant buildings on the east side"),
     "SUR-01": ("confirmed", "most mapped structures are Bhatar STP units, but dense housing lies inside the ring to the south-west"),
-    "SUR-02": ("uncertain", "small cluster south of the southern cell; north side is industrial (excluded)"),
+    "SUR-02": ("not residential", "student imagery check 26 Sep: the cluster south of the southern cell is not residential; north side industrial"),
     "VAD-01": ("likely", "scattered houses / farm buildings to the north and west"),
     "VAD-02": ("confirmed", "apartments and houses to the west and south"),
-    "VAP-01": ("uncertain", "a few small structures to the south-east; industrial buildings excluded"),
+    "VAP-01": ("confirmed", "student imagery check 26 Sep: residential buildings within 200 m to the south-east"),
 }
 TANK_MIN_M2 = 100.0                # footprints >= 100 m2 that are near-circular are tanks / clarifiers / silos, not dwellings
 TANK_COMPACTNESS = 0.88            # 4*pi*A/P^2: circle = 1.0, octagon ~0.95, square 0.785 (houses stay in)

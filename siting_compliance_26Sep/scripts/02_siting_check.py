@@ -238,7 +238,8 @@ for s in SITES:
         n_res = nb_ghsl[1]                                   # residential buildings within 200 m
         auto = "breach" if n_res >= C.HAB_MIN_BUILDINGS else "ok"
         review, rnote = C.HABITATION_REVIEW.get(s, ("not reviewed", ""))
-        v = "check" if (auto == "breach" and review == "uncertain") else auto
+        # imagery review overrides the automatic count: 'not residential' -> ok, 'uncertain' -> check
+        v = "ok" if review == "not residential" else ("check" if (auto == "breach" and review == "uncertain") else auto)
         put("R4", v, fmt_d(d_b),
             feature=f"{n_res} residential buildings within 200 m (of {nb[200]} buildings); nearest building {fmt_d(d_b)} m",
             n_within=n_res,

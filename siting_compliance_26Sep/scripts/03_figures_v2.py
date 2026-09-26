@@ -250,7 +250,8 @@ def site_map(ax, s, imagery, tag=""):
         far = b[~ind & (b.distance_m >= 200)]
         if len(far): far.plot(ax=ax, facecolor="none", edgecolor="#b3b3b3" if not imagery else "#fcfcfb", linewidth=0.2, zorder=5)
         if ind.any(): b[ind & (b.distance_m < 500)].plot(ax=ax, facecolor="none", edgecolor="#b07d00", linewidth=0.3, zorder=5)
-        oth = near_[near_.ghsl_2018 != 1]; cnt = near_[near_.ghsl_2018 == 1]
+        nd_ = C.HABITATION_REVIEW.get(s, ("",))[0] == "not residential"      # imagery review: not dwellings
+        oth = near_[(near_.ghsl_2018 != 1) | nd_]; cnt = near_[(near_.ghsl_2018 == 1) & (not nd_)]
         if len(oth): oth.plot(ax=ax, facecolor="none", edgecolor=STATUS["breach"], linewidth=0.4, zorder=6)
         if len(cnt): cnt.plot(ax=ax, facecolor=STATUS["breach"], edgecolor=STATUS["breach"], linewidth=0.3, zorder=6)
     for k, ls in ((100, (0, (4, 3))), (200, (0, (1.2, 1.8)))):

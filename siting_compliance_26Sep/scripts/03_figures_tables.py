@@ -14,6 +14,7 @@ Workbook: outputs/tables/siting_results.xlsx (all tables + rules + data sources)
 KML for Google Earth Pro: outputs/siting_check_layers.kml
 
 Run:  python 03_figures_tables.py
+      python 03_figures_tables.py --no-maps             (charts, workbook and KML only; no imagery download)
       python 03_figures_tables.py --s5-from-site-maps   (offline: re-tile figS5 from the per-site maps)
 """
 import json, os, html
@@ -274,8 +275,9 @@ def site_map(ax, s, gdf, basemap=True, legend=False, small=False):
         if len(ind):
             ind[ind.distance_m < 500].plot(ax=ax, facecolor="none", edgecolor="#eda100", linewidth=0.6, zorder=5)
         near_ = res[res.distance_m < 200]
-        counted = near_[near_.ghsl_2018 == 1]
-        other = near_[near_.ghsl_2018 != 1]
+        not_dwellings = C.HABITATION_REVIEW.get(s, ("",))[0] == "not residential"   # imagery review: none counted
+        counted = near_[(near_.ghsl_2018 == 1) & (not not_dwellings)]
+        other = near_[(near_.ghsl_2018 != 1) | not_dwellings]
         if len(other):
             other.plot(ax=ax, facecolor="none", edgecolor="#e34948", linewidth=0.8, zorder=6)
         if len(counted):
@@ -415,7 +417,9 @@ def kml_export():
             sub = gdf[gdf.layer == lay]
             if lay == "building":
                 sub = sub[(sub.distance_m < 200) & (~sub.in_industrial_zone.astype(bool))].copy()
-                sub["name"] = np.where(sub.ghsl_2018 == 1, "residential building (counted)", "other building (not counted)")
+                nd = C.HABITATION_REVIEW.get(s, ("",))[0] == "not residential"
+                sub["name"] = np.where((sub.ghsl_2018 == 1) & (not nd), "residential building (counted)",
+                                       "not a dwelling (imagery review)" if nd else "other building (not counted)")
             if not len(sub):
                 continue
             parts.append(f"<Folder><name>{lay}</name>")
@@ -486,4 +490,5 @@ if __name__ == "__main__":
     print("charts done")
     workbook(); print("workbook done")
     kml_export(); print("kml done")
-    fig_maps(); print("maps done")
+    if "--no-maps" not in sys.argv:                 # maps need the Esri imagery tiles (internet)
+        fig_maps(); print("maps done")

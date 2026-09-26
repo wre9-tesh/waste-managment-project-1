@@ -1,7 +1,7 @@
 site,name,outline_2026_ha,river_m,pond_m,highway_m,highway_strict_m,habitation_m,buildings_within_200m,habitation_review,park_m,airport_km,airport_boundary_km,airport,flood_overlap_pct,crz_screen_m,wetland_m,protected_area_km,protected_area
 AHM-01,Ahmedabad LF-1 (Pirana),29.9,959.7,603.5,28.4,28.4,30.7,390,confirmed,1357.0,11.86,9.64,"Sardar Vallabhbhai Patel International Airport (VAAH; airport, scheduled flights)",83.6,,2461.2,85.87,Wild Ass WLS
-AHM-02,Ahmedabad LF-2,8.17,1117.9,947.0,281.6,626.8,34.4,48,uncertain,2533.6,14.29,12.07,"Sardar Vallabhbhai Patel International Airport (VAAH; airport, scheduled flights)",0.0,,3259.8,84.65,Wild Ass WLS
-AHM-03,Ahmedabad LF-3,8.54,645.5,,699.5,699.5,44.8,146,uncertain,,15.57,13.35,"Sardar Vallabhbhai Patel International Airport (VAAH; airport, scheduled flights)",0.0,,,84.42,Wild Ass WLS
+AHM-02,Ahmedabad LF-2,8.17,1117.9,947.0,281.6,626.8,34.4,48,not residential,2533.6,14.29,12.07,"Sardar Vallabhbhai Patel International Airport (VAAH; airport, scheduled flights)",0.0,,3259.8,84.65,Wild Ass WLS
+AHM-03,Ahmedabad LF-3,8.54,645.5,,699.5,699.5,44.8,146,not residential,,15.57,13.35,"Sardar Vallabhbhai Patel International Airport (VAAH; airport, scheduled flights)",0.0,,,84.42,Wild Ass WLS
 BHJ-01,Bhuj LF-1,6.65,2128.9,1950.8,30.4,30.4,27.7,140,confirmed,3180.0,3.59,3.31,"Bhuj Rudra Mata Air Force Base (VABJ; airport, scheduled flights; military use)",0.0,,,25.73,Kachchh Desert WLS
 BHV-01,Bhavnagar LF-1,14.77,2210.6,2560.8,1698.0,1698.0,147.4,0,none,,10.72,10.01,"Bhavnagar Airport (VABV; airport, scheduled flights)",100.0,996.1,996.1,22.6,Blackbuck National Park Velavadar
 GNR-01,Gandhinagar LF-1,12.57,2.2,,576.7,576.7,20.5,223,confirmed,1373.0,19.59,17.69,"Sardar Vallabhbhai Patel International Airport (VAAH; airport, scheduled flights)",12.2,,,96.25,Wild Ass WLS
@@ -9,7 +9,7 @@ JAM-01,Jamnagar LF-1,2.78,1937.5,,190.9,190.9,24.9,83,confirmed,,9.67,8.14,"Jamn
 MEH-01,Mehsana LF-1,2.77,130.8,1424.4,37.0,37.0,42.3,24,confirmed,1578.4,2.45,2.23,Mehsana Airport (no code; airstrip),0.0,,,76.43,Balaram Ambaji WLS (Wildlife Reserve)
 RAJ-01,Rajkot LF-1,28.03,3318.2,572.1,,,20.3,4,none,,10.75,9.61,"Rajkot Airport (VARK; airport, no scheduled flights)",0.0,,,17.43,Rampara WLS
 SUR-01,Surat LF-1 (Bhatar),0.41,137.6,1974.6,768.3,2283.1,21.7,75,confirmed,1384.9,8.75,6.24,"Surat Airport (VASU; airport, scheduled flights)",100.0,,,72.41,Purna WLS
-SUR-02,Surat LF-2 (Khajod),31.19,677.3,158.1,861.2,861.2,21.8,33,uncertain,1214.1,6.17,4.63,"Surat Airport (VASU; airport, scheduled flights)",100.0,,,72.01,Purna WLS
+SUR-02,Surat LF-2 (Khajod),31.19,677.3,158.1,861.2,861.2,21.8,33,not residential,1214.1,6.17,4.63,"Surat Airport (VASU; airport, scheduled flights)",100.0,,,72.01,Purna WLS
 VAD-01,Vadodara LF-1,12.88,0.0,148.0,52.6,52.6,22.2,113,likely,471.0,11.4,10.02,"Vadodara Green Airport Harni (VABO; airport, scheduled flights; military use)",98.7,,,27.83,Vadhvana Wetlands
 VAD-02,Vadodara LF-2 (Atladara),0.73,469.5,1873.2,316.4,2869.2,22.4,120,confirmed,882.8,8.72,7.17,"Vadodara Green Airport Harni (VABO; airport, scheduled flights; military use)",82.1,,,33.4,Vadhvana Wetlands
-VAP-01,Vapi LF-1,1.4,2.1,791.4,1473.7,1473.7,73.7,7,uncertain,,8.52,7.73,"Daman Airport (VADN; airport, no scheduled flights; military use)",51.1,,2710.9,19.78,Dadra & Nagar Haveli WLS
+VAP-01,Vapi LF-1,1.4,2.1,791.4,1473.7,1473.7,73.7,7,confirmed,,8.52,7.73,"Daman Airport (VADN; airport, no scheduled flights; military use)",51.1,,2710.9,19.78,Dadra & Nagar Haveli WLS
