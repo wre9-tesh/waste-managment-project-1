@@ -30,3 +30,9 @@ reproduces the exact numbers (OSM and Overture change over time).
 
 Habitation (R4) includes an imagery review stored in `scripts/config.py` (HABITATION_REVIEW); confirm the four
 'uncertain' sites in Google Earth Pro and edit / re-run step 02 if needed.
+
+## Version 2 figures (Nature Reviews artwork guide)
+`python 03_figures_v2.py` (after step 02) writes `figures_v2/`: FigS1-FigS6 as vector PDF + 300 dpi PNG, each panel alone in
+`figures_v2/panels/`, and `caption_notes.md`. Same numbers as figS1-S6; 8 pt text, no in-figure titles, units on every axis,
+no abbreviations, symbols as well as colours for verdicts. FigS5 (site maps) is landscape (210 x 98 mm); it adds Esri imagery
+when the tiles can be downloaded and is vector-only otherwise (`--no-imagery` forces vector-only).
